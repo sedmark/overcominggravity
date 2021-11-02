@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN"
+"glossgroup.dtd">
+<glossgroup id="sl-medicglossary">
+  <title>Медицинские термины</title>
+
+  <glossentry id="sl-medicglossary-chronmusctight">
+    <glossterm>Chronic muscle tightness</glossterm>
+    <glossdef>Хронический мышечный тонус. Хроническая мышечная закрепощенность.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-clicking">
+    <glossterm>Clicking</glossterm>
+    <glossdef>Треск, щелканье в суставах.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-deep soreness">
+    <glossterm>Deep soreness</glossterm>
+    <glossdef>Глубокая мышечная боль.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-anametabol">
+    <glossterm>Анаэробный метаболизм (гликолиз) </glossterm>
+    <glossdef>Обмен веществ в организме без участия кислорода.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-innervation">
+    <glossterm>Иннервация </glossterm>
+    <glossdef>Снабжение органов и тканей нервами для обеспечения их связи с центральной нервной системой.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-mitochondria">
+    <glossterm>Митохондрии</glossterm>
+    <glossdef>Специальные структуры внутри клетки, которые отвечают за выработку энергии для мышечных сокращений.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-motoneuron">
+    <glossterm>Мотонейрон</glossterm>
+    <glossdef>Крупная нервная клетка в передних рогах спинного мозга. Мотонейроны обеспечивают моторную координацию и поддержание мышечного тонуса.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-motoplan">
+    <glossterm>Моторное планирование</glossterm>
+    <glossdef>Планирование незнакомой последовательность движений.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-propriocept">
+    <glossterm>Проприоцепция</glossterm>
+    <glossdef>Ощущение положения частей собственного тела относительно друг друга и в пространстве.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+
+</glossgroup>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN"
+"glossgroup.dtd">
+<glossgroup id="sl-sportglossary">
+  <title>Спортивные термины</title>
+
+  <glossentry id="sl-sportglossary-1rm">
+    <glossterm>1ПМ</glossterm>
+    <glossdef>Одноповторный максимум. Максимальный вес, который атлет может поднять не более одного раза.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-airsquat">
+    <glossterm>Air Squat</glossterm>
+    <glossdef>Приседания без поддержки, «в воздухе».</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-backlever">
+    <glossterm>Back lever</glossterm>
+    <glossdef>Горизонтальный вис сзади.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-backsquats">
+    <glossterm>Back squats</glossterm>
+    <glossdef>Приседания со штангой на спине (плечах).</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-benchpress">
+    <glossterm>Bench press</glossterm>
+    <glossdef>Жим лежа.</glossdef>
+  
+  <glossentry id="sl-sportglossary-bentoverrows ">
+    <glossterm>Bent over rows </glossterm>
+    <glossdef>Тяга к поясу.</glossdef>
+  
+  <glossentry id="sl-sportglossary-bicepscurls">
+    <glossterm>Biceps curls</glossterm>
+    <glossdef>Подъем на бицепс.</glossdef>
+  
+  <glossentry id="sl-sportglossary-conditioning">
+    <glossterm>Сonditioning</glossterm>
+    <glossdef>Физическая подготовка.</glossdef>
+  
+  <glossentry id="sl-sportglossary-continuum">
+    <glossterm>Continuum</glossterm>
+    <glossdef>Последовательность непрерывных значений чего-либо, например, силовых нагрузок.</glossdef>
+  
+  <glossentry id="sl-sportglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  
+  <glossentry id="sl-sportglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  
+  <glossentry id="sl-sportglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  
+  <glossentry id="sl-sportglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  
+  <glossentry id="sl-sportglossary-">
+    <glossterm></glossterm>
+    <glossdef></glossdef>
+  
+</glossgroup>
