@@ -178,12 +178,14 @@ Back extension Ч гиперэкстензи€
 Bar muscle up  Ч выход силой на перекладине
 Box jump Ч запрыгивание на бокс
 Broad jump Ч прыжок в длину
+
 Burpee Ч берпи или бурпи
 Deficit push-up Ч отжимани€ с дефицитом
 GHD sit-up Ч ситапы на тренажере гиперэкстензии
 Handstand Ч стойка на руках
 Handstand push-up Ч отжимани€ в стойке на руках
 Handstand walk Ч ходьба на руках
+
 Pistol Ч приседани€ на одной ноге, УпистолетФ
 Plank Ч планка
 Pull-up Ч подт€гивани€
