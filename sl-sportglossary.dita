@@ -99,6 +99,11 @@
     <glossdef>Задний вис. <q>Немецкий</q> вис</glossdef>
   </glossentry>
 
+  <glossentry id="sl-sportglossary-gobletsquat">
+    <glossterm>Goblet squat</glossterm>
+    <glossdef>Приседания с гирей перед собой</glossdef>
+  </glossentry>
+  
   <glossentry id="sl-sportglossary-goodmorning">
     <glossterm>Good morning</glossterm>
     <glossdef>Наклон с весом на спине</glossdef>
@@ -287,6 +292,11 @@
   <glossentry id="sl-sportglossary-Sumodeadlifthighpull">
     <glossterm>Sumo deadlift high pull</glossterm>
     <glossdef>Становая тяга сумо до подбородка</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-swing">
+    <glossterm>Swing</glossterm>
+    <glossdef>Махи гирей</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-thruster">
