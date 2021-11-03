@@ -11,42 +11,52 @@
 		  <glossAcronym>1ПМ</glossAcronym>
 		</glossAlt>
 	</glossBody>
-	<glossdef>Одноповторный максимум. Максимальный вес, который атлет может поднять не более одного раза.</glossdef>
+	<glossdef>Одноповторный максимум. Максимальный вес, который атлет может поднять не более одного раза</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-airsquat">
     <glossterm>Air Squat</glossterm>
-    <glossdef>Приседание без поддержки, «в воздухе».</glossdef>
+    <glossdef>Приседание без поддержки, «в воздухе»</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-backlever">
     <glossterm>Back lever</glossterm>
-    <glossdef>Горизонтальный вис сзади.</glossdef>
+    <glossdef>Горизонтальный вис сзади</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-backsquats">
     <glossterm>Back squat</glossterm>
-    <glossdef>Приседание со штангой на спине (плечах).</glossdef>
+    <glossdef>Приседание с весом на спине (плечах)</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-benchpress">
     <glossterm>Bench press</glossterm>
-    <glossdef>Жим лежа.</glossdef>
+    <glossdef>Жим лежа</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-bentoverrows ">
     <glossterm>Bent over row</glossterm>
-    <glossdef>Тяга к поясу.</glossdef>
+    <glossdef>Тяга к поясу</glossdef>
   </glossentry>
   
   <glossentry id="sl-sportglossary-bicepscurls">
     <glossterm>Biceps curl</glossterm>
-    <glossdef>Подъем на бицепс.</glossdef>
+    <glossdef>Подъем на бицепс</glossdef>
   </glossentry>
   
+  <glossentry id="sl-sportglossary-cleanandjerk">
+    <glossterm>Clean & Jerk</glossterm>
+    <glossdef>Толчок в тяжелой атлетике</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-cluster">
+    <glossterm>Cluster</glossterm>
+    <glossdef>Кластер. Сложное упражнение, включающее взятие веса на грудь с пола и трастер</glossdef>
+  </glossentry>
+
   <glossentry id="sl-sportglossary-conditioning">
     <glossterm>Сonditioning</glossterm>
-    <glossdef>Физическая подготовка.</glossdef>
+    <glossdef>Физическая подготовка</glossdef>
   </glossentry>
   
   <glossentry id="sl-sportglossary-continuum">
@@ -56,117 +66,152 @@
 		  <glossAcronym>Континуум</glossAcronym>
 		</glossAlt>
 	</glossBody>
-    <glossdef>Линейка последовательных значений чего-либо, например, силовых нагрузок от легких до тяжелых.</glossdef>
+    <glossdef>Линейка последовательных значений чего-либо, например, силовых нагрузок от легких до тяжелых</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-deadlift">
+    <glossterm>Deadlift</glossterm>
+    <glossdef>Становая тяга</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-dips">
     <glossterm>Dips</glossterm>
-    <glossdef>Вертикальные отжимания.</glossdef>
+    <glossdef>Вертикальные отжимания</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-fig">
     <glossterm>FIG COP</glossterm>
-    <glossdef>Правил судейства Международной Федерации Гимнастики.</glossdef>
+    <glossdef>Правил судейства Международной Федерации Гимнастики</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-frontsquats">
     <glossterm>Front squats</glossterm>
-    <glossdef>Приседания со штангой на груди.</glossdef>
+    <glossdef>Приседания с весом на груди</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-frontlever">
     <glossterm>Front lever</glossterm>
-    <glossdef>Горизонтальный вис спереди.</glossdef>
+    <glossdef>Горизонтальный вис спереди</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-germanhang">
     <glossterm>German hang</glossterm>
-    <glossdef>Задний вис. <q>Немецкий</q> вис.</glossdef>
+    <glossdef>Задний вис. <q>Немецкий</q> вис</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-goodmorning">
+    <glossterm>Good morning</glossterm>
+    <glossdef>Наклон с весом на спине</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-grossmovements">
     <glossterm>Gross movements</glossterm>
-    <glossdef>Упражнения на большие мышцы. Многосуставные движения. <q>Грубые движения</q>.</glossdef>
+    <glossdef>Упражнения на большие мышцы. Многосуставные движения. <q>Грубые движения</q></glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-handstand">
     <glossterm>Handstand</glossterm>
-    <glossdef>Стойка на руках.</glossdef>
+    <glossdef>Стойка на руках</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-handstandpress">
     <glossterm>Handstand press</glossterm>
-    <glossdef>Отжимание в стойке на руках.</glossdef>
+    <glossdef>Отжимание в стойке на руках</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-hangpowerclean">
+    <glossterm>Hang power clean</glossterm>
+    <glossdef>Силовой подъем штанги с виса</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-hangpowersnatch">
+    <glossterm>Hang power snatch</glossterm>
+    <glossdef>Силовой рывок штанги с виса</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-hangsquatclean">
+    <glossterm>Hang squat clean</glossterm>
+    <glossdef>Подъем на грудь в сед с виса</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-invertedcross">
     <glossterm>Inverted cross</glossterm>
-    <glossdef>Обратный (перевернутый) крест.</glossdef>
+    <glossdef>Обратный (перевернутый) крест</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-invertedpullup">
     <glossterm>Inverted pullup</glossterm>
-    <glossdef>Перевернутое подтягивание. Подтягивание вниз головой.</glossdef>
+    <glossdef>Перевернутое подтягивание. Подтягивание вниз головой</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-ironcross">
     <glossterm>Iron cross</glossterm>
-    <glossdef>Упор на кольцах руки в стороны. Крест.</glossdef>
+    <glossdef>Упор на кольцах руки в стороны. Крест</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-jerk">
+    <glossterm>Jerk</glossterm>
+    <glossdef>Толчок в <q>ножницы</q></glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-lsit">
     <glossterm>L-sit</glossterm>
-    <glossdef>L-уголок.</glossdef>
+    <glossdef>L-уголок</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-lsdrunning">
     <glossterm>LSD running</glossterm>
-    <glossdef>Длительная медленная тренировка.</glossdef>
+    <glossdef>Длительная медленная тренировка</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-levelofability">
     <glossterm>Level of ability</glossterm>
-    <glossdef>Уровень физической подготовки.</glossdef>
+    <glossdef>Уровень физической подготовки</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-maltese">
     <glossterm>Maltese</glossterm>
-    <glossdef>Упражнение на кольцах <q>Мальтийский крест</q>. В русской классификации — <q>Самолет</q>.</glossdef>
+    <glossdef>Упражнение на кольцах <q>Мальтийский крест</q>. В русской классификации — <q>Самолет</q></glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-manna">
     <glossterm>Manna</glossterm>
-    <glossdef>Упражнение <q>Угол Манна</q>.</glossdef>
+    <glossdef>Упражнение <q>Угол Манна</q></glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-muscleup">
     <glossterm>Muscle up</glossterm>
-    <glossdef>Выход силой. Силовой выход в упор на кольцах или перекладине.</glossdef>
+    <glossdef>Выход силой. Силовой выход в упор на кольцах или перекладине</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-onearmdumbbellrow">
     <glossterm>One arm dumbbell row</glossterm>
-    <glossdef>Тяга гантели в наклоне.</glossdef>
+    <glossdef>Тяга гантели в наклоне</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-onearmpullup">
     <glossterm>One arm pullup</glossterm>
-    <glossdef>Подтягивание на одной руке.</glossdef>
+    <glossdef>Подтягивание на одной руке</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-overheadpress">
     <glossterm>Overhead press</glossterm>
-    <glossdef>Жим веса над головой.</glossdef>
+    <glossdef>Жим веса над головой</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-overheadsquat">
     <glossterm>Overhead squat</glossterm>
-    <glossdef>Приседание с весом над головой.</glossdef>
+    <glossdef>Приседание с весом над головой</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-overheadwalk">
+    <glossterm>Overhead walk</glossterm>
+    <glossdef>Ходьба с весом над головой</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-overuse">
     <glossterm>Overuse</glossterm>
-    <glossdef>Перегрузка.</glossdef>
+    <glossdef>Перегрузка</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-planche">
@@ -176,47 +221,87 @@
 
   <glossentry id="sl-sportglossary-posture">
     <glossterm>Posture</glossterm>
-    <glossdef>Поза. Осанка.</glossdef>
+    <glossdef>Поза. Осанка</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-powerclean">
     <glossterm>Power clean</glossterm>
-    <glossdef>Силовой подъем веса на грудь.</glossdef>
+    <glossdef>Силовой подъем веса на грудь</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-powersnatch">
+    <glossterm>Power snatch</glossterm>
+    <glossdef>Силовой рывок веса</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-pullup">
     <glossterm>Pullup</glossterm>
-    <glossdef>Вертикальное подтягивание.</glossdef>
+    <glossdef>Вертикальное подтягивание</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-pushpress">
+    <glossterm>Push press</glossterm>
+    <glossdef>Жимовый швунг</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-pushup">
     <glossterm>Pushup</glossterm>
-    <glossdef>Горизонтальное отжимание.</glossdef>
+    <glossdef>Горизонтальное отжимание</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-rowing">
     <glossterm>Rowing</glossterm>
-    <glossdef>Горизонтальное подтягивание. <q>Гребля</q>.</glossdef>
+    <glossdef>Горизонтальное подтягивание. <q>Гребля</q></glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-routine">
     <glossterm>Routine</glossterm>
-    <glossdef>Группа гимнастических упражнений. Комплекс упражнений.</glossdef>
+    <glossdef>Группа гимнастических упражнений. Комплекс упражнений</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-shoulderadduction">
     <glossterm>Shoulder adduction</glossterm>
-    <glossdef>Приведение плеча. Аддукция плеча.</glossdef>
+    <glossdef>Приведение плеча. Аддукция плеча</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-shoulderpress">
+    <glossterm>Shoulder press</glossterm>
+    <glossdef>Жим стоя</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-skills">
     <glossterm>Skills</glossterm>
-    <glossdef>Освоенные упражнения. Навыки.</glossdef>
+    <glossdef>Освоенные упражнения. Навыки</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-snatch">
+    <glossterm>Snatch</glossterm>
+    <glossdef>Рывок</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-snatchbalance">
+    <glossterm>Snatch balance</glossterm>
+    <glossdef>Рывковое приседание</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-Sumodeadlifthighpull">
+    <glossterm>Sumo deadlift high pull</glossterm>
+    <glossdef>Становая тяга сумо до подбородка</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-thruster">
+    <glossterm>Thruster</glossterm>
+    <glossdef>Трастер. Выброс</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-turkishgetup">
+    <glossterm>Turkish get-up</glossterm>
+    <glossdef>Турецкий подъем</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-vsit">
     <glossterm>V-sit</glossterm>
-    <glossdef>Высокий угол. V-уголок.</glossdef>
+    <glossdef>Высокий угол. V-уголок</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-victorian">
@@ -226,13 +311,18 @@
 
   <glossentry id="sl-sportglossary-weightedpullup">
     <glossterm>Weighted pullup</glossterm>
-    <glossdef>Подтягивание с отягощением.</glossdef>
+    <glossdef>Подтягивание с отягощением</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-widegrippullup">
     <glossterm>Wide grip pullup</glossterm>
-    <glossdef>Подтягивание широким хватом.</glossdef>
+    <glossdef>Подтягивание широким хватом</glossdef>
   </glossentry>
+
+
+<!-- 
+______________________________________________________________
+-->
 
 <!--  
   <glossentry id="sl-sportglossary-">
