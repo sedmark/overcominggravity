@@ -16,17 +16,16 @@ continuum Ч континуум
 conditioning Ч физическа€ подготовка
 chronic muscle tightness Ч хронический мышечный тонус (хроническа€ мышечна€ закрепощенность)
 deep soreness Ч глубока€ мышечна€ боль
-
 Delayed onset muscle soreness (DOMS) Ч синдром отсроченной мышечной боли
 dips Ч вертикальные отжимани€
-external rotators Ч мышца-вращатель
+external rotator Ч мышца-вращатель
 FIG COP Ч ѕравил судейства ћеждународной ‘едерации √имнастики
 firing rate Ч частота пульсации (нейрона), частота спайкового разр€да
 front squats Ч приседани€ со штангой на груди
 front lever Ч горизонтальный вис спереди
 gamma motor neuron Ч гамма-мотонейрон
 german hang Ч немецкий вис (задний вис)
-Gross movements Ч are big body movements relating to the use of the large muscles of the human body, such as those in the legs, arms, and abdomen.
+Gross movements Ч are big body movements relating to the use of the large muscles of the human body, such as those in the legs, arms, and abdomen. Gross movements are multi-joint movements. 
 handstands Ч стойка на руках
 handstand presses Ч отжимани€ в стойке на руках
 inverted cross Ч обратный (перевернутый) крест
@@ -87,7 +86,7 @@ inferior omohyoid Ч нижн€€ лопаточно-подъ€зычна€ мышца
 Inflammation Ч воспаление
 inflammatory phase Ч стади€ воспалени€
 infraspinatus Ч подостна€ мыцша
-joint Ч суста, св€зка
+joint Ч сустав, св€зка
 joint capsule Ч суставна€ сумка
 levator scapula Ц мышца, поднимающа€ лопатку
 ligaments Ч св€зки
@@ -138,7 +137,7 @@ thoracic Ч грудной, торакальный
 throat Ч горло
 torn tendons Ч разрыв сухожилий 
 trapezius Ч трапециевидна€ мышца
-triceps brachii Ч треглава€ мышца плеча, трицепс
+triceps brachii Ч трехглава€ мышца плеча, трицепс
 trigger point Ч триггерна€ точка, триггерна€ зона
 
 ”пражнени€ со штангой
@@ -171,6 +170,7 @@ Swing Ч махи гирей
 Goblet squat Ч приседани€ с гирей перед собой
 Kettlebell snatch Ч рывок гири
 Kettlebell clean Ч подъем гири на грудь
+
 √имнастика и базовые упражнени€
 Air squat Ч воздушные приседани€
 Back extension Ч гиперэкстензи€
