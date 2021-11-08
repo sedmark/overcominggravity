@@ -72,6 +72,11 @@
     <glossdef>Ключица</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-chiropractor">
+    <glossterm>Chiropractor</glossterm>
+    <glossdef>Хиропрактик, костоправ, мануальный терапевт</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-chronmusctight">
     <glossterm>Chronic muscle tightness</glossterm>
     <glossdef>Хронический мышечный тонус. Хроническая мышечная закрепощенность</glossdef>
