@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd" []>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="bookmap-1" xml:lang="ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.1">
+  <title>Преодолевая гравитацию</title>
+  <bookmeta>
+    <author type="creator">Steven Low</author>
+    <author type="contributor">Dmitry Semenov, translator</author>
+  </bookmeta>
+  <part/>
+  <part>
+    <chapter>
+      <topicref href="ch15/og-ch15.ditamap" format="ditamap"/>
+    </chapter>
+  </part>
+</bookmap>

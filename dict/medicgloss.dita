@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. -->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" []>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="medicgloss" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd:1.1">
+  <title>Медицинско-анатомический словарь</title>
+  <body>
+    <dl>
+      <dlentry>
+        <dt>Термин</dt>
+        <dd>Определение</dd>
+      </dlentry>
+	
+	  <dlentry id="sl-medicglossary-ac">
+		<dt>Acromioclavicular (AC)</dt>
+		<dd>Акромиально-ключичная связка</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-acromion">
+		<dt>Acromion</dt>
+		<dd>Акромион</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-aggravation">
+		<dt>Aggravation</dt>
+		<dd>Обострение</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-anametabol">
+		<dt>Anaerobic metabolism</dt>
+		<dd>Анаэробный метаболизм, гликолиз. Обмен веществ в организме без участия кислорода</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-anklesprain">
+		<dt>Ankle sprain</dt>
+		<dd>Растяжение голеностопа</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-anteriorrib">
+		<dt>Anterior rib</dt>
+		<dd>Задняя часть ребра</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-anteriorshoulder">
+		<dt>Anterior shoulder</dt>
+		<dd>Передние мышцы плеча</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-antiinflammatorymedication">
+		<dt>Anti-inflammatory medication</dt>
+		<dd>Противовоспалительное лечение</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-bicepsbrachii">
+		<dt>Biceps brachii</dt>
+		<dd>Двуглавая мышца плеча, бицепс</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-brachii">
+		<dt>Brachii</dt>
+		<dd>Плечо</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-cartilage">
+		<dt>Cartilage</dt>
+		<dd>Хрящ</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-clavicle">
+		<dt>Clavicle</dt>
+		<dd>Ключица</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-chiropractor">
+		<dt>Chiropractor</dt>
+		<dd>Хиропрактик, костоправ, мануальный терапевт</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-chronmusctight">
+		<dt>Chronic muscle tightness</dt>
+		<dd>Хронический мышечный тонус. Хроническая мышечная закрепощенность</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-clicking">
+		<dt>Clicking</dt>
+		<dd>Треск, щелканье в суставах</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-coracobrachialis">
+		<dt>Coracobrachialis</dt>
+		<dd>Клювовидно-плечевая мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-deep soreness">
+		<dt>Deep soreness</dt>
+		<dd>Глубокая мышечная боль</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-doms">
+		<dt>Delayed onset muscle soreness (DOMS)</dt>
+		<dd>Синдром отсроченной мышечной боли</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-edema">
+		<dt>Edema</dt>
+		<dd>Отек</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-extrotator">
+		<dt>External rotator</dt>
+		<dd>Мышца-вращатель</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-fasttwitch">
+		<dt>Fast twitch</dt>
+		<dd>Быстросокращающиеся мышечные волокна</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-sportglossary-firingrate">
+		<dt>Firing rate</dt>
+		<dd>Частота пульсации (нейрона), частота спайкового разряда</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-fractures">
+		<dt>Fractures</dt>
+		<dd>Перелом. Трещина</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-frontrib">
+		<dt>Front rib</dt>
+		<dd>Передняя часть ребра</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-gammamotorneuron">
+		<dt>Gamma motor neuron</dt>
+		<dd>Гамма-мотонейрон</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-glenohumeral">
+		<dt>Glenohumeral (GH)</dt>
+		<dd>Суставно-плечевая связка, плечевой сустав</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-healing">
+		<dt>Healing</dt>
+		<dd>Исцеление</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-hypoxic">
+		<dt>Hypoxic</dt>
+		<dd>Гипоксический, гипоксичный. Связанный с кислородным голоданием</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-humerus">
+		<dt>Humerus</dt>
+		<dd>Плечо, плечевая кость</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-immuneresponse">
+		<dt>Immune response</dt>
+		<dd>Иммунная реакция, иммунный ответ</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-inferioromohyoid">
+		<dt>Inferior omohyoid</dt>
+		<dd>Нижняя лопаточно-подъязычная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-inflammation">
+		<dt>Inflammation</dt>
+		<dd>Воспаление</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-inflammatoryphase">
+		<dt>Inflammatory phase</dt>
+		<dd>Стадия воспаления</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-infraspinatus">
+		<dt>Infraspinatus</dt>
+		<dd>Подостная мыцша</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-innervation">
+		<dt>Innervation</dt>
+		<dd>Иннервация. Снабжение органов и тканей нервами для обеспечения их связи с центральной нервной системой</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-joint">
+		<dt>Joint</dt>
+		<dd>Сустав, связка</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-jointcapsule">
+		<dt>Joint capsule</dt>
+		<dd>Суставная сумка</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-levatorscapula">
+		<dt>Levator scapula</dt>
+		<dd>Мышца, которая поднимает лопатку</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-ligament">
+		<dt>Ligament</dt>
+		<dd>Связка</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-lumbar">
+		<dt>Lumbar</dt>
+		<dd>Поясница</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-lateralthoracic">
+		<dt>Lateral thoracic</dt>
+		<dd>Боковой грудной, латеральный грудной</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-latissimusdorsi">
+		<dt>Latissimus dorsi</dt>
+		<dd>Широчайшая мышца спины, латиссимус дорси</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-medialepicondylitis">
+		<dt>Medial epicondylitis</dt>
+		<dd>Медиальный эпикондилит, <q>локоть гольфиста</q></dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-metaboliteaccumulation">
+		<dt>Metabolite accumulation</dt>
+		<dd>Накопление метаболитов</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-mitochondria">
+		<dt>Mitochondria</dt>
+		<dd>Митохондрии, специальные структуры внутри клетки, которые отвечают за выработку энергии для мышечных сокращений</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-motorcortex">
+		<dt>Motor cortex</dt>
+		<dd>Двигательная зона коры головного мозга</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-motoneuron">
+		<dt>Motor neuron</dt>
+		<dd>Мотонейрон. Крупная нервная клетка в передних рогах спинного мозга. Мотонейроны обеспечивают моторную координацию и поддержание мышечного тонуса</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-motoplan">
+		<dt>Motor planning</dt>
+		<dd>Моторное планирование. Планирование незнакомой последовательность движений</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-musculoskeletalsystem">
+		<dt>Musculoskeletal system</dt>
+		<dd>Костно-мышечная система, опорно-двигательный аппарат</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-noxiousstimulus">
+		<dt>Noxious stimulus</dt>
+		<dd>Болевой раздражитель</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-occlusion">
+		<dt>Occlusion</dt>
+		<dd>Закупорка сосудов, окклюзия</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-pectoralismajor">
+		<dt>Pectoralis major</dt>
+		<dd>Большая грудная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-pectoralisminor">
+		<dt>Pectoralis minor</dt>
+		<dd>Малая грудная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-physicaltherapist">
+		<dt>Physical therapist</dt>
+		<dd>Физиотерапевт, физиатр</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-popping">
+		<dt>Popping</dt>
+		<dd>Пощелкивание</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-poppingsarcomeretheory">
+		<dt>Popping sarcomere theory</dt>
+		<dd>Теория  удлинения саркомера</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-рosterior">
+		<dt>Posterior</dt>
+		<dd>Тыльный, задний</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-posteriordeltoids">
+		<dt>Posterior deltoids</dt>
+		<dd>Тыльные дельтоиды</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-proliferationphase">
+		<dt>Proliferation phase</dt>
+		<dd>Стадия пролиферации. Стадия восстановления повреждённой ткани</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-propriocept">
+		<dt>Proprioception</dt>
+		<dd>Проприоцепция. Ощущение положения частей собственного тела относительно друг друга и в пространстве</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-radiatingpain">
+		<dt>Radiating pain</dt>
+		<dd>Отдающая боль</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-remodelingphase">
+		<dt>Remodeling phase</dt>
+		<dd>Стадия ремоделирования</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-rib">
+		<dt>Rib</dt>
+		<dd>Ребро</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-recruitment">
+		<dt>Recruitment</dt>
+		<dd>Феномен подкрепления</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-rhomboidmajor">
+		<dt>Rhomboid major</dt>
+		<dd>Большая ромбовидная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-rhomboidminor">
+		<dt>Rhomboid minor</dt>
+		<dd>Малая ромбовидная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-rice">
+		<dt>RICE</dt>
+			<dd>Лечебная рекомендация <q><b>п</b>окой, <b>л</b>ед, <b>к</b>омпрессионная повязка, <b>п</b>риподнятое положение</q> (ПЛКП)</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-rotatorcuffmuscles">
+		<dt>Rotator cuff muscles</dt>
+		<dd>Мышцы-ротаторы плеча, вращатели плеча, ротаторная манжета</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-rupture">
+		<dt>Rupture</dt>
+		<dd>Разрыв</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-scapula">
+		<dt>Scapula</dt>
+		<dd>Лопатка</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-scapular">
+		<dt>Scapular</dt>
+		<dd>Лопаточный</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-scapularretractor">
+		<dt>Scapular retractor</dt>
+		<dd>Ретрактор. Мышца, тянущая назад. Поднимающая мышца, мышца-подъёмник</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-scapulothoracic">
+		<dt>Scapulothoracic</dt>
+		<dd>Скапулоторакальный (сустав), лопаточно-грудной</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-serratusanterior">
+		<dt>Serratus anterior</dt>
+		<dd>Передняя зубчатая мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-shoulderlabrum">
+		<dt>Shoulder labrum</dt>
+		<dd>Суставная губа</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-somatosensory">
+		<dt>Somatosensory</dt>
+		<dd>Соматосенсорный</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-sternoclavicular">
+		<dt>Sternoclavicular (SC)</dt>
+		<dd>Грудино-ключичный (сустав)</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-stiffness">
+		<dt>Stiffness</dt>
+		<dd>Жесткость, одеревенение</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-subclavius">
+		<dt>Subclavius</dt>
+		<dd>Подключичная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-subscapularis">
+		<dt>Subscapularis</dt>
+		<dd>Подлопаточная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-supraspinatus">
+		<dt>Supraspinatus</dt>
+		<dd>Надостная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-swelling">
+		<dt>Swelling</dt>
+		<dd>Опухоль</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tenderspot">
+		<dt>Tender spot</dt>
+		<dd>Больное место, уязвимое место</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tenderness">
+		<dt>Tenderness</dt>
+		<dd>Болезненность</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tendinopathy">
+		<dt>Tendinopathy</dt>
+		<dd>Тендинопатия</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tendinosis">
+		<dt>Tendinosis</dt>
+		<dd>Тендиноз</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tendon">
+		<dt>Tendon</dt>
+		<dd>Сухожилие</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tendonitis">
+		<dt>Tendonitis</dt>
+		<dd>Тендинит</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tendonosis">
+		<dt>Tendonosis</dt>
+		<dd>см.<xref href="medicgloss.dita#sl-medicglossary-tendinosis"></xref></dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-teresmajormuscle">
+		<dt>Teres major muscle</dt>
+		<dd>Большая круглая мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-teresminormuscle">
+		<dt>Teres minor muscle</dt>
+		<dd>Малая круглая мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-thoracic">
+		<dt>Thoracic</dt>
+		<dd>Грудной, торакальный</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-throat">
+		<dt>Throat</dt>
+		<dd>Горло</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tightness">
+		<dt>Tightness</dt>
+		<dd>Мышечный тонус. Напряженность</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-torntendon">
+		<dt>Torn tendon</dt>
+		<dd>Разрыв сухожилия, порванное сухожилие</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-trapezius">
+		<dt>Trapezius</dt>
+		<dd>Трапециевидная мышца</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-tricepsbrachii">
+		<dt>Triceps brachii</dt>
+		<dd>Трехглавая мышца плеча, трицепс</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-triggerpoint">
+		<dt>Trigger point</dt>
+		<dd>Триггерная точка, триггерная зона</dd>
+	  </dlentry>
+
+	  <dlentry id="sl-medicglossary-underrecovery">
+		<dt>Underrecovery</dt>
+		<dd>Недовосстановление после нагрузок</dd>
+	  </dlentry>
+    </dl>
+  </body>
+</topic>

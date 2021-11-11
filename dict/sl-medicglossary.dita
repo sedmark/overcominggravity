@@ -472,6 +472,11 @@
     <glossdef>Тендинит</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-tendonosis">
+    <glossterm>Tendonosis</glossterm>
+    <glossdef>см.<xref href="sl-medicglossary.dita#sl-medicglossary-tendinosis"></xref></glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-teresmajormuscle">
     <glossterm>Teres major muscle</glossterm>
     <glossdef>Большая круглая мышца</glossdef>

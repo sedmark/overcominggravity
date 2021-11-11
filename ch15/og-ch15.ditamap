@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "map.dtd" []>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="bookmap-1" xml:lang="ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.1">
+  <topicref href="og-ch15-intro.dita">
+	  <topicref href="og-ch15-tendonitis.dita"/>
+  </topicref>
+</map>
