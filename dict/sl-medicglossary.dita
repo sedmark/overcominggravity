@@ -22,6 +22,11 @@
     <glossdef>Акромион</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-adhesion">
+    <glossterm>Adhesion</glossterm>
+    <glossdef>Адгезия, срастание</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-aggravation">
     <glossterm>Aggravation</glossterm>
     <glossdef>Обострение</glossdef>
@@ -240,6 +245,16 @@
   <glossentry id="sl-medicglossary-metaboliteaccumulation">
     <glossterm>Metabolite accumulation</glossterm>
     <glossdef>Накопление метаболитов</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-myofascial">
+    <glossterm>Myofascial</glossterm>
+    <glossdef>Миофасциальный</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-myofascialrelease">
+    <glossterm>Myofascial release</glossterm>
+    <glossdef>Миофасциальная релаксация. Расслабление мягким надавливанием на мышцы и фасции.</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-mitochondria">
