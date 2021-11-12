@@ -97,6 +97,16 @@
     <glossdef>Клювовидно-плечевая мышца</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-corticosteroids">
+    <glossterm>Corticosteroids</glossterm>
+    <glossdef>Кортикостероиды, стероидные гормоны</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-сortisone">
+    <glossterm>Cortisone</glossterm>
+    <glossdef>Кортизон</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-deep soreness">
     <glossterm>Deep soreness</glossterm>
     <glossdef>Глубокая мышечная боль</glossdef>
