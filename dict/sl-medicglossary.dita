@@ -157,6 +157,12 @@
     <glossdef>Суставно-плечевая связка, плечевой сустав</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-grastontechnique">
+    <glossterm>Graston technique</glossterm>
+    <glossdef>Техника Грастона. Массаж с использованием специальных инструментов.</glossdef>
+  </glossentry>
+
+
   <glossentry id="sl-medicglossary-healing">
     <glossterm>Healing</glossterm>
     <glossdef>Исцеление</glossdef>
@@ -325,6 +331,11 @@
   <glossentry id="sl-medicglossary-posteriordeltoids">
     <glossterm>Posterior deltoids</glossterm>
     <glossdef>Тыльные дельтоиды</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-prehabilitation">
+    <glossterm>Prehabilitation</glossterm>
+    <glossdef>Преабилитация. Функциональная подготовка человека перед предстоящим стрессом и физическими нагрузками.</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-proliferationphase">
