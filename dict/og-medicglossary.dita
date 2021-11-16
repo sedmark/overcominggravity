@@ -7,6 +7,11 @@
   <subtitle>по книге <q>Overcoming gravity</q></subtitle>
 -->
 
+ <glossentry id="sl-medicglossary-acetaminophen">
+    <glossterm>Acetaminophen</glossterm>
+    <glossdef>Ацетаминофен, анальгетик. Действующее вещество - парацетамол</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-ac">
     <glossterm>Acromioclavicular</glossterm>
 	<glossBody>
@@ -172,10 +177,19 @@
     <glossdef>Техника Грастона. Массаж с использованием специальных инструментов.</glossdef>
   </glossentry>
 
-
   <glossentry id="sl-medicglossary-healing">
     <glossterm>Healing</glossterm>
     <glossdef>Исцеление</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-hht">
+    <glossterm>Hydroxyheptadecatrienoic Acid</glossterm>
+	<glossBody>
+		<glossAlt>
+		  <glossAcronym>HHT</glossAcronym>
+		</glossAlt>
+	</glossBody>
+    <glossdef>Гидроксигептадекатриеновая кислота</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-hypoxic">
@@ -303,6 +317,16 @@
     <glossdef>Болевой раздражитель</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-noxiousstimulus">
+    <glossterm>NSAID</glossterm>
+	<glossBody>
+		<glossAlt>
+			<glossAcronym>НПВС</glossAcronym>
+		</glossAlt>
+	</glossBody>
+    <glossdef>Нестероидное противовоспалительное средство</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-occlusion">
     <glossterm>Occlusion</glossterm>
     <glossdef>Закупорка сосудов, окклюзия</glossdef>
@@ -316,6 +340,11 @@
   <glossentry id="sl-medicglossary-pectoralisminor">
     <glossterm>Pectoralis minor</glossterm>
     <glossdef>Малая грудная мышца</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-pgf">
+    <glossterm>PGF</glossterm>
+    <glossdef>Фактор роста тромбоцитов</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-physicaltherapist">
@@ -558,12 +587,17 @@
     <glossdef>Триггерная точка, триггерная зона</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-tylenol">
+    <glossterm>Tylenol</glossterm>
+    <glossdef>Тайленол, анальгетик. Действующее вещество - парацетамол</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-underrecovery">
     <glossterm>Underrecovery</glossterm>
     <glossdef>Недовосстановление после нагрузок</glossdef>
   </glossentry>
 
-<!--
+ <!--
   <glossentry id="sl-medicglossary-">
     <glossterm></glossterm>
     <glossdef></glossdef>
