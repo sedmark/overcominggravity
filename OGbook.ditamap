@@ -1,15 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- This document was created with Syntext Serna Free. --><!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd" []>
-<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="bookmap-1" xml:lang="ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.1">
-  <title>Преодолевая гравитацию</title>
+<!-- This document was created with Syntext Serna Free. --><bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa5="http://dita.oasis-open.org/architecture/2005/" id="ogbook" xml:lang="ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.1">
+  <booktitle>
+	<mainbooktitle>Преодолевая гравитацию</mainbooktitle>
+	<booktitlealt>Систематизированный подход к гимнастике и силовым тренировкам с собственным весом</booktitlealt>
+  </booktitle>
   <bookmeta>
-    <author type="creator">Steven Low</author>
-    <author type="contributor">Dmitry Semenov, translator</author>
+    <author type="creator">Стивен Лоу</author>
   </bookmeta>
-  <part/>
-  <part>
+<!--
+  <part navtitle="Как составить собственную программу тренировок">
+  </part>
+-->  <part navtitle="Забота о здоровье и помощь при травмах">
     <chapter>
       <topicref href="ch15/og-ch15.ditamap" format="ditamap"/>
     </chapter>
   </part>
-</bookmap>
+<!--
+  <part navtitle="Справочные материалы">
+  </part>
+--></bookmap>
