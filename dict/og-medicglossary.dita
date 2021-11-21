@@ -27,6 +27,16 @@
     <glossdef>Акромион</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-art">
+    <glossterm>Active Release Techniques</glossterm>
+	<glossBody>
+		<glossAlt>
+		  <glossAcronym>ART</glossAcronym>
+		</glossAlt>
+	</glossBody>
+    <glossdef>Техники активного высвобождения (ТАВ)</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-adhesion">
     <glossterm>Adhesion</glossterm>
     <glossdef>Адгезия, срастание</glossdef>
