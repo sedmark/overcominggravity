@@ -41,6 +41,11 @@
     <glossterm>Adhesion</glossterm>
     <glossdef>Адгезия, срастание</glossdef>
   </glossentry>
+  
+  <glossentry id="sl-medicglossary-adductor-longus">
+    <glossterm>Adductor longus</glossterm>
+    <glossdef>Длинная приводящая мышца</glossdef>
+  </glossentry>
 
   <glossentry id="sl-medicglossary-aggravation">
     <glossterm>Aggravation</glossterm>
@@ -185,6 +190,11 @@
   <glossentry id="sl-medicglossary-grastontechnique">
     <glossterm>Graston technique</glossterm>
     <glossdef>Техника Грастона. Массаж с использованием специальных инструментов.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-groin">
+    <glossterm>Groin</glossterm>
+    <glossdef>Пах</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-healing">
