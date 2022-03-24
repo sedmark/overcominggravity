@@ -397,6 +397,16 @@
     <glossdef>Преабилитация. Функциональная подготовка человека перед предстоящим стрессом и физическими нагрузками.</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-pricem">
+    <glossterm>PRICEM</glossterm>
+	<glossBody>
+		<glossAlt>
+			<glossAcronym>БЛОКОМ</glossAcronym>
+		</glossAlt>
+	</glossBody>
+		<glossdef>Лечебная рекомендация <q><b>б</b>ездействие (покой), <b>л</b>ед (холод), <b>о</b>бжим (комрессионная повязка), <b>к</b>верху (приподнятое положение), <b>о</b>храна (защита от дальнейших повреждений), <b>м</b>обильность</q></glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-proliferationphase">
     <glossterm>Proliferation phase</glossterm>
     <glossdef>Стадия пролиферации. Стадия восстановления повреждённой ткани</glossdef>
@@ -441,10 +451,10 @@
     <glossterm>RICE</glossterm>
 	<glossBody>
 		<glossAlt>
-			<glossAcronym>ПЛКП</glossAcronym>
+			<glossAcronym>БЛОК</glossAcronym>
 		</glossAlt>
 	</glossBody>
-		<glossdef>Лечебная рекомендация <q><b>п</b>окой, <b>л</b>ед, <b>к</b>омпрессионная повязка, <b>п</b>риподнятое положение</q></glossdef>
+		<glossdef>Лечебная рекомендация <q><b>б</b>ездействие (покой), <b>л</b>ед (холод), <b>о</b>бжим (комрессионная повязка), <b>к</b>верху (приподнятое положение)</q></glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-rotatorcuffmuscles">
