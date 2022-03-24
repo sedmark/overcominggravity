@@ -12,6 +12,11 @@
     <glossdef>Ацетаминофен, анальгетик. Действующее вещество - парацетамол</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-acetyl-l-carnitine">
+    <glossterm>Acetyl-L carnitine</glossterm>
+    <glossdef>Ацетил-L-карнитин</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-ac">
     <glossterm>Acromioclavicular</glossterm>
 	<glossBody>
@@ -110,6 +115,11 @@
   <glossentry id="sl-medicglossary-clicking">
     <glossterm>Clicking</glossterm>
     <glossdef>Треск, щелканье в суставах</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-coenzyme">
+    <glossterm>Coenzyme Q10</glossterm>
+    <glossdef>Коэнзим Q10</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-coracobrachialis">
@@ -620,6 +630,11 @@
   <glossentry id="sl-medicglossary-tylenol">
     <glossterm>Tylenol</glossterm>
     <glossdef>Тайленол, анальгетик. Действующее вещество - парацетамол</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-ubiquinol">
+    <glossterm>Ubiquinol</glossterm>
+    <glossdef>Убихинол</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-underrecovery">
