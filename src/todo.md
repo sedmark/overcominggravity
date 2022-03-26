@@ -239,8 +239,8 @@ Chapter 15: Common bodyweight training injuries
 		### Тендинит 
 		√ Tendonitis
 
-### Мышечное напряжение
-Muscle strains
+		### Мышечное перенапряжение
+		√ Muscle strains
 
 Тензионная головная боль
 Tension headaches
