@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- This document was created with Syntext Serna Free. --><bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa5="http://dita.oasis-open.org/architecture/2005/" id="ogbook" xml:lang="ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.1">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa5="http://dita.oasis-open.org/architecture/2005/" id="ogbook" xml:lang="ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.1">
   <booktitle>
 	<mainbooktitle>Преодолевая гравитацию</mainbooktitle>
 	<booktitlealt>Систематизированный подход к гимнастике и силовым тренировкам с собственным весом</booktitlealt>
@@ -7,15 +7,21 @@
   <bookmeta>
     <author type="creator">Стивен Лоу</author>
   </bookmeta>
+
+  <part navtitle="Как составить собственную программу тренировок (Раздел в разработке)">
+  </part>
+
+  <part navtitle="Забота о здоровье и помощь при травмах">
+   <topicref href="ch15/og-ch15.ditamap" format="ditamap"/>
+ 
 <!--
-  <part navtitle="Как составить собственную программу тренировок">
+  <chapter href="ch15/og-ch15-intro.dita">
+	  <topicref href="ch15/og-ch15-tendonitis.dita"/>
+	  <topicref href="ch15/og-ch15-muscle-strains.dita"/>
+  </chapter>
+-->
   </part>
--->  <part navtitle="Забота о здоровье и помощь при травмах">
-    <chapter>
-      <topicref href="ch15/og-ch15.ditamap" format="ditamap"/>
-    </chapter>
+
+  <part navtitle="Справочные материалы (Раздел в разработке)">
   </part>
-<!--
-  <part navtitle="Справочные материалы">
-  </part>
---></bookmap>
+</bookmap>

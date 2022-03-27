@@ -11,3 +11,6 @@
 **src** — папка с исходным текстом: скан книги + распознанный текст в Ворде
 
 *OGbook.ditamap* — dita-карта книги. 
+
+## Tips
+В *font-mappings.xml* в разделе *logical-font name="Sans"* убрать  некириллический шрифт Helvetica.
