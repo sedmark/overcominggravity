@@ -13,4 +13,4 @@
 *OGbook.ditamap* — dita-карта книги. 
 
 ## Tips
-В *font-mappings.xml* в разделе *logical-font name="Sans"* убрать  некириллический шрифт Helvetica.
+В *font-mappings.xml* в разделе *logical-font name="Sans"* убрать некириллический шрифт Helvetica.

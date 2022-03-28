@@ -1,3 +1,7 @@
+28.03.2022
+ch15-tension-headaches
+	* added «tension-headaches» to the glossary
+
 26.03.2022
 ch15-strain Conclusion
 

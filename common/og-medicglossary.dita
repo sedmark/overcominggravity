@@ -582,6 +582,16 @@
     <glossdef>см.<xref href="sl-medicglossary.dita#sl-medicglossary-tendinosis"></xref></glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-tension-headache">
+    <glossterm>Tension headache</glossterm>
+ 	<glossBody>
+		<glossAlt>
+			<glossAcronym>ГБН</glossAcronym>
+		</glossAlt>
+	</glossBody>
+   <glossdef>Головная боль напряжения</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-teresmajormuscle">
     <glossterm>Teres major muscle</glossterm>
     <glossdef>Большая круглая мышца</glossdef>
