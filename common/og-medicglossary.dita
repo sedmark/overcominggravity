@@ -122,6 +122,16 @@
     <glossdef>Коэнзим Q10</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-costal">
+    <glossterm>Costal</glossterm>
+    <glossdef>Реберный</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-costochondritis">
+    <glossterm>Costochondritis</glossterm>
+    <glossdef>Костохондрит</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-coracobrachialis">
     <glossterm>Coracobrachialis</glossterm>
     <glossdef>Клювовидно-плечевая мышца</glossdef>
@@ -137,7 +147,12 @@
     <glossdef>Кортизон</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-deep soreness">
+  <glossentry id="sl-medicglossary-costal-facet">
+    <glossterm>Costal facet</glossterm>
+    <glossdef>Реберная фасетка</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-deep-soreness">
     <glossterm>Deep soreness</glossterm>
     <glossdef>Глубокая мышечная боль</glossdef>
   </glossentry>
@@ -522,6 +537,11 @@
     <glossdef>Грудино-ключичный (сустав)</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-sternum ">
+    <glossterm>Sternum </glossterm>
+    <glossdef>Грудина. Грудная кость.</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-stiffness">
     <glossterm>Stiffness</glossterm>
     <glossdef>Жесткость, одеревенение</glossdef>
@@ -612,6 +632,11 @@
     <glossdef>Горло</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-tietze">
+    <glossterm>Tietze syndrome</glossterm>
+    <glossdef>Синдром Титце</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-tightness">
     <glossterm>Tightness</glossterm>
     <glossdef>Мышечный тонус. Напряженность</glossdef>
@@ -652,7 +677,7 @@
     <glossdef>Недовосстановление после нагрузок</glossdef>
   </glossentry>
 
- <!--
+<!--
   <glossentry id="sl-medicglossary-">
     <glossterm></glossterm>
     <glossdef></glossdef>

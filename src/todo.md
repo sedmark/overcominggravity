@@ -242,10 +242,11 @@ Chapter 15: Common bodyweight training injuries
 		### Мышечное перенапряжение
 		√ Muscle strains
 
-Тензионная головная боль
-Tension headaches
+		### Головная боль напряжения
+		√Tension headaches
 
-Costochondritis / tietze syndrome
+		### Костохондрит / Синдром Титце
+		√Costochondritis / tietze syndrome
 
 Грудной отдел позвоночника / лопатки / ребра
 Thoracic-spinc / scapulas / ribs
