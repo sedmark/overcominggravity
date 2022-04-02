@@ -243,13 +243,12 @@ Chapter 15: Common bodyweight training injuries
 		√ Muscle strains
 
 		### Головная боль напряжения
-		√Tension headaches
-
+		√ Tension headaches
 		### Костохондрит / Синдром Титце
-		√Costochondritis / tietze syndrome
+		√ Costochondritis / tietze syndrome
 
-Грудной отдел позвоночника / лопатки / ребра
-Thoracic-spinc / scapulas / ribs
+		### Грудной отдел позвоночника / лопатки / ребра
+Thoracic spine / scapulas / ribs
 
 Поясница
 The low back

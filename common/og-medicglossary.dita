@@ -677,6 +677,11 @@
     <glossdef>Недовосстановление после нагрузок</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-thoracic-spine">
+    <glossterm>Thoracic spine</glossterm>
+    <glossdef>Грудной отдел позвоночника (ГОП)</glossdef>
+  </glossentry>
+
 <!--
   <glossentry id="sl-medicglossary-">
     <glossterm></glossterm>
