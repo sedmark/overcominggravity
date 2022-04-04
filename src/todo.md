@@ -248,9 +248,9 @@ Chapter 15: Common bodyweight training injuries
 		√ Costochondritis / tietze syndrome
 
 		### Грудной отдел позвоночника / лопатки / ребра
-Thoracic spine / scapulas / ribs
+		√Thoracic spine / scapulas / ribs
 
-Поясница
+		###Поясница
 The low back
 
 Импинджмент-синдром

@@ -92,6 +92,11 @@
     <glossdef>Плечо</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-bulging-disc">
+    <glossterm>Bulging disc</glossterm>
+    <glossdef>Протрузия межпозвоночного диска</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-cartilage">
     <glossterm>Cartilage</glossterm>
     <glossdef>Хрящ</glossdef>
@@ -172,6 +177,16 @@
     <glossdef>Отек</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-er">
+    <glossterm>Emergency Rescue</glossterm>
+ 	<glossBody>
+		<glossAlt>
+			<glossAcronym>ER</glossAcronym>
+		</glossAlt>
+	</glossBody>
+    <glossdef>Неотложная помощь</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-extrotator">
     <glossterm>External rotator</glossterm>
     <glossdef>Мышца-вращатель</glossdef>
@@ -225,6 +240,16 @@
   <glossentry id="sl-medicglossary-healing">
     <glossterm>Healing</glossterm>
     <glossdef>Исцеление</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-herniated-disc">
+    <glossterm>Herniated discs</glossterm>
+    <glossdef>Грыжа межпозвоночного диска</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-herniation">
+    <glossterm>Herniation</glossterm>
+    <glossdef>Грыжа</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-hht">
@@ -447,6 +472,11 @@
     <glossdef>Отдающая боль</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-radiculopathy">
+    <glossterm>Radiculopathy</glossterm>
+    <glossdef>Радикулопатия (заболевание корешков спинномозговых нервов)</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-remodelingphase">
     <glossterm>Remodeling phase</glossterm>
     <glossdef>Стадия ремоделирования</glossdef>
@@ -492,6 +522,11 @@
     <glossdef>Разрыв</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-sacroiliac-joint">
+    <glossterm>Sacroiliac joint</glossterm>
+    <glossdef>Крестцово-повздошный сустав</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-scapula">
     <glossterm>Scapula</glossterm>
     <glossdef>Лопатка</glossdef>
@@ -510,6 +545,11 @@
   <glossentry id="sl-medicglossary-scapulothoracic">
     <glossterm>Scapulothoracic</glossterm>
     <glossdef>Скапулоторакальный (сустав), лопаточно-грудной</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-sciatica">
+    <glossterm>Sciatica</glossterm>
+    <glossdef>Воспаление седалищного нерва</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-serratusanterior">
@@ -650,6 +690,11 @@
   <glossentry id="sl-medicglossary-trapezius">
     <glossterm>Trapezius</glossterm>
     <glossdef>Трапециевидная мышца</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-treatment">
+    <glossterm>Treatment</glossterm>
+    <glossdef>Терапия. Лечение</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-tricepsbrachii">
