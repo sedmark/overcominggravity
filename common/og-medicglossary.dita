@@ -272,6 +272,16 @@
     <glossdef>Плечо, плечевая кость</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-iliac-crest">
+    <glossterm>Iliac crest</glossterm>
+    <glossdef>Гребень подвздошной кости</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-iliocostalis">
+    <glossterm>i=Iliocostalis</glossterm>
+    <glossdef>Подвздошно-рёберная мышца</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-immuneresponse">
     <glossterm>Immune response</glossterm>
     <glossdef>Иммунная реакция, иммунный ответ</glossdef>
@@ -312,6 +322,16 @@
     <glossdef>Суставная сумка</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-lateralthoracic">
+    <glossterm>Lateral thoracic</glossterm>
+    <glossdef>Боковой грудной, латеральный грудной</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-latissimusdorsi">
+    <glossterm>Latissimus dorsi</glossterm>
+    <glossdef>Широчайшая мышца спины, латиссимус дорси</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-levatorscapula">
     <glossterm>Levator scapula</glossterm>
     <glossdef>Мышца, которая поднимает лопатку</glossdef>
@@ -322,19 +342,14 @@
     <glossdef>Связка</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-longissimus">
+    <glossterm>Longissimus</glossterm>
+    <glossdef>Длиннейшая мышцы</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-lumbar">
     <glossterm>Lumbar</glossterm>
     <glossdef>Поясница</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-lateralthoracic">
-    <glossterm>Lateral thoracic</glossterm>
-    <glossdef>Боковой грудной, латеральный грудной</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-latissimusdorsi">
-    <glossterm>Latissimus dorsi</glossterm>
-    <glossdef>Широчайшая мышца спины, латиссимус дорси</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-medialepicondylitis">
@@ -412,6 +427,11 @@
     <glossdef>Малая грудная мышца</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-pelvis">
+    <glossterm>Pelvis</glossterm>
+    <glossdef>Таз</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-pgf">
     <glossterm>PGF</glossterm>
     <glossdef>Фактор роста тромбоцитов</glossdef>
@@ -465,6 +485,11 @@
   <glossentry id="sl-medicglossary-propriocept">
     <glossterm>Proprioception</glossterm>
     <glossdef>Проприоцепция. Ощущение положения частей собственного тела относительно друг друга и в пространстве</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-quadratus">
+    <glossterm>Quadratus lumborum</glossterm>
+    <glossdef>Квадратная мышца поясницы</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-radiatingpain">
@@ -524,7 +549,7 @@
 
   <glossentry id="sl-medicglossary-sacroiliac-joint">
     <glossterm>Sacroiliac joint</glossterm>
-    <glossdef>Крестцово-повздошный сустав</glossdef>
+    <glossdef>Крестцово-подвздошный сустав</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-scapula">
@@ -565,6 +590,11 @@
   <glossentry id="sl-medicglossary-somatosensory">
     <glossterm>Somatosensory</glossterm>
     <glossdef>Соматосенсорный</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-spinalis ">
+    <glossterm>Spinalis</glossterm>
+    <glossdef>Остистая мышца</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-sternoclavicular">
@@ -734,5 +764,4 @@
   </glossentry>
 
 -->
-
 </glossgroup>
