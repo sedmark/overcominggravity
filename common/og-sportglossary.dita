@@ -14,6 +14,11 @@
 	<glossdef>Одноповторный максимум. Максимальный вес, который атлет может поднять не более одного раза</glossdef>
   </glossentry>
 
+  <glossentry id="sl-sportglossary-abduction">
+    <glossterm>Abduction</glossterm>
+    <glossdef>Подъем через сторону</glossdef>
+  </glossentry>
+
   <glossentry id="sl-sportglossary-airsquat">
     <glossterm>Air Squat</glossterm>
     <glossdef>Приседание без поддержки, «в воздухе»</glossdef>
@@ -152,6 +157,11 @@
   <glossentry id="sl-sportglossary-hangsquatclean">
     <glossterm>Hang squat clean</glossterm>
     <glossdef>Подъем на грудь в сед с виса</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-high-pull">
+    <glossterm>High pull</glossterm>
+    <glossdef>Высокая протяжка</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-invertedcross">
@@ -344,6 +354,11 @@
     <glossdef>Упражнение на кольцах <q>Викторианский крест</q>. В русской классификации — <q>Обратный самолет</q></glossdef>
   </glossentry>
 
+  <glossentry id="sl-sportglossary-upright-row">
+    <glossterm>Upright row</glossterm>
+    <glossdef>Тяга к подбородку</glossdef>
+  </glossentry>
+
   <glossentry id="sl-sportglossary-weightedpullup">
     <glossterm>Weighted pullup</glossterm>
     <glossdef>Подтягивание с отягощением</glossdef>
@@ -354,11 +369,6 @@
     <glossdef>Подтягивание широким хватом</glossdef>
   </glossentry>
 
-
-<!-- 
-______________________________________________________________
--->
-
 <!--  
   <glossentry id="sl-sportglossary-">
     <glossterm></glossterm>
@@ -366,5 +376,4 @@ ______________________________________________________________
   </glossentry>
 
 -->  
-
 </glossgroup>

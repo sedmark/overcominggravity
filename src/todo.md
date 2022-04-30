@@ -251,9 +251,9 @@ Chapter 15: Common bodyweight training injuries
 		√Thoracic spine / scapulas / ribs
 
 		###Поясница
-The low back
+		√The low back
 
-Импинджмент-синдром
+		##Импинджмент-синдром
 Impingement
 
 Проблемы с акромиально-ключичным суставом

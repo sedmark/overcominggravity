@@ -82,6 +82,11 @@
     <glossdef>Противовоспалительное лечение</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-arthritis">
+    <glossterm>Arthritis</glossterm>
+    <glossdef>Артрит</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-bicepsbrachii">
     <glossterm>Biceps brachii</glossterm>
     <glossdef>Двуглавая мышца плеча, бицепс</glossdef>
@@ -97,14 +102,14 @@
     <glossdef>Протрузия межпозвоночного диска</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-bursa">
+    <glossterm>Bursa</glossterm>
+    <glossdef>Подкожная сумка</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-cartilage">
     <glossterm>Cartilage</glossterm>
     <glossdef>Хрящ</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-clavicle">
-    <glossterm>Clavicle</glossterm>
-    <glossdef>Ключица</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-chiropractor">
@@ -115,6 +120,11 @@
   <glossentry id="sl-medicglossary-chronmusctight">
     <glossterm>Chronic muscle tightness</glossterm>
     <glossdef>Хронический мышечный тонус. Хроническая мышечная закрепощенность</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-clavicle">
+    <glossterm>Clavicle</glossterm>
+    <glossdef>Ключица</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-clicking">
@@ -192,6 +202,11 @@
     <glossdef>Мышца-вращатель</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-fascia">
+    <glossterm>Fascia</glossterm>
+    <glossdef>Фасция. Соединительнотканная оболочка</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-fasttwitch">
     <glossterm>Fast twitch</glossterm>
     <glossdef>Быстросокращающиеся мышечные волокна</glossdef>
@@ -200,6 +215,11 @@
   <glossentry id="sl-sportglossary-firingrate">
     <glossterm>Firing rate</glossterm>
     <glossdef>Частота пульсации (нейрона), частота спайкового разряда</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-flexion">
+    <glossterm>Flexion</glossterm>
+    <glossdef>Подъем перед собой</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-fractures">
@@ -232,6 +252,11 @@
     <glossdef>Техника Грастона. Массаж с использованием специальных инструментов.</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-greater-tubercle">
+    <glossterm>Greater tubercle of humeri</glossterm>
+    <glossdef>Большой бугорок</glossdef>
+  </glossentry>
+  
   <glossentry id="sl-medicglossary-groin">
     <glossterm>Groin</glossterm>
     <glossdef>Пах</glossdef>
@@ -278,13 +303,23 @@
   </glossentry>
 
   <glossentry id="sl-medicglossary-iliocostalis">
-    <glossterm>i=Iliocostalis</glossterm>
+    <glossterm>Iliocostalis</glossterm>
     <glossdef>Подвздошно-рёберная мышца</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-immuneresponse">
     <glossterm>Immune response</glossterm>
     <glossdef>Иммунная реакция, иммунный ответ</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-impact-injury">
+    <glossterm>Impact injury</glossterm>
+    <glossdef>Ушиб</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-impingement">
+    <glossterm>Impingement</glossterm>
+    <glossdef>Импинджмент-синдром плечевого сустава</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-inferioromohyoid">
@@ -440,6 +475,11 @@
   <glossentry id="sl-medicglossary-physicaltherapist">
     <glossterm>Physical therapist</glossterm>
     <glossdef>Физиотерапевт, физиатр</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-plexus">
+    <glossterm>Plexus</glossterm>
+    <glossdef>Сплетение</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-popping">
@@ -742,6 +782,11 @@
     <glossdef>Тайленол, анальгетик. Действующее вещество - парацетамол</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-tubercle">
+    <glossterm>Tubercle</glossterm>
+    <glossdef>Узелок</glossdef>
+  </glossentry>
+  
   <glossentry id="sl-medicglossary-ubiquinol">
     <glossterm>Ubiquinol</glossterm>
     <glossdef>Убихинол</glossdef>
@@ -764,4 +809,5 @@
   </glossentry>
 
 -->
+
 </glossgroup>
