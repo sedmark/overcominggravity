@@ -19,12 +19,12 @@
 
   <glossentry id="sl-medicglossary-ac">
     <glossterm>Acromioclavicular</glossterm>
-	<glossBody>
-		<glossAlt>
-		  <glossAcronym>AC</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Акромиально-ключичная связка</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>AC</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-acromion">
@@ -34,17 +34,17 @@
 
   <glossentry id="sl-medicglossary-art">
     <glossterm>Active Release Techniques</glossterm>
-	<glossBody>
-		<glossAlt>
-		  <glossAcronym>ART</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Техники активного высвобождения (ТАВ)</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>ART</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-adhesion">
     <glossterm>Adhesion</glossterm>
-    <glossdef>Адгезия, срастание</glossdef>
+    <glossdef>Адгезия, срастание, спайка</glossdef>
   </glossentry>
   
   <glossentry id="sl-medicglossary-adductor-longus">
@@ -87,9 +87,19 @@
     <glossdef>Артрит</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-axillary">
+    <glossterm>Axillary</glossterm>
+    <glossdef>Подмышечный. Аксиллярный</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-bicepsbrachii">
     <glossterm>Biceps brachii</glossterm>
     <glossdef>Двуглавая мышца плеча, бицепс</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-brachial-plexus">
+    <glossterm>Brachial plexus</glossterm>
+    <glossdef>Плечевое нервное сплетение</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-brachii">
@@ -174,12 +184,12 @@
 
   <glossentry id="sl-medicglossary-doms">
     <glossterm>Delayed onset muscle soreness</glossterm>
-	<glossBody>
-		<glossAlt>
-		  <glossAcronym>DOMS</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Синдром отсроченной мышечной боли</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>DOMS</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-edema">
@@ -189,12 +199,12 @@
 
   <glossentry id="sl-medicglossary-er">
     <glossterm>Emergency Rescue</glossterm>
- 	<glossBody>
-		<glossAlt>
-			<glossAcronym>ER</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Неотложная помощь</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>ER</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-extrotator">
@@ -222,6 +232,11 @@
     <glossdef>Подъем перед собой</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-flossing">
+    <glossterm>Flossing</glossterm>
+    <glossdef>Флоссинг. Разглаживание нервов</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-fractures">
     <glossterm>Fractures</glossterm>
     <glossdef>Перелом. Трещина</glossdef>
@@ -239,12 +254,12 @@
 
   <glossentry id="sl-medicglossary-glenohumeral">
     <glossterm>Glenohumeral</glossterm>
-	<glossBody>
-		<glossAlt>
-		  <glossAcronym>GH</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Суставно-плечевая связка, плечевой сустав</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>GH</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-grastontechnique">
@@ -279,12 +294,12 @@
 
   <glossentry id="sl-medicglossary-hht">
     <glossterm>Hydroxyheptadecatrienoic Acid</glossterm>
-	<glossBody>
-		<glossAlt>
-		  <glossAcronym>HHT</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Гидроксигептадекатриеновая кислота</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>HHT</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-hypoxic">
@@ -392,6 +407,11 @@
     <glossdef>Медиальный эпикондилит, <q>локоть гольфиста</q></glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-mediannerve">
+    <glossterm>Median nerve</glossterm>
+    <glossdef>Срединный нерв</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-metaboliteaccumulation">
     <glossterm>Metabolite accumulation</glossterm>
     <glossdef>Накопление метаболитов</glossdef>
@@ -427,9 +447,29 @@
     <glossdef>Моторное планирование. Планирование незнакомой последовательность движений</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-musculocutaneous">
+    <glossterm>Musculocutaneous</glossterm>
+    <glossdef>Кожно-мышечный</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-musculoskeletalsystem">
     <glossterm>Musculoskeletal system</glossterm>
     <glossdef>Костно-мышечная система, опорно-двигательный аппарат</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-nerveroot">
+    <glossterm>Nerve root</glossterm>
+    <glossdef>Нервный корешок</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-neuritis">
+    <glossterm>Neuritis</glossterm>
+    <glossdef>Неврит. Воспаление нерва</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-numbness">
+    <glossterm>Numbness</glossterm>
+    <glossdef>Онемение</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-noxiousstimulus">
@@ -437,14 +477,14 @@
     <glossdef>Болевой раздражитель</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-noxiousstimulus">
+  <glossentry id="sl-medicglossary-nsaid">
     <glossterm>NSAID</glossterm>
-	<glossBody>
-		<glossAlt>
-			<glossAcronym>НПВС</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Нестероидное противовоспалительное средство</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>НПВС</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-occlusion">
@@ -509,12 +549,12 @@
 
   <glossentry id="sl-medicglossary-pricem">
     <glossterm>PRICEM</glossterm>
-	<glossBody>
+    <glossdef>Лечебная рекомендация <q><b>б</b>ездействие (покой), <b>л</b>ед (холод), <b>о</b>бжим (комрессионная повязка), <b>к</b>верху (приподнятое положение), <b>о</b>храна (защита от дальнейших повреждений), <b>м</b>обильность</q></glossdef>
+    <glossBody>
 		<glossAlt>
 			<glossAcronym>БЛОКОМ</glossAcronym>
 		</glossAlt>
-	</glossBody>
-		<glossdef>Лечебная рекомендация <q><b>б</b>ездействие (покой), <b>л</b>ед (холод), <b>о</b>бжим (комрессионная повязка), <b>к</b>верху (приподнятое положение), <b>о</b>храна (защита от дальнейших повреждений), <b>м</b>обильность</q></glossdef>
+	  </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-proliferationphase">
@@ -530,6 +570,11 @@
   <glossentry id="sl-medicglossary-quadratus">
     <glossterm>Quadratus lumborum</glossterm>
     <glossdef>Квадратная мышца поясницы</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-radialnerve">
+    <glossterm>Radial nerve</glossterm>
+    <glossdef>Лучевой нерв</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-radiatingpain">
@@ -569,12 +614,12 @@
 
   <glossentry id="sl-medicglossary-rice">
     <glossterm>RICE</glossterm>
-	<glossBody>
+    <glossdef>Лечебная рекомендация <q><b>б</b>ездействие (покой), <b>л</b>ед (холод), <b>о</b>бжим (комрессионная повязка), <b>к</b>верху (приподнятое положение)</q></glossdef>
+    <glossBody>
 		<glossAlt>
 			<glossAcronym>БЛОК</glossAcronym>
 		</glossAlt>
 	</glossBody>
-		<glossdef>Лечебная рекомендация <q><b>б</b>ездействие (покой), <b>л</b>ед (холод), <b>о</b>бжим (комрессионная повязка), <b>к</b>верху (приподнятое положение)</q></glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-rotatorcuffmuscles">
@@ -612,6 +657,16 @@
     <glossdef>Скапулоторакальный (сустав), лопаточно-грудной</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-scartissue">
+    <glossterm>Scar tissue</glossterm>
+    <glossdef>Рубцовая ткань</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-sciatic">
+    <glossterm>Sciatic nerve</glossterm>
+    <glossdef>Седалищный нерв</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-sciatica">
     <glossterm>Sciatica</glossterm>
     <glossdef>Воспаление седалищного нерва</glossdef>
@@ -632,22 +687,27 @@
     <glossdef>Соматосенсорный</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-spinalis ">
+  <glossentry id="sl-medicglossary-spinalcord">
+    <glossterm>Spinal cord</glossterm>
+    <glossdef>Спинной мозг</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-spinalis">
     <glossterm>Spinalis</glossterm>
     <glossdef>Остистая мышца</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-sternoclavicular">
     <glossterm>Sternoclavicular</glossterm>
-	<glossBody>
-		<glossAlt>
-		  <glossAcronym>SC</glossAcronym>
-		</glossAlt>
-	</glossBody>
     <glossdef>Грудино-ключичный (сустав)</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>SC</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-sternum ">
+  <glossentry id="sl-medicglossary-sternum">
     <glossterm>Sternum </glossterm>
     <glossdef>Грудина. Грудная кость.</glossdef>
   </glossentry>
@@ -709,17 +769,17 @@
 
   <glossentry id="sl-medicglossary-tendonosis">
     <glossterm>Tendonosis</glossterm>
-    <glossdef>см.<xref href="sl-medicglossary.dita#sl-medicglossary-tendinosis"></xref></glossdef>
+    <glossdef>см.<xref href="#sl-medicglossary-tendonitis"/></glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-tension-headache">
     <glossterm>Tension headache</glossterm>
- 	<glossBody>
-		<glossAlt>
-			<glossAcronym>ГБН</glossAcronym>
-		</glossAlt>
-	</glossBody>
    <glossdef>Головная боль напряжения</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>ГБН</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-teresmajormuscle">
@@ -737,6 +797,21 @@
     <glossdef>Грудной, торакальный</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-thoracic-outlet">
+    <glossterm>Thoracic outlet</glossterm>
+    <glossdef>Верхняя апертура грудной клетки</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossSynonym>Inferior thoracic aperture</glossSynonym>
+      </glossAlt>
+    </glossBody>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-thoracic-spine">
+    <glossterm>Thoracic spine</glossterm>
+    <glossdef>Грудной отдел позвоночника (ГОП)</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-throat">
     <glossterm>Throat</glossterm>
     <glossdef>Горло</glossdef>
@@ -752,7 +827,12 @@
     <glossdef>Мышечный тонус. Напряженность</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-torntendon">
+   <glossentry id="sl-medicglossary-tingling">
+    <glossterm>Tingling</glossterm>
+    <glossdef>Покалывание</glossdef>
+  </glossentry>
+
+ <glossentry id="sl-medicglossary-torntendon">
     <glossterm>Torn tendon</glossterm>
     <glossdef>Разрыв сухожилия, порванное сухожилие</glossdef>
   </glossentry>
@@ -797,9 +877,19 @@
     <glossdef>Недовосстановление после нагрузок</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-thoracic-spine">
-    <glossterm>Thoracic spine</glossterm>
-    <glossdef>Грудной отдел позвоночника (ГОП)</glossdef>
+  <glossentry id="sl-medicglossary-vascular">
+    <glossterm>Vascular</glossterm>
+    <glossdef>Сосудистый</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-vertebrae">
+    <glossterm>Vertebrae</glossterm>
+    <glossdef>Позвонки</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-ulnarnerve">
+    <glossterm>Ulnar nerve</glossterm>
+    <glossdef>Локтевой нерв</glossdef>
   </glossentry>
 
 <!--
@@ -809,5 +899,4 @@
   </glossentry>
 
 -->
-
 </glossgroup>
