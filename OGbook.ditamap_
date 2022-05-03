@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- This document was created with Syntext Serna Free. --><bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa5="http://dita.oasis-open.org/architecture/2005/" id="ogbook" xml:lang="ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.1">
-  
   <booktitle>
-    <mainbooktitle>Преодолевая гравитацию. Систематизированный подход к гимнастике и силовым тренировкам с собственным весом
-    </mainbooktitle>
+    <mainbooktitle>Преодолевая гравитацию</mainbooktitle>
+    <booktitlealt>Систематизированный подход к гимнастике и силовым тренировкам с собственным весом</booktitlealt>
   </booktitle>
   <bookmeta>
-    <author type="creator">Стивен Лоу</author>
-    <authorinformation>
+<!--
+ <author type="creator">Стивен Лоу</author>
+-->    <authorinformation>
       <personinfo>
         <namedetails>
           <personname>
