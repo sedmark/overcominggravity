@@ -10,11 +10,6 @@
   <part navtitle="Как составить собственную программу тренировок (Раздел в разработке)"></part>
   <part navtitle="Забота о здоровье и помощь при травмах">
     <topicref href="ch15/og-ch15.ditamap" format="ditamap"/>
-<!--
-  <chapter href="ch15/og-ch15-intro.dita">
-   <topicref href="ch15/og-ch15-tendonitis.dita"/>
-   <topicref href="ch15/og-ch15-muscle-strains.dita"/>
-  </chapter>
--->  </part>
+  </part>
   <part navtitle="Справочные материалы (Раздел в разработке)"/>
 </bookmap>

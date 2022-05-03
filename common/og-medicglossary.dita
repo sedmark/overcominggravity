@@ -892,6 +892,11 @@
     <glossdef>Локтевой нерв</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-nerve-gliding">
+    <glossterm>Nerve gliding</glossterm>
+    <glossdef>Скольжение нерва</glossdef>
+  </glossentry>
+
 <!--
   <glossentry id="sl-medicglossary-">
     <glossterm></glossterm>
