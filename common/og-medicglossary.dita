@@ -234,7 +234,7 @@
 
   <glossentry id="sl-medicglossary-flossing">
     <glossterm>Flossing</glossterm>
-    <glossdef>Флоссинг. Разглаживание нервов</glossdef>
+    <glossdef>Флоссинг. Нервная нить. Техники улучшения подвижности нерва, нейродинамика</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-fractures">
@@ -455,6 +455,11 @@
   <glossentry id="sl-medicglossary-musculoskeletalsystem">
     <glossterm>Musculoskeletal system</glossterm>
     <glossdef>Костно-мышечная система, опорно-двигательный аппарат</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-nerve-gliding">
+    <glossterm>Nerve gliding</glossterm>
+    <glossdef>Скольжение нерва</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-nerveroot">
@@ -890,11 +895,6 @@
   <glossentry id="sl-medicglossary-ulnarnerve">
     <glossterm>Ulnar nerve</glossterm>
     <glossdef>Локтевой нерв</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-nerve-gliding">
-    <glossterm>Nerve gliding</glossterm>
-    <glossdef>Скольжение нерва</glossdef>
   </glossentry>
 
 <!--
