@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="og-task-median-glide">
+    <title>Скольжение срединного нерва</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Отведите руку на 90 градусов в сторону и немного назад, ладонь разверните
+                    вперед, локоть выпрямите.</cmd>
+            </step>
+            <step>
+                <cmd>Оттяните ладонь назад до появления напряжения.</cmd>
+            </step>
+            <step>
+                <cmd>Если не чувствуете напряжения — наклоните голову в противоположную сторону (не
+                    поворачивайте голову, смотрите прямо перед собой).</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

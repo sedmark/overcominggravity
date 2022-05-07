@@ -117,6 +117,11 @@
     <glossdef>Подкожная сумка</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-carpal-tunnel">
+    <glossterm>Carpal tunnel syndrome</glossterm>
+    <glossdef>Синдром запястного канала. Карпальный туннельный синдром</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-cartilage">
     <glossterm>Cartilage</glossterm>
     <glossdef>Хрящ</glossdef>
@@ -567,6 +572,11 @@
     <glossdef>Стадия пролиферации. Стадия восстановления повреждённой ткани</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-pronator-teres">
+    <glossterm>Pronator teres</glossterm>
+    <glossdef>Круглый пронатор</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-propriocept">
     <glossterm>Proprioception</glossterm>
     <glossdef>Проприоцепция. Ощущение положения частей собственного тела относительно друг друга и в пространстве</glossdef>
@@ -585,6 +595,11 @@
   <glossentry id="sl-medicglossary-radiatingpain">
     <glossterm>Radiating pain</glossterm>
     <glossdef>Отдающая боль</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-radicular">
+    <glossterm>Radicular</glossterm>
+    <glossdef>Корешковый, радикулярный</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-radiculopathy">
