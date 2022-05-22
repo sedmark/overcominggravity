@@ -919,6 +919,62 @@
   </glossentry>
 
 -->
+
+  <glossentry id="sl-medicglossary-triceps-snapping">
+    <glossterm>Triceps snapping syndrome</glossterm>
+    <glossdef>Синдром щелкающего трицепса</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-itbs">
+    <glossterm>IT band snapping syndrome</glossterm>
+    <glossdef>Синдром илиотибиального тракта</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-maltracking">
+    <glossterm>Maltracking</glossterm>
+    <glossdef>Мальттрекинг. Неправильный ход коленной чашечки при движении</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-osteoarthritis">
+    <glossterm>Оsteoarthritis</glossterm>
+    <glossdef>Остеоартрит</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-patellofemoral">
+    <glossterm>Patellofemoral</glossterm>
+    <glossdef>Пателлофеморальный. Надколенно-бедренный</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-tibia">
+    <glossterm>Tibia</glossterm>
+    <glossdef>Большая берцовая кость</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-femur">
+    <glossterm>Femur </glossterm>
+    <glossdef>Бедренная кость</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-meniscus">
+    <glossterm>Meniscus</glossterm>
+    <glossdef>Мениск</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-menisci">
+    <glossterm>Menisci</glossterm>
+    <glossdef>Мениски (множ.)</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-articular">
+    <glossterm>Articular</glossterm>
+    <glossdef>Суставный</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-crepitus">
+    <glossterm>Crepitus</glossterm>
+    <glossdef>Крепитация</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-synovial-fluid">
     <glossterm>Synovial fluid</glossterm>
     <glossdef>Синовиальная жидкость</glossdef>
@@ -926,12 +982,12 @@
 
   <glossentry id="sl-medicglossary-cracking">
     <glossterm>Cracking</glossterm>
-    <glossdef>Треск</glossdef>
+    <glossdef>Хруст</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-popping">
     <glossterm>Popping</glossterm>
-    <glossdef>Щелканье</glossdef>
+    <glossdef>Лопанье</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-clicking">
@@ -941,12 +997,12 @@
 
   <glossentry id="sl-medicglossary-crunching">
     <glossterm>Crunching</glossterm>
-    <glossdef>Скрипение, хрустение</glossdef>
+    <glossdef>Скрипение</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-snapping">
     <glossterm>Snapping</glossterm>
-    <glossdef>Потрескивание</glossdef>
+    <glossdef>Треск</glossdef>
   </glossentry>
   
   <glossentry id="sl-medicglossary-cavitation">
