@@ -32,6 +32,11 @@
     <glossdef>Акромион</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-actin">
+    <glossterm>Actin</glossterm>
+    <glossdef>Актин. Белок мышечных волокон (молекулярная масса 42 кД), существует в двух формах – фибриллярной и глобулярной, имеет участки, комплементарные участкам молекул миозина, и входит в состав актомиозина – основного сократительного белка мышц</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-art">
     <glossterm>Active Release Techniques</glossterm>
     <glossdef>Техники активного высвобождения (ТАВ)</glossdef>
@@ -87,6 +92,21 @@
     <glossdef>Артрит</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-articular">
+    <glossterm>Articular</glossterm>
+    <glossdef>Суставный</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-articular-capsule">
+    <glossterm>Articular capsule</glossterm>
+    <glossdef>Суставная капсула</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-atp">
+    <glossterm>ATP</glossterm>
+    <glossdef>АТФ. Аденозинтрифосфат</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-axillary">
     <glossterm>Axillary</glossterm>
     <glossdef>Подмышечный. Аксиллярный</glossdef>
@@ -127,6 +147,11 @@
     <glossdef>Хрящ</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-cavitation">
+    <glossterm>Сavitation</glossterm>
+    <glossdef>Кавитация. Образование пузырьков в жидкости</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-chiropractor">
     <glossterm>Chiropractor</glossterm>
     <glossdef>Хиропрактик, костоправ, мануальный терапевт</glossdef>
@@ -144,7 +169,7 @@
 
   <glossentry id="sl-medicglossary-clicking">
     <glossterm>Clicking</glossterm>
-    <glossdef>Треск, щелканье в суставах</glossdef>
+    <glossdef>Щелканье сустава</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-coenzyme">
@@ -180,6 +205,21 @@
   <glossentry id="sl-medicglossary-costal-facet">
     <glossterm>Costal facet</glossterm>
     <glossdef>Реберная фасетка</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-cracking">
+    <glossterm>Cracking</glossterm>
+    <glossdef>Хруст</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-crepitus">
+    <glossterm>Crepitus</glossterm>
+    <glossdef>Крепитация</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-crunching">
+    <glossterm>Crunching</glossterm>
+    <glossdef>Скрипение</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-deep-soreness">
@@ -225,6 +265,11 @@
   <glossentry id="sl-medicglossary-fasttwitch">
     <glossterm>Fast twitch</glossterm>
     <glossdef>Быстросокращающиеся мышечные волокна</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-femur">
+    <glossterm>Femur </glossterm>
+    <glossdef>Бедренная кость</glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-firingrate">
@@ -367,6 +412,11 @@
     <glossdef>Иннервация. Снабжение органов и тканей нервами для обеспечения их связи с центральной нервной системой</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-itbs">
+    <glossterm>IT band snapping syndrome</glossterm>
+    <glossdef>Синдром илиотибиального тракта</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-joint">
     <glossterm>Joint</glossterm>
     <glossdef>Сустав, связка</glossdef>
@@ -407,6 +457,11 @@
     <glossdef>Поясница</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-maltracking">
+    <glossterm>Maltracking</glossterm>
+    <glossdef>Мальттрекинг. Неправильный ход коленной чашечки при движении</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-medialepicondylitis">
     <glossterm>Medial epicondylitis</glossterm>
     <glossdef>Медиальный эпикондилит, <q>локоть гольфиста</q></glossdef>
@@ -415,6 +470,16 @@
   <glossentry id="sl-medicglossary-mediannerve">
     <glossterm>Median nerve</glossterm>
     <glossdef>Срединный нерв</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-menisci">
+    <glossterm>Menisci</glossterm>
+    <glossdef>Мениски (множ.)</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-meniscus">
+    <glossterm>Meniscus</glossterm>
+    <glossdef>Мениск</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-metaboliteaccumulation">
@@ -430,6 +495,16 @@
   <glossentry id="sl-medicglossary-myofascialrelease">
     <glossterm>Myofascial release</glossterm>
     <glossdef>Миофасциальная релаксация. Расслабление мягким надавливанием на мышцы и фасции.</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-myosin">
+    <glossterm>Myosin</glossterm>
+    <glossdef>Миозин. Белок сократительных волокон мышц (содержит 2 полипептидные цепи), составляющий до 60% всех мышечных белков, обладает АТФазной активностью; взаимодействуя с актином, М. преобразует химическую энергию АТФ в двигательную энергию мышц dimock)</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-myosin-head">
+    <glossterm>Myosin head</glossterm>
+    <glossdef>Миозиновая головка</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-mitochondria">
@@ -502,6 +577,16 @@
     <glossdef>Закупорка сосудов, окклюзия</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-osteoarthritis">
+    <glossterm>Оsteoarthritis</glossterm>
+    <glossdef>Остеоартрит</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-patellofemoral">
+    <glossterm>Patellofemoral</glossterm>
+    <glossdef>Пателлофеморальный. Надколенно-бедренный</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-pectoralismajor">
     <glossterm>Pectoralis major</glossterm>
     <glossdef>Большая грудная мышца</glossdef>
@@ -534,7 +619,7 @@
 
   <glossentry id="sl-medicglossary-popping">
     <glossterm>Popping</glossterm>
-    <glossdef>Пощелкивание</glossdef>
+    <glossdef>Схлопывание</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-poppingsarcomeretheory">
@@ -607,6 +692,11 @@
     <glossdef>Радикулопатия (заболевание корешков спинномозговых нервов)</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-articular-relaxin ">
+    <glossterm>Relaxin</glossterm>
+    <glossdef>Гормон релаксин</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-remodelingphase">
     <glossterm>Remodeling phase</glossterm>
     <glossdef>Стадия ремоделирования</glossdef>
@@ -657,6 +747,11 @@
     <glossdef>Крестцово-подвздошный сустав</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-sarcoplasmic-reticulum">
+    <glossterm>Sarcoplasmic reticulum</glossterm>
+    <glossdef>Саркоплазматический ретикулум</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-scapula">
     <glossterm>Scapula</glossterm>
     <glossdef>Лопатка</glossdef>
@@ -700,6 +795,16 @@
   <glossentry id="sl-medicglossary-shoulderlabrum">
     <glossterm>Shoulder labrum</glossterm>
     <glossdef>Суставная губа</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-snapping">
+    <glossterm>Snapping</glossterm>
+    <glossdef>Треск</glossdef>
+  </glossentry>
+  
+  <glossentry id="sl-medicglossary-synovial-fluid">
+    <glossterm>Synovial fluid</glossterm>
+    <glossdef>Синовиальная жидкость</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-somatosensory">
@@ -837,6 +942,11 @@
     <glossdef>Горло</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-tibia">
+    <glossterm>Tibia</glossterm>
+    <glossdef>Большая берцовая кость</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-tietze">
     <glossterm>Tietze syndrome</glossterm>
     <glossdef>Синдром Титце</glossdef>
@@ -870,6 +980,11 @@
   <glossentry id="sl-medicglossary-tricepsbrachii">
     <glossterm>Triceps brachii</glossterm>
     <glossdef>Трехглавая мышца плеча, трицепс</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-triceps-snapping">
+    <glossterm>Triceps snapping syndrome</glossterm>
+    <glossdef>Синдром щелкающего трицепса</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-triggerpoint">
@@ -919,105 +1034,5 @@
   </glossentry>
 
 -->
-
-  <glossentry id="sl-medicglossary-triceps-snapping">
-    <glossterm>Triceps snapping syndrome</glossterm>
-    <glossdef>Синдром щелкающего трицепса</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-itbs">
-    <glossterm>IT band snapping syndrome</glossterm>
-    <glossdef>Синдром илиотибиального тракта</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-maltracking">
-    <glossterm>Maltracking</glossterm>
-    <glossdef>Мальттрекинг. Неправильный ход коленной чашечки при движении</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-osteoarthritis">
-    <glossterm>Оsteoarthritis</glossterm>
-    <glossdef>Остеоартрит</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-patellofemoral">
-    <glossterm>Patellofemoral</glossterm>
-    <glossdef>Пателлофеморальный. Надколенно-бедренный</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-tibia">
-    <glossterm>Tibia</glossterm>
-    <glossdef>Большая берцовая кость</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-femur">
-    <glossterm>Femur </glossterm>
-    <glossdef>Бедренная кость</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-meniscus">
-    <glossterm>Meniscus</glossterm>
-    <glossdef>Мениск</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-menisci">
-    <glossterm>Menisci</glossterm>
-    <glossdef>Мениски (множ.)</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-articular">
-    <glossterm>Articular</glossterm>
-    <glossdef>Суставный</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-crepitus">
-    <glossterm>Crepitus</glossterm>
-    <glossdef>Крепитация</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-synovial-fluid">
-    <glossterm>Synovial fluid</glossterm>
-    <glossdef>Синовиальная жидкость</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-cracking">
-    <glossterm>Cracking</glossterm>
-    <glossdef>Хруст</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-popping">
-    <glossterm>Popping</glossterm>
-    <glossdef>Лопанье</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-clicking">
-    <glossterm>Clicking</glossterm>
-    <glossdef>Щелканье сустава</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-crunching">
-    <glossterm>Crunching</glossterm>
-    <glossdef>Скрипение</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-snapping">
-    <glossterm>Snapping</glossterm>
-    <glossdef>Треск</glossdef>
-  </glossentry>
-  
-  <glossentry id="sl-medicglossary-cavitation">
-    <glossterm>Сavitation</glossterm>
-    <glossdef>Кавитация. Образование пузырьков в жидкости</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-articular-capsule">
-    <glossterm>Articular capsule</glossterm>
-    <glossdef>Суставная капсула</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-articular-relaxin ">
-    <glossterm>Relaxin</glossterm>
-    <glossdef>Гормон релаксин</glossdef>
-  </glossentry>
 
 </glossgroup>

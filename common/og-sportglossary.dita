@@ -377,39 +377,4 @@
 
 -->  
  
-  <glossentry id="sl-sportglossary-synovial-fluid">
-    <glossterm>Synovial fluid</glossterm>
-    <glossdef>Синовиальная жидкость</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-sportglossary-cracking">
-    <glossterm>Cracking</glossterm>
-    <glossdef>Треск</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-sportglossary-popping">
-    <glossterm>Popping</glossterm>
-    <glossdef>Щелканье</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-sportglossary-clicking">
-    <glossterm>Clicking</glossterm>
-    <glossdef>Щелканье сустава</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-sportglossary-crunching">
-    <glossterm>Crunching</glossterm>
-    <glossdef>Скрипение, хрустение</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-sportglossary-snapping">
-    <glossterm>Snapping</glossterm>
-    <glossdef>Потрескивание</glossdef>
-  </glossentry>
-  
-  <glossentry id="sl-sportglossary-cavitation">
-    <glossterm>Сavitation</glossterm>
-    <glossdef>Кавитация. Образование пузырьков в жидкости</glossdef>
-  </glossentry>
-
 </glossgroup>
