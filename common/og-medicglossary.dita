@@ -1034,5 +1034,19 @@
   </glossentry>
 
 -->
+  <glossentry id="sl-medicglossary-ucs">
+    <glossterm>Upper cross syndrome</glossterm>
+    <glossdef>ВПС. Верхний перекрестный синдром</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-blade">
+    <glossterm>Shoulder blade</glossterm>
+    <glossdef>Лопатка</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-blades">
+    <glossterm>Shoulder blades</glossterm>
+    <glossdef>Заплечье</glossdef>
+  </glossentry>
 
 </glossgroup>

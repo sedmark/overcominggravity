@@ -14,11 +14,7 @@
 		<topicref href="og-ch15-wrist.dita"/>
 		<topicref href="og-ch15-cracking.dita"/>
 		<topicref href="og-ch15-cramping.dita"/>
+		<topicref href="og-ch15-imbalance.dita"/>
+		<topicref href="og-ch15-summary.dita"/>
 	</topicref>
-<!--
-  <chapter href="og-ch15-intro.dita">
-	  <topicref href="og-ch15-tendonitis.dita"/>
-	  <topicref href="og-ch15-muscle-strains.dita"/>
-  </chapter>
- -->
 </map>
