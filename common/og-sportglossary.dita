@@ -214,6 +214,16 @@
     <glossdef>Упражнение <q>Угол Манна</q></glossdef>
   </glossentry>
 
+  <glossentry id="sl-sportglossary-metcon">
+    <glossterm>Metabolic conditioning</glossterm>
+	<glossBody>
+		<glossAlt>
+		  <glossAcronym>Меткон</glossAcronym>
+		</glossAlt>
+	</glossBody>
+    <glossdef>Метаболическое кондиционирование</glossdef>
+  </glossentry>
+
   <glossentry id="sl-sportglossary-muscleup">
     <glossterm>Muscle up</glossterm>
     <glossdef>Выход силой. Силовой выход в упор на кольцах или перекладине</glossdef>
