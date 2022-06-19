@@ -792,6 +792,16 @@
     <glossdef>Передняя зубчатая мышца</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-blade">
+    <glossterm>Shoulder blade</glossterm>
+    <glossdef>Лопатка</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-blades">
+    <glossterm>Shoulder blades</glossterm>
+    <glossdef>Заплечье</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-shoulderlabrum">
     <glossterm>Shoulder labrum</glossterm>
     <glossdef>Суставная губа</glossdef>
@@ -1022,6 +1032,11 @@
     <glossdef>Позвонки</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-ucs">
+    <glossterm>Upper cross syndrome</glossterm>
+    <glossdef>ВПС. Верхний перекрестный синдром</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-ulnarnerve">
     <glossterm>Ulnar nerve</glossterm>
     <glossdef>Локтевой нерв</glossdef>
@@ -1034,19 +1049,34 @@
   </glossentry>
 
 -->
-  <glossentry id="sl-medicglossary-ucs">
-    <glossterm>Upper cross syndrome</glossterm>
-    <glossdef>ВПС. Верхний перекрестный синдром</glossdef>
+  <glossentry id="sl-medicglossary-afferent">
+    <glossterm>Afferent</glossterm>
+    <glossdef>Афферентный (тот, что передаёт к центру). Притекающий (о лимфе)</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-blade">
-    <glossterm>Shoulder blade</glossterm>
-    <glossdef>Лопатка</glossdef>
+  <glossentry id="sl-medicglossary-golgi">
+    <glossterm>Golgi tendon organ</glossterm>
+    <glossdef>Сухожильный орган Гольджи. Нервно-сухожильное веретено</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-blades">
-    <glossterm>Shoulder blades</glossterm>
-    <glossdef>Заплечье</glossdef>
+  <glossentry id="sl-medicglossary-musclespindle">
+    <glossterm>Muscle spindle</glossterm>
+    <glossdef>Нервно-мышечное веретено</glossdef>
+  </glossentry>
+  
+  <glossentry id="sl-medicglossary-nociceptive">
+    <glossterm>Nociceptive</glossterm>
+    <glossdef>Ноцицептивный (способный к восприятию и передаче боли)</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-sympathetic-response">
+    <glossterm>Sympathetic response</glossterm>
+    <glossdef>Ответ симпатической нервной системы</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-somatosensory">
+    <glossterm>Somatosensory</glossterm>
+    <glossdef>Соматосенсорный (относящийся к восприятию раздражения всем организмом, напр., восприятие света кожей)</glossdef>
   </glossentry>
 
 </glossgroup>
