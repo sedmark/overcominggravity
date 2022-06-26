@@ -47,6 +47,11 @@
     </glossBody>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-acuteinjury">
+    <glossterm>Acute injury</glossterm>
+    <glossdef>Острая травма</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-adhesion">
     <glossterm>Adhesion</glossterm>
     <glossdef>Адгезия, срастание, спайка</glossdef>
@@ -55,6 +60,11 @@
   <glossentry id="sl-medicglossary-adductor-longus">
     <glossterm>Adductor longus</glossterm>
     <glossdef>Длинная приводящая мышца</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-afferent">
+    <glossterm>Afferent</glossterm>
+    <glossdef>Афферентный (тот, что передаёт к центру). Притекающий (о лимфе)</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-aggravation">
@@ -312,6 +322,11 @@
     </glossBody>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-golgi">
+    <glossterm>Golgi tendon organ</glossterm>
+    <glossdef>Сухожильный орган Гольджи. Нервно-сухожильное веретено</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-grastontechnique">
     <glossterm>Graston technique</glossterm>
     <glossdef>Техника Грастона. Массаж с использованием специальных инструментов.</glossdef>
@@ -527,7 +542,12 @@
     <glossdef>Моторное планирование. Планирование незнакомой последовательность движений</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-musculocutaneous">
+   <glossentry id="sl-medicglossary-musclespindle">
+    <glossterm>Muscle spindle</glossterm>
+    <glossdef>Нервно-мышечное веретено</glossdef>
+  </glossentry>
+
+   <glossentry id="sl-medicglossary-musculocutaneous">
     <glossterm>Musculocutaneous</glossterm>
     <glossdef>Кожно-мышечный</glossdef>
   </glossentry>
@@ -550,6 +570,11 @@
   <glossentry id="sl-medicglossary-neuritis">
     <glossterm>Neuritis</glossterm>
     <glossdef>Неврит. Воспаление нерва</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-nociceptive">
+    <glossterm>Nociceptive</glossterm>
+    <glossdef>Ноцицептивный (способный к восприятию и передаче боли)</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-numbness">
@@ -819,7 +844,7 @@
 
   <glossentry id="sl-medicglossary-somatosensory">
     <glossterm>Somatosensory</glossterm>
-    <glossdef>Соматосенсорный</glossdef>
+    <glossdef>Соматосенсорный (относящийся к восприятию раздражения всем организмом, напр., восприятие света кожей)</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-spinalcord">
@@ -870,6 +895,11 @@
   <glossentry id="sl-medicglossary-swelling">
     <glossterm>Swelling</glossterm>
     <glossdef>Опухоль</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-sympathetic-response">
+    <glossterm>Sympathetic response</glossterm>
+    <glossdef>Ответ симпатической нервной системы</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-tenderspot">
@@ -925,6 +955,11 @@
   <glossentry id="sl-medicglossary-teresminormuscle">
     <glossterm>Teres minor muscle</glossterm>
     <glossdef>Малая круглая мышца</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-thalamocortical">
+    <glossterm>Thalamocortical</glossterm>
+    <glossdef>Таламокортикальный</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-thoracic">
@@ -1049,34 +1084,5 @@
   </glossentry>
 
 -->
-  <glossentry id="sl-medicglossary-afferent">
-    <glossterm>Afferent</glossterm>
-    <glossdef>Афферентный (тот, что передаёт к центру). Притекающий (о лимфе)</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-golgi">
-    <glossterm>Golgi tendon organ</glossterm>
-    <glossdef>Сухожильный орган Гольджи. Нервно-сухожильное веретено</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-musclespindle">
-    <glossterm>Muscle spindle</glossterm>
-    <glossdef>Нервно-мышечное веретено</glossdef>
-  </glossentry>
-  
-  <glossentry id="sl-medicglossary-nociceptive">
-    <glossterm>Nociceptive</glossterm>
-    <glossdef>Ноцицептивный (способный к восприятию и передаче боли)</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-sympathetic-response">
-    <glossterm>Sympathetic response</glossterm>
-    <glossdef>Ответ симпатической нервной системы</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-somatosensory">
-    <glossterm>Somatosensory</glossterm>
-    <glossdef>Соматосенсорный (относящийся к восприятию раздражения всем организмом, напр., восприятие света кожей)</glossdef>
-  </glossentry>
 
 </glossgroup>
