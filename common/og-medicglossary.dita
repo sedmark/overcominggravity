@@ -1085,4 +1085,20 @@
 
 -->
 
+  <glossentry id="sl-medicglossary-aphasia">
+    <glossterm>Aphasia</glossterm>
+    <glossdef>афразия (нарушение речи, характеризующееся утратой способности понимать чужую речь)</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-graded-response">
+    <glossterm>Graded response</glossterm>
+    <glossdef>Ответ по возрастающей</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-fetal">
+    <glossterm>Fetal</glossterm>
+    <glossdef>Эмбриональный</glossdef>
+  </glossentry>
+
+ 
 </glossgroup>
