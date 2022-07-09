@@ -97,6 +97,11 @@
     <glossdef>Противовоспалительное лечение</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-aphasia">
+    <glossterm>Aphasia</glossterm>
+    <glossdef>Афразия (нарушение речи, характеризующееся утратой способности понимать чужую речь)</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-arthritis">
     <glossterm>Arthritis</glossterm>
     <glossdef>Артрит</glossdef>
@@ -282,6 +287,11 @@
     <glossdef>Бедренная кость</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-fetal">
+    <glossterm>Fetal</glossterm>
+    <glossdef>Эмбриональный</glossdef>
+  </glossentry>
+
   <glossentry id="sl-sportglossary-firingrate">
     <glossterm>Firing rate</glossterm>
     <glossdef>Частота пульсации (нейрона), частота спайкового разряда</glossdef>
@@ -325,6 +335,11 @@
   <glossentry id="sl-medicglossary-golgi">
     <glossterm>Golgi tendon organ</glossterm>
     <glossdef>Сухожильный орган Гольджи. Нервно-сухожильное веретено</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-graded-response">
+    <glossterm>Graded response</glossterm>
+    <glossdef>Ответ по возрастающей</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-grastontechnique">
@@ -874,7 +889,7 @@
 
   <glossentry id="sl-medicglossary-stiffness">
     <glossterm>Stiffness</glossterm>
-    <glossdef>Жесткость, одеревенение</glossdef>
+    <glossdef>Жесткость, одеревенение, скованность</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-subclavius">
@@ -1084,21 +1099,5 @@
   </glossentry>
 
 -->
-
-  <glossentry id="sl-medicglossary-aphasia">
-    <glossterm>Aphasia</glossterm>
-    <glossdef>афразия (нарушение речи, характеризующееся утратой способности понимать чужую речь)</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-graded-response">
-    <glossterm>Graded response</glossterm>
-    <glossdef>Ответ по возрастающей</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-fetal">
-    <glossterm>Fetal</glossterm>
-    <glossdef>Эмбриональный</glossdef>
-  </glossentry>
-
  
 </glossgroup>
