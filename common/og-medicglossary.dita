@@ -1099,5 +1099,14 @@
   </glossentry>
 
 -->
- 
+  <glossentry id="sl-medicglossary-pnf">
+    <glossterm>Proprioceptive neuromuscular facilitation</glossterm>
+    <glossdef>Проприоцептивная нейромышечная фасилитация</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>AC</glossAcronym>
+      </glossAlt>
+    </glossBody>
+  </glossentry>
+
 </glossgroup>
