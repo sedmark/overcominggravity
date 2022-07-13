@@ -622,6 +622,11 @@
     <glossdef>Остеоартрит</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-patellar">
+    <glossterm>Patellar </glossterm>
+    <glossdef>Надколенный, надколенник, пателлярный</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-patellofemoral">
     <glossterm>Patellofemoral</glossterm>
     <glossdef>Пателлофеморальный. Надколенно-бедренный</glossdef>
@@ -705,6 +710,16 @@
   <glossentry id="sl-medicglossary-propriocept">
     <glossterm>Proprioception</glossterm>
     <glossdef>Проприоцепция. Ощущение положения частей собственного тела относительно друг друга и в пространстве</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-pnf">
+    <glossterm>Proprioceptive neuromuscular facilitation</glossterm>
+    <glossdef>Проприоцептивная нейромышечная фасилитация</glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAcronym>AC</glossAcronym>
+      </glossAlt>
+    </glossBody>
   </glossentry>
 
   <glossentry id="sl-medicglossary-quadratus">
@@ -1099,14 +1114,4 @@
   </glossentry>
 
 -->
-  <glossentry id="sl-medicglossary-pnf">
-    <glossterm>Proprioceptive neuromuscular facilitation</glossterm>
-    <glossdef>Проприоцептивная нейромышечная фасилитация</glossdef>
-    <glossBody>
-      <glossAlt>
-        <glossAcronym>AC</glossAcronym>
-      </glossAlt>
-    </glossBody>
-  </glossentry>
-
 </glossgroup>
