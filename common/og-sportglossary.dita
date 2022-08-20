@@ -89,6 +89,11 @@
     <glossdef>Линейка последовательных значений чего-либо, например, силовых нагрузок от легких до тяжелых</glossdef>
   </glossentry>
 
+  <glossentry id="sl-sportglossary-craning">
+    <glossterm>Craning</glossterm>
+    <glossdef>Вытягивание шеи</glossdef>
+  </glossentry>
+ 
   <glossentry id="sl-sportglossary-deadlift">
     <glossterm>Deadlift</glossterm>
     <glossdef>Становая тяга</glossdef>
@@ -131,7 +136,7 @@
   
   <glossentry id="sl-sportglossary-goodmorning">
     <glossterm>Good morning</glossterm>
-    <glossdef>Наклон с весом на спине</glossdef>
+    <glossdef> </glossdef>
   </glossentry>
 
   <glossentry id="sl-sportglossary-grossmovements">
@@ -395,5 +400,10 @@
     <glossterm>LYTP</glossterm>
     <glossdef></glossdef>
   </glossentry>
- 
+
+  <glossentry id="sl-sportglossary-facet-joint">
+    <glossterm>Facet joint</glossterm>
+    <glossdef>Фасеточный сустав</glossdef>
+  </glossentry>
+
 </glossgroup>

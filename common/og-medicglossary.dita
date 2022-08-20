@@ -167,6 +167,11 @@
     <glossdef>Кавитация. Образование пузырьков в жидкости</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-cervical">
+    <glossterm>Cervical</glossterm>
+    <glossdef>Шейный</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-chiropractor">
     <glossterm>Chiropractor</glossterm>
     <glossdef>Хиропрактик, костоправ, мануальный терапевт</glossdef>
@@ -192,16 +197,6 @@
     <glossdef>Коэнзим Q10</glossdef>
   </glossentry>
 
-  <glossentry id="sl-medicglossary-costal">
-    <glossterm>Costal</glossterm>
-    <glossdef>Реберный</glossdef>
-  </glossentry>
-
-  <glossentry id="sl-medicglossary-costochondritis">
-    <glossterm>Costochondritis</glossterm>
-    <glossdef>Костохондрит</glossdef>
-  </glossentry>
-
   <glossentry id="sl-medicglossary-coracobrachialis">
     <glossterm>Coracobrachialis</glossterm>
     <glossdef>Клювовидно-плечевая мышца</glossdef>
@@ -217,9 +212,24 @@
     <glossdef>Кортизон</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-costal">
+    <glossterm>Costal</glossterm>
+    <glossdef>Реберный</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-costal-facet">
     <glossterm>Costal facet</glossterm>
     <glossdef>Реберная фасетка</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-costochondritis">
+    <glossterm>Costochondritis</glossterm>
+    <glossdef>Костохондрит</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-medicglossary-costovertebral">
+    <glossterm>Сostovertebral</glossterm>
+    <glossdef>Позвоночно-реберный</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-cracking">
@@ -270,6 +280,11 @@
   <glossentry id="sl-medicglossary-extrotator">
     <glossterm>External rotator</glossterm>
     <glossdef>Мышца-вращатель</glossdef>
+  </glossentry>
+
+  <glossentry id="sl-sportglossary-facet-joint">
+    <glossterm>Facet joint</glossterm>
+    <glossdef>Фасеточный сустав</glossdef>
   </glossentry>
 
   <glossentry id="sl-medicglossary-fascia">
@@ -857,6 +872,11 @@
     <glossdef>Заплечье</glossdef>
   </glossentry>
 
+  <glossentry id="sl-medicglossary-shoulder-girdle">
+    <glossterm>Shoulder girdle</glossterm>
+    <glossdef>Плечевой пояс</glossdef>
+  </glossentry>
+
   <glossentry id="sl-medicglossary-shoulderlabrum">
     <glossterm>Shoulder labrum</glossterm>
     <glossdef>Суставная губа</glossdef>
@@ -1114,4 +1134,5 @@
   </glossentry>
 
 -->
+
 </glossgroup>
