@@ -2,7 +2,7 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="rice" xml:lang="ru">
     <glossterm>БЛОК</glossterm>
-    <glossdef><text id="rice_def">Лечебная рекомендация «Бездействие (окой), Лед (холод), Обжим (комрессионная повязка), К верху (приподнятое положение)»</text></glossdef>
+    <glossdef><text id="rice_def">Лечебная рекомендация «Бездействие (Покой), Лед (холод), Обжим (комрессионная повязка), К верху (приподнятое положение)»</text></glossdef>
 <glossBody>
     <glossSurfaceForm><text conref="#./rice_def"/> (БЛОК)</glossSurfaceForm>
     <glossAlt>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa5="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd:1.1" id="og-ch16-wrists" xml:lang="ru">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept  id="og-ch16-wrists" xml:lang="ru">
   <title>Запястья</title>
   <conbody>
     <p>Запястья — интересные суставы с точки зрения их использования.</p>
