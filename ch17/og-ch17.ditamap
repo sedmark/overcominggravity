@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd:1.1" id="map17" xml:lang="ru">
+
+	<topicref href="og-ch17-intro.dita">
+		<topicref href="og-ch17-chrono.dita"/>
+	</topicref>
+</map>
