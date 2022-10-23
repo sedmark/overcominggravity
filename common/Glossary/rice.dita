@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
-<glossentry id="rice" xml:lang="ru">
+<glossentry id="rice">
     <glossterm>БЛОК</glossterm>
-    <glossdef><text id="rice_def">Лечебная рекомендация «Бездействие (Покой), Лед (холод), Обжим (комрессионная повязка), К верху (приподнятое положение)»</text></glossdef>
-<glossBody>
-    <glossSurfaceForm><text conref="#./rice_def"/> (БЛОК)</glossSurfaceForm>
-    <glossAlt>
-        <glossAcronym>БЛОК</glossAcronym>
-    </glossAlt>
-    <glossAlt  id="ru_abbr">
-        <glossAbbreviation>БЛОК</glossAbbreviation>
-    </glossAlt>
-    <glossAlt xml:lang="en">
-        <glossAbbreviation>RICE</glossAbbreviation>
-        <glossAlternateFor  href="#rice/ru_abbr"/>
-    </glossAlt>
-</glossBody>
+    <glossdef>Бездействие и покой, Лед или холод, Обжим компрессионной повязкой, Кверху приподнятое положение</glossdef>
+    <!-- RICE (Rest, Ice, Compress, Elevation) -->
 </glossentry>
