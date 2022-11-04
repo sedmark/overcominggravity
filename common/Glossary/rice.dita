@@ -2,7 +2,7 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="rice">
     <glossterm>БЛОК</glossterm>
-    <glossdef>Бездействие и покой, Лед, Обжим компрессионной повязкой, положение Кверху</glossdef>
+    <glossdef><text id="def">Бездействие и покой, Лед, Обжим компрессионной повязкой, положение Кверху</text></glossdef>
     <glossBody>
         <glossAlt>
             <glossSynonym id="abbrev_en">RICE</glossSynonym>
