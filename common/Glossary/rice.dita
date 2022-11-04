@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
-<glossentry id="rice"  xml:lang="ru">
+<glossentry id="rice">
     <glossterm>БЛОК</glossterm>
     <glossdef>Бездействие и покой, Лед, Обжим компрессионной повязкой, положение Кверху</glossdef>
     <glossBody>
-        <glossAlt>
-            <glossAbbreviation id="abbrev">БЛОК</glossAbbreviation>
-        </glossAlt>
         <glossAlt>
             <glossSynonym id="abbrev_en">RICE</glossSynonym>
             <glossUsage>Rest, Ice, Compress, Elevation</glossUsage>
