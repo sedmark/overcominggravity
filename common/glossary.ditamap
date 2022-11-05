@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Глоссарий</title>
-    <glossref keys="gl-rice" href="./Glossary/rice.dita"></glossref>
+    <glossref keys="gl-nsaid" href="./Glossary/nsaid.dita" format="dita"/>
+    <glossref keys="gl-pricem" href="./Glossary/pricem.dita" format="dita"/>
+    <glossref keys="gl-rice" href="./Glossary/rice.dita" format="dita"/>
 </map>

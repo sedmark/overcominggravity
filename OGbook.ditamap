@@ -8,14 +8,16 @@
     <author type="creator">Стивен Лоу</author>
   </bookmeta>
   <frontmatter>
-    <topicref href="common/glossary.ditamap" format="ditamap"/>
+    <booklists>
+      <glossarylist href="common/glossary.ditamap"  format="ditamap"/>
+    </booklists>
   </frontmatter>
-  <part navtitle="Как составить собственную программу тренировок (Раздел в разработке)"></part>
-  <part navtitle="Забота о здоровье и помощь при травмах">
+  <part navtitle="Как составить собственную программу тренировок (Раздел в разработке)" keys="part_i"></part>
+  <part navtitle="Забота о здоровье и помощь при травмах" keys="part_ii">
     <topicref href="ch15/og-ch15.ditamap" format="ditamap"/>
-    <topicref href="ch16/og-ch16.ditamap" format="ditamap"/>
-    <topicref href="ch17/og-ch17.ditamap" format="ditamap"/>
+    <mapref href="ch16/og-ch16.ditamap" format="ditamap"/>
+    <mapref href="ch17/og-ch17.ditamap" format="ditamap"/>
   </part>
-  <part navtitle="Справочные материалы (Раздел в разработке)"/>
+  <part navtitle="Справочные материалы (Раздел в разработке)" keys="part_iii"/>
   
 </bookmap>
