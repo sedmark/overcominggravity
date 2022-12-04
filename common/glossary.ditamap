@@ -5,4 +5,6 @@
     <glossref keys="gl-pricem" href="./Glossary/pricem.dita" format="dita"/>
     <glossref keys="gl-rice" href="./Glossary/rice.dita" format="dita"/>
     <glossref keys="gl-rm" href="./Glossary/rm.dita" format="dita"/>
+    <glossref keys="gl-slap" href="./Glossary/slap.dita" format="dita"/>
+	<glossref keys="gl-vascularization" href="./Glossary/vascularization.dita" format="dita"/>
 </map>

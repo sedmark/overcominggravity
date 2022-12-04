@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="slap">
+    <glossterm>SLAP-повреждение</glossterm>
+    <glossdef><text id="def">Повреждение гленоидной губы плечевого сустава</text></glossdef>
+    <glossBody>
+        <glossAlt>
+            <glossSynonym id="abbrev_en">SLAP</glossSynonym>
+            <glossUsage>Superior Labrum from Anterior to Posterior tear</glossUsage>
+        </glossAlt>
+    </glossBody>
+</glossentry>
