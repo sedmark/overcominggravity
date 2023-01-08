@@ -5,8 +5,10 @@
     <glossref keys="gl-pricem" href="Glossary/pricem.dita" format="dita"/>
     <glossref keys="gl-vascularization" href="Glossary/vascularization.dita" format="dita"/>
 	<glossref keys="gl-motoneuron" href="./Glossary/motoneuron.dita" format="dita"/>
+    <glossref keys="gl-naturalcalm" href="./Glossary/naturalcalm.dita" format="dita"/>
     <glossref keys="gl-nsaid" href="./Glossary/nsaid.dita" format="dita"/>
     <glossref keys="gl-rm" href="Glossary/rm.dita" format="dita"/>
 	<glossref keys="gl-radiculopathy" href="./Glossary/radiculopathy.dita" format="dita"/>
     <glossref keys="gl-slap" href="./Glossary/slap.dita" format="dita"/>
+    <glossref keys="gl-zma" href="./Glossary/zma.dita" format="dita"/>
 </map>
