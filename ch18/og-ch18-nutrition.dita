@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="og-ch18-nutrition" xml:lang="ru">
+  <title>Питание</title>
+
+  <titlealts>
+    <navtitle>Питание</navtitle>
+  </titlealts>
+
+  <conbody>
+    <p>Скажу сразу: мне нравится палеолитическая диета.</p>
+  </conbody>
+
+  <!--
+  <related-links>
+    <link href=".dita"/>
+  </related-links>
+ -->
+</concept>
