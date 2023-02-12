@@ -4,6 +4,7 @@
     <glossref keys="gl-rice" href="Glossary/rice.dita" format="dita"/>
     <glossref keys="gl-pricem" href="Glossary/pricem.dita" format="dita"/>
     <glossref keys="gl-vascularization" href="Glossary/vascularization.dita" format="dita"/>
+	<glossref keys="gl-ages" href="./Glossary/ages.dita" format="dita"/>
 	<glossref keys="gl-motoneuron" href="./Glossary/motoneuron.dita" format="dita"/>
     <glossref keys="gl-naturalcalm" href="./Glossary/naturalcalm.dita" format="dita"/>
     <glossref keys="gl-nsaid" href="./Glossary/nsaid.dita" format="dita"/>
