@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
+    <glossref keys="gl-bcaa" href="Glossary/bcaa.dita" format="dita"/>
     <glossref keys="gl-rice" href="Glossary/rice.dita" format="dita"/>
     <glossref keys="gl-pricem" href="Glossary/pricem.dita" format="dita"/>
     <glossref keys="gl-vascularization" href="Glossary/vascularization.dita" format="dita"/>
