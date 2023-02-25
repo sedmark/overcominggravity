@@ -2,15 +2,22 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <glossref keys="gl-bcaa" href="Glossary/bcaa.dita" format="dita"/>
+    <glossref keys="gl-naturalcalm" href="Glossary/naturalcalm.dita" format="dita"/>
+    <glossref keys="gl-slap" href="Glossary/slap.dita" format="dita"/>
+    <glossref keys="gl-zma" href="Glossary/zma.dita" format="dita"/>
+	<glossref keys="gl-actin" href="./Glossary/actin.dita" format="dita"/>
     <glossref keys="gl-rice" href="Glossary/rice.dita" format="dita"/>
     <glossref keys="gl-pricem" href="Glossary/pricem.dita" format="dita"/>
     <glossref keys="gl-vascularization" href="Glossary/vascularization.dita" format="dita"/>
 	<glossref keys="gl-ages" href="./Glossary/ages.dita" format="dita"/>
+	<glossref keys="gl-doms" href="./Glossary/doms.dita" format="dita"/>
+	<glossref keys="gl-metabolite" href="./Glossary/metabolite.dita" format="dita"/>
+	<glossref keys="gl-myosin" href="./Glossary/myosin.dita" format="dita"/>
 	<glossref keys="gl-motoneuron" href="./Glossary/motoneuron.dita" format="dita"/>
-    <glossref keys="gl-naturalcalm" href="./Glossary/naturalcalm.dita" format="dita"/>
     <glossref keys="gl-nsaid" href="./Glossary/nsaid.dita" format="dita"/>
+    <glossref keys="gl-occlusion" href="./Glossary/occlusion.dita" format="dita"/>
     <glossref keys="gl-rm" href="Glossary/rm.dita" format="dita"/>
 	<glossref keys="gl-radiculopathy" href="./Glossary/radiculopathy.dita" format="dita"/>
-    <glossref keys="gl-slap" href="./Glossary/slap.dita" format="dita"/>
-    <glossref keys="gl-zma" href="./Glossary/zma.dita" format="dita"/>
+	<glossref keys="gl-rhabdomyolysis" href="./Glossary/rhabdomyolysis.dita" format="dita"/>
+    <glossref keys="gl-golgi" href="Glossary/golgi.dita" format="dita"/>
 </map>

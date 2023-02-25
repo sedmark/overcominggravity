@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="doms">
+    <glossterm>Крепатура</glossterm>
+    <glossdef><text id="def">Синдром отсроченной мышечной боли</text></glossdef>
+    <glossBody>
+		<glossAlt>
+			<glossSynonym id="abbrev_en">DOMS</glossSynonym>
+			<glossUsage>Delayed onset muscle soreness
+			</glossUsage>
+		</glossAlt>
+    </glossBody>
+</glossentry>
