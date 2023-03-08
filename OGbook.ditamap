@@ -14,6 +14,7 @@
   </frontmatter>
   <part navtitle="Как составить собственную программу тренировок (Раздел в разработке)" keys="part_i"></part>
   <part navtitle="Забота о здоровье и помощь при травмах" keys="part_ii">
+    <mapref href="ch12/og-ch12.ditamap" format="ditamap"/>
     <mapref href="ch13/og-ch13.ditamap" format="ditamap"/>
     <mapref href="ch14/og-ch14.ditamap" format="ditamap"/>
     <mapref href="ch15/og-ch15.ditamap" format="ditamap"/>
