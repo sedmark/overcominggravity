@@ -6,13 +6,19 @@
   </booktitle>
   <bookmeta>
     <author type="creator">Стивен Лоу</author>
+    <author type="contributor">Дмитрий Семенов (перевод на русский)</author>
   </bookmeta>
   <frontmatter>
     <booklists>
       <glossarylist href="common/glossary.ditamap"  format="ditamap"/>
     </booklists>
   </frontmatter>
-  <part navtitle="Как составить собственную программу тренировок (Раздел в разработке)" keys="part_i"></part>
+  
+  <chapter>
+    <mapref href="ch0/og-ch0.ditamap" format="ditamap"/>
+  </chapter>
+  <part navtitle="Как составить собственную программу тренировок (Раздел в разработке)" keys="part_i">
+  </part>
   <part navtitle="Забота о здоровье и помощь при травмах" keys="part_ii">
     <mapref href="ch12/og-ch12.ditamap" format="ditamap"/>
     <mapref href="ch13/og-ch13.ditamap" format="ditamap"/>
@@ -23,5 +29,4 @@
     <mapref href="ch18/og-ch18.ditamap" format="ditamap"/>
   </part>
   <part navtitle="Справочные материалы (Раздел в разработке)" keys="part_iii"/>
-  
 </bookmap>
