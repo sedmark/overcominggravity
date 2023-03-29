@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map0" xml:lang="ru">
+<map id="map0" xml:lang="ru" collection-type="sequence" toc="yes">
 	<topicref href="og-ch0-pre.dita"/>
 	<topicref href="og-ch0-intro.dita"/>
 </map>

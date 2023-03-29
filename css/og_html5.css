@@ -1029,3 +1029,25 @@ a.link[href*='dita-ot_day']::after,
   background-size: contain;
   margin-left: 6px;
 }
+
+
+nav.toc {
+  float: left;
+  margin-top: 0.5rem;
+  width: 300px;
+  font-size: small; 
+}
+
+nav.toc li.active > a {
+  font-weight: var(--font-weight-bold);
+}
+/* ↑ end-nav-ref ↑ */
+
+nav.toc > ul {
+  margin-left: -0.4rem;
+  margin-right: 2rem;
+}
+
+nav.toc > ul li {
+  line-height: 1.25rem;
+}

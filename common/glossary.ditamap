@@ -10,6 +10,7 @@
     <glossref keys="gl-pricem" href="Glossary/pricem.dita" format="dita"/>
     <glossref keys="gl-bodyweighter" href="Glossary/bodyweighter.dita" format="dita"/>
     <glossref keys="gl-vascularization" href="Glossary/vascularization.dita" format="dita"/>
+    <glossref keys="gl-planche" href="Glossary/planche.dita" format="dita"/>
 	<glossref keys="gl-ages" href="./Glossary/ages.dita" format="dita"/>
 	<glossref keys="gl-doms" href="./Glossary/doms.dita" format="dita"/>
 	<glossref keys="gl-metabolite" href="./Glossary/metabolite.dita" format="dita"/>
@@ -17,7 +18,10 @@
 	<glossref keys="gl-motoneuron" href="./Glossary/motoneuron.dita" format="dita"/>
     <glossref keys="gl-nsaid" href="./Glossary/nsaid.dita" format="dita"/>
     <glossref keys="gl-occlusion" href="./Glossary/occlusion.dita" format="dita"/>
+    <glossref keys="gl-frontlever" href="Glossary/frontlever.dita" format="dita"/>
     <glossref keys="gl-rm" href="Glossary/rm.dita" format="dita"/>
+    <glossref keys="gl-progression" href="Glossary/progression.dita" format="dita"/>
+    <glossref keys="gl-proprioception" href="Glossary/proprioception.dita" format="dita"/>
 	<glossref keys="gl-radiculopathy" href="./Glossary/radiculopathy.dita" format="dita"/>
 	<glossref keys="gl-rhabdomyolysis" href="./Glossary/rhabdomyolysis.dita" format="dita"/>
     <glossref keys="gl-golgi" href="Glossary/golgi.dita" format="dita"/>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map16" xml:lang="ru">
-	<topicref href="og-ch16-intro.dita">
+	<topicref href="og-ch16-intro.dita" collection-type="sequence">
 		<topicref href="og-ch16-prehabilitation.dita"/>
 		<topicref href="og-ch16-mobility.dita"/>
 		<topicref href="og-ch16-physical-aspect.dita"/>

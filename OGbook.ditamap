@@ -5,8 +5,9 @@
     <mainbooktitle><image href="images/Overcominggravity_RUS_400.jpg"></image></mainbooktitle>
   </booktitle>
   <bookmeta>
-    <author type="creator">Стивен Лоу</author>
-    <author type="contributor">Дмитрий Семенов (перевод на русский)</author>
+    <author type="creator"  xml:lang="ru">Стивен Лоу</author>
+    <author type="creator"  xml:lang="en">Стивен Лоу</author>
+    <author type="contributor">Дмитрий Семенов (перевод на русский язык)</author>
   </bookmeta>
   <frontmatter>
     <booklists>
@@ -14,10 +15,12 @@
     </booklists>
   </frontmatter>
   
-  <chapter>
+
+  <chapter navtitle="Вводная часть" linking="normal">
     <mapref href="ch0/og-ch0.ditamap" format="ditamap"/>
   </chapter>
-  <part navtitle="Часть I — Как составить собственную программу тренировок (Раздел в разработке)" keys="part_i">
+  <part navtitle="Часть I — Как разработать собственную программу тренировок (Раздел в разработке)" keys="part_i">
+    <mapref href="ch01/og-ch01.ditamap" format="ditamap"/>
   </part>
   <part navtitle="Часть II — Забота о здоровье и помощь при травмах" keys="part_ii">
     <mapref href="ch12/og-ch12.ditamap" format="ditamap"/>
