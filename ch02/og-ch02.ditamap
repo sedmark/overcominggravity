@@ -1,7 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map02" xml:lang="ru">
-	<topicref href="og-ch02-intro.dita">
+	<topicref href="og-ch02-intro.dita" collection-type="sequence">
+		<topicref href="og-ch02-repetitioncontinuum.dita"/>
+		<topicref href="og-ch02-musclefibertypes.dita"/>
+		<topicref href="og-ch02-motorunits.dita"/>
+		<topicref href="og-ch02-neuralstrength.dita"/>
+		<topicref href="og-ch02-roleofnerv.dita"/>
+		<topicref href="og-ch02-othertidbits.dita"/>
+		<topicref href="og-ch02-hypertrophy.dita"/>
 		<topicref href="og-ch02-summary.dita"/>
 	</topicref>
 </map>
