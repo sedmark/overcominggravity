@@ -7,6 +7,7 @@
     <glossref keys="gl-zma" href="Glossary/zma.dita" format="dita"/>
 	<glossref keys="gl-actin" href="./Glossary/actin.dita" format="dita"/>
     <glossref keys="gl-anaerobicmetabolism" href="Glossary/anaerobicmetabolism.dita" format="dita"/>
+    <glossref keys="gl-atp" href="Glossary/atp.dita" format="dita"/>
     <glossref keys="gl-rice" href="Glossary/rice.dita" format="dita"/>
     <glossref keys="gl-pricem" href="Glossary/pricem.dita" format="dita"/>
     <glossref keys="gl-bodyweighter" href="Glossary/bodyweighter.dita" format="dita"/>
@@ -15,6 +16,9 @@
     <glossref keys="gl-innervation" href="Glossary/innervation.dita" format="dita"/>
 	<glossref keys="gl-ages" href="./Glossary/ages.dita" format="dita"/>
 	<glossref keys="gl-doms" href="./Glossary/doms.dita" format="dita"/>
+    <glossref keys="gl-htmu" href="Glossary/htmu.dita" format="dita"/>
+    <glossref keys="gl-ltmu" href="Glossary/ltmu.dita" format="dita"/>
+    <glossref keys="gl-mtmu" href="Glossary/mtmu.dita" format="dita"/>
 	<glossref keys="gl-metabolite" href="./Glossary/metabolite.dita" format="dita"/>
 	<glossref keys="gl-myosin" href="./Glossary/myosin.dita" format="dita"/>
 	<glossref keys="gl-motoneuron" href="./Glossary/motoneuron.dita" format="dita"/>

@@ -21,6 +21,7 @@
   </chapter>
   <part navtitle="Часть I — Как разработать собственную программу тренировок (Раздел в разработке)" keys="part_i">
     <mapref href="ch01/og-ch01.ditamap" format="ditamap"/>
+    <mapref href="ch02/og-ch02.ditamap" format="ditamap"/>
   </part>
   <part navtitle="Часть II — Забота о здоровье и помощь при травмах" keys="part_ii">
     <mapref href="ch12/og-ch12.ditamap" format="ditamap"/>

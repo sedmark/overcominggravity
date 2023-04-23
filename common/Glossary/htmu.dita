@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="htmu">
+    <glossterm>МЕВП</glossterm>
+    <glossdef><text id="def">Моторные единицы с высоким порогом активации</text></glossdef>
+</glossentry>
