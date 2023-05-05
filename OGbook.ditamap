@@ -22,6 +22,7 @@
   <part navtitle="Часть I — Как разработать собственную программу тренировок (Раздел в разработке)" keys="part_i">
     <mapref href="ch01/og-ch01.ditamap" format="ditamap"/>
     <mapref href="ch02/og-ch02.ditamap" format="ditamap"/>
+    <mapref href="ch03/og-ch03.ditamap" format="ditamap"/>
   </part>
   <part navtitle="Часть II — Забота о здоровье и помощь при травмах" keys="part_ii">
     <mapref href="ch12/og-ch12.ditamap" format="ditamap"/>
@@ -32,5 +33,9 @@
     <mapref href="ch17/og-ch17.ditamap" format="ditamap"/>
     <mapref href="ch18/og-ch18.ditamap" format="ditamap"/>
   </part>
-  <part navtitle="Часть III — Справочные материалы (Раздел в разработке)" keys="part_iii"/>
+  <part navtitle="Часть III — Справочные материалы (Раздел в разработке)" keys="part_iii">
+    <mapref href="app_a/og-app-a.ditamap" format="ditamap"/>
+    <mapref href="app_b/og-app-b.ditamap" format="ditamap"/>
+    <mapref href="app_c/og-app-c.ditamap" format="ditamap"/>
+  </part>
 </bookmap>

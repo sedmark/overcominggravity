@@ -2,6 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map03" xml:lang="ru">
 	<topicref href="og-ch03-intro.dita">
+		<topicref href="og-ch03-selectinggoals.dita"/>
+		<topicref href="og-ch03-commitment.dita"/>
+		<topicref href="og-ch03-stop.dita"/>
 		<topicref href="og-ch03-summary.dita"/>
 	</topicref>
 </map>
