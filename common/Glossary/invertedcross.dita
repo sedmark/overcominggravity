@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="invertedcross">
+    <glossterm>Обратный крест</glossterm>
+  <glossdef><text id="def">Упражнение на кольцах. Другие названия: «крест вниз головой», «стойка в кресте»</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossSynonym id="en">Inverted Cross</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

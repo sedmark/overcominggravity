@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="backlever">
+  <glossterm>Задний вис</glossterm>
+  <glossdef><text id="def">Горизонтальный вис сзади, «ласточка»</text>
+    <image href="images/backlever.png" placement="break"/></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossSynonym id="en">Back Lever</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

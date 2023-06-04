@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="victorian">
+    <glossterm>Обратный самолет</glossterm>
+    <glossdef><text id="def">Упражнение на кольцах. Международное название — Викторианский крест</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossSynonym id="en">Victorian</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

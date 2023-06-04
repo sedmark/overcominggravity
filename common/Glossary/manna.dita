@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="manna">
+  <glossterm>Манна</glossterm>
+  <glossdef><text id="def">Параллельный угол. Упражнение в спортивной гимнастике</text>
+  <image href="images/manna.png" placement="break"/></glossdef>
+  <glossBody>
+    <glossAlt>
+      <glossSynonym id="en">Manna</glossSynonym>
+    </glossAlt>
+  </glossBody>
+</glossentry>
+
+  
