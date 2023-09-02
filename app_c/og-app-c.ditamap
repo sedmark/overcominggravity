@@ -3,5 +3,6 @@
 <map id="map-app-a" xml:lang="ru">
 	<topicref href="og-app-c-intro.dita">
 		<!--topicref href="og-app-c-summary.dita"/-->
+		<topicref href="tables.dita"/>
 	</topicref>
 </map>

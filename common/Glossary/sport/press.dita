@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="press">
+  <glossterm>Жим</glossterm>
+  <glossdef><text id="def">Жим над головой</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Press</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym id="en">Press Overhead</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

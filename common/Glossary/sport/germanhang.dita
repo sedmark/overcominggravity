@@ -3,7 +3,7 @@
 <glossentry id="germanhang">
   <glossterm>Немецкий вис</glossterm>
   <glossdef><text id="def">Упражнения для растяжки и гибкости плечевого пояса</text>
-    <image href="images/germanhang.png" placement="break"/></glossdef>
+    <image href="../images/germanhang.png" placement="break"/></glossdef>
     <glossBody>
       <glossAlt>
         <glossSynonym id="en">German hang</glossSynonym>

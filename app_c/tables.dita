@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="tables" xml:lang="ru">
+    <title>Таблицы прогрессий развития силы и навыков <text conkeyref="gl-hs/abbrev"/></title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table id="table1" orient="land">
+            <tgroup cols="12">
+                <colspec colname="group" align="center"/>
+                <colspec colname="fig" align="center"/>
+                <colspec colname="level" align="center"/>
+                <colspec colname="1" align="center"/>
+                <colspec colname="2" align="center"/>
+                <colspec colname="3" align="center"/>
+                <colspec colname="4" align="center"/>
+                <colspec colname="5" align="center"/>
+                <colspec colname="6" align="center"/>
+                <colspec colname="7" align="center"/>
+                <colspec colname="8" align="center"/>
+                <colspec colname="9" align="center"/>
+                <thead>
+                    <row>
+                        <entry namest="group" nameend="level"/>
+                        <entry namest="1" nameend="9" align="center">Элементы</entry>
+                    </row>
+                    <row>
+                        <entry>Группа</entry>
+                        <entry>Оценка МФГ</entry>
+                        <entry>Уровень</entry>
+                        <entry><term keyref="gl-hs"><text conkeyref="gl-hs/abbrev"/></term></entry>
+                        <entry><term keyref="gl-rhs"><text conkeyref="gl-rhs/abbrev"/></term></entry>
+                        <entry><term keyref="gl-hspu"><text conkeyref="gl-hspu/abbrev"/></term></entry>
+                        <entry><term keyref="gl-rhspu"><text conkeyref="gl-rhspu/abbrev"/></term></entry>
+                        <entry><term keyref="gl-press"><text conkeyref="gl-press/abbrev"/></term></entry>
+                        <entry><term keyref="gl-presshs"><text conkeyref="gl-presshs/abbrev"/></term></entry>
+                        <entry><term keyref="gl-rpresshs"><text conkeyref="gl-rpresshs/abbrev"/></term></entry>
+                        <entry><term keyref="gl-sapresshs"><text conkeyref="gl-sapresshs/abbrev"/></term></entry>
+                        <entry><term keyref="gl-lsit"><text conkeyref="gl-lsit/abbrev"/></term>,
+                            <term keyref="gl-strlsit"><text conkeyref="gl-strlsit/abbrev"/></term>,
+                            <term keyref="gl-vsit"><text conkeyref="gl-vsit/abbrev"/></term>,
+                            <term keyref="gl-manna"><text conkeyref="gl-manna/abbrev"/></term>,
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

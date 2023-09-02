@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="rpresshs">
+  <glossterm>Силовые выходы в стойку на руках на кольцах</glossterm>
+  <glossdef><text id="def">Выходы силой в стойку на руках на кольцах</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Rings Press HS</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym id="en">Rings Press Handstand</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

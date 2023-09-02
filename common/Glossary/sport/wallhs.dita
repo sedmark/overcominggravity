@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="wall_hs">
+  <glossterm>Стойка на руках у стены</glossterm>
+  <glossdef>
+    <!--text id="def">Стойка на руках у стены</text-->
+    <image href="../images/wallhs.png" placement="break"/>
+  </glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Wall HS</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym id="en">Wall Handstand</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

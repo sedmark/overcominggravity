@@ -5,7 +5,7 @@
   <glossdef><text id="def">Отжимания из положения стойки на руках</text></glossdef>
     <glossBody>
       <glossAlt>
-        <glossAbbreviation>HSPU</glossAbbreviation>
+        <glossAbbreviation><text id="abbrev">HSPU</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
         <glossSynonym id="en">Handstand Push Up</glossSynonym>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="rhspu">
+  <glossterm>Отжимания в стойке на руках на кольцах</glossterm>
+  <glossdef><text id="def">Отжимания из положения стойки на руках на кольцах</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Rings HSPU</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym id="en">Rings Handstand Push Up</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

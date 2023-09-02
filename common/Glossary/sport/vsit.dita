@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="vsit">
+  <glossterm>V-уголок</glossterm>
+  <glossdef><text id="def">Высокий угол</text>
+  <image href="../images/vsit.png" placement="break"/></glossdef>
+  <glossBody>
+    <glossAlt>
+      <glossAbbreviation><text id="abbrev">V</text></glossAbbreviation>
+    </glossAlt>
+  </glossBody>
+</glossentry>

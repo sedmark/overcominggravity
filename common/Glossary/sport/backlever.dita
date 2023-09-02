@@ -3,7 +3,7 @@
 <glossentry id="backlever">
   <glossterm>Задний вис</glossterm>
   <glossdef><text id="def">Горизонтальный вис сзади, «ласточка»</text>
-    <image href="images/backlever.png" placement="break"/></glossdef>
+    <image href="../images/backlever.png" placement="break"/></glossdef>
     <glossBody>
       <glossAlt>
         <glossSynonym id="en">Back Lever</glossSynonym>
