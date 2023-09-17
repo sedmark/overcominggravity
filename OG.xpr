@@ -23,5 +23,6 @@
             <file name="OGbook.ditamap"/>
         </folder>
         <folder path="."/>
+        <file name="app_b/hs/og-app-b-handstands.dita"/>
     </projectTree>
 </project>
