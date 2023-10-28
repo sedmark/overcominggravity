@@ -3,5 +3,15 @@
 <map id="map-app-b-hs" xml:lang="ru">
 	<topicref href="og-app-b-hs-intro.dita">
 		<topicref href="og-app-b-wallhs.dita"/>
+		<topicref href="og-app-b-hes.dita"/>
+		<topicref href="og-app-b-freehs.dita"/>
+		<topicref href="og-app-b-freehs_4fingers.dita"/>
+		<topicref href="og-app-b-freehs_shldtaps.dita"/>
+		<topicref href="og-app-b-hs_walk.dita"/>
+		<topicref href="og-app-b-hs_handscloser.dita"/>
+		<topicref href="og-app-b-freehs_3fingers.dita"/>
+		<topicref href="og-app-b-freehs_2fingers.dita"/>
+		<topicref href="og-app-b-freehs_1fingers.dita"/>
+		<topicref href="og-app-b-onearmhs.dita"/>
 	</topicref>
 </map>

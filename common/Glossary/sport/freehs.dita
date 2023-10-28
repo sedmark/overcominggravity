@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="free_hs">
+  <glossterm>Стойка на руках без опоры</glossterm>
+  <glossdef>
+    <image href="../images/freehs.png" placement="break"/>
+  </glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Free HS</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym id="en">Free Handstand</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

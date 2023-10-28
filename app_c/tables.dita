@@ -51,7 +51,8 @@
                 <tbody>
                     <row>
                         <entry morerows="4" rotate="1"  align="center" valign="middle">Начальный</entry>
-                        <entry morerows="3" rotate="1" align="center" valign="middle">Бвзовые навыки</entry>
+                        <entry morerows="3" rotate="1" align="center" valign="middle">Базовые
+                            навыки</entry>
                         <entry>1</entry>
                         <entry><xref href="../app_b/hs/og-app-b-wallhs.dita"/> (Wall&#160;HS)</entry>
                         <entry></entry>
@@ -89,7 +90,7 @@
                     </row>
                     <row>
                         <entry>4</entry>
-                        <entry>Free&#160;HS</entry>
+                        <entry><xref href="../app_b/hs/og-app-b-freehs.dita"/> (Free&#160;HS)</entry>
                         <entry></entry>
                         <entry>wall&#160;HeSPU</entry>
                         <entry/>
@@ -102,7 +103,7 @@
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень A</entry>
                         <entry>5</entry>
-                        <entry>Free&#160;HS</entry>
+                        <entry><xref href="../app_b/hs/og-app-b-freehs.dita"/> (Free&#160;HS)</entry>
                         <entry>R&#160;shld&#160;std</entry>
                         <entry>wall&#160;HSPU</entry>
                         <entry/>
@@ -115,7 +116,7 @@
                     <row>
                         <entry morerows="3" rotate="1"  align="center" valign="middle">Средний</entry>
                         <entry>6</entry>
-                        <entry>Free&#160;HS 4&#160;fingers</entry>
+                        <entry><xref href="../app_b/hs/og-app-b-freehs_4fingers.dita"/> (Free&#160;HS 4&#160;fingers)</entry>
                         <entry>R&#160;strap&#160;HS</entry>
                         <entry>free&#160;HeSPU</entry>
                         <entry></entry>
@@ -127,7 +128,7 @@
                     </row>
                     <row>
                         <entry>7</entry>
-                        <entry>Free&#160;HS 3&#160;fingers</entry>
+                        <entry><xref href="../app_b/hs/og-app-b-freehs_3fingers.dita"/> (Free&#160;HS 3&#160;fingers)</entry>
                         <entry>R&#160;HS</entry>
                         <entry>free&#160;HSPU</entry>
                         <entry>R&#160;wide&#160;HSPU</entry>
@@ -139,7 +140,7 @@
                     </row>
                     <row>
                         <entry>8</entry>
-                        <entry>Free&#160;HS 2&#160;fingers</entry>
+                        <entry><xref href="../app_b/hs/og-app-b-freehs_2fingers.dita"/> (Free&#160;HS 2&#160;fingers)</entry>
                         <entry/>
                         <entry></entry>
                         <entry>R&#160;strap&#160;HSPU</entry>
@@ -152,7 +153,7 @@
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень B</entry>
                         <entry>9</entry>
-                        <entry>Free&#160;HS 1&#160;fingers</entry>
+                        <entry><xref href="../app_b/hs/og-app-b-freehs_1fingers.dita"/> (Free&#160;HS 1&#160;fingers)</entry>
                         <entry></entry>
                         <entry></entry>
                         <entry>R&#160;free&#160;HSPU</entry>
@@ -165,7 +166,7 @@
                     <row>
                         <entry morerows="3" rotate="1"  align="center" valign="middle">Продвинутый</entry>
                         <entry>10</entry>
-                        <entry>One&#160;arm HS</entry>
+                        <entry><xref href="../app_b/hs/og-app-b-onearmhs.dita"/> (One&#160;arm HS)</entry>
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>

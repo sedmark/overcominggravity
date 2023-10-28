@@ -11,11 +11,7 @@
   </bookmeta>
   <frontmatter>
     <keydef keys="underconstruction" href="common/og-under-construction.dita"/>
-    <booklists>
-      <glossarylist href="common/glossary.ditamap"  format="ditamap"/>
-    </booklists>
   </frontmatter>
-  
   <chapter navtitle="Вводная часть" linking="normal">
     <mapref href="ch0/og-ch0.ditamap" format="ditamap"/>
   </chapter>
@@ -40,4 +36,9 @@
     <mapref href="app_b/og-app-b.ditamap" format="ditamap"/>
     <mapref href="app_c/og-app-c.ditamap" format="ditamap"/>
   </part>
+  <backmatter>
+    <booklists>
+      <glossarylist href="common/glossary.ditamap"  format="ditamap"/>
+    </booklists>
+  </backmatter>
 </bookmap>

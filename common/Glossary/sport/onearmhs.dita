@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="onearm_hs">
+  <glossterm>Стойка на одной руке</glossterm>
+  <glossdef>
+    <image href="../images/onearmhs.png" placement="break"/>
+  </glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">One arm HS</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym id="en">One-Arm Handstand</glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

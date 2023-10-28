@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept  id="og-app-b-onearmhs" xml:lang="ru">
+  <title>Стойка на одной руке</title>
+  <titlealts>
+    <navtitle>Стойка на одной руке</navtitle>
+  </titlealts>
+  <prolog>
+    <data>
+      <text id="abbrev" conkeyref="gl-onearmhs/abbrev"></text>
+    </data>
+  </prolog>
+  <conbody>
+    <p conkeyref="underconstruction/p_substitution"/>
+  </conbody>
+</concept>
