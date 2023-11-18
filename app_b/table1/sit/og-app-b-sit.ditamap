@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-app-b-lsit" xml:lang="ru">
+	<topicref href="og-app-b-sit-intro.dita">
+		<topicref href="og-app-b-tuck_l-sit.dita"/>
+		<topicref href="og-app-b-1_leg_bent_l-sit.dita"/>
+		<topicref href="og-app-b-l-sit.dita"/>
+		<topicref href="og-app-b-straddle_l-sit.dita"/>
+		<topicref href="og-app-b-rto_l-sit.dita"/>
+		<topicref href="og-app-b-45_deg_v-sit.dita"/>
+		<topicref href="og-app-b-75_deg_v-sit.dita"/>
+		<topicref href="og-app-b-100_deg_v-sit.dita"/>
+		<topicref href="og-app-b-120_deg_v-sit.dita"/>
+		<topicref href="og-app-b-140_deg_v-sit.dita"/>
+		<topicref href="og-app-b-155_deg_v-sit.dita"/>
+		<topicref href="og-app-b-170_deg_v-sit.dita"/>
+		<topicref href="og-app-b-manna.dita"/>
+	</topicref>
+</map>

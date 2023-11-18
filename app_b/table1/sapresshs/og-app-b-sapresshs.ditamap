@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-app-b-sapresshs" xml:lang="ru">
+	<topicref href="og-app-b-sapresshs-intro.dita">
+		<topicref href="og-app-b-wall_str_press_ecce.dita"/>
+		<topicref href="og-app-b-ele_str_std_str_press.dita"/>
+		<topicref href="og-app-b-str_pike_std_press.dita"/>
+		<topicref href="og-app-b-l-sit_str-l_str_press.dita"/>
+		<topicref href="og-app-b-l-sit_str-l_pike_press.dita"/>
+		<topicref href="og-app-b-r_sa_l-sit_str_press.dita"/>
+		<topicref href="og-app-b-r_sa_str-l_str_press.dita"/>
+		<topicref href="og-app-b-r_sa_pike_press.dita"/>
+	</topicref>
+</map>

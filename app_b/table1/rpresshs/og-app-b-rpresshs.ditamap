@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-app-b-rpresshs" xml:lang="ru">
+	<topicref href="og-app-b-rpresshs-intro.dita">
+		<topicref href="og-app-b-chair_press.dita"/>
+		<topicref href="og-app-b-chair_illusion.dita"/>
+		<topicref href="og-app-b-r_ba_bb_press.dita"/>
+		<topicref href="og-app-b-r_dip_to_hs.dita"/>
+		<topicref href="og-app-b-r_ba_sb_press.dita"/>
+		<topicref href="og-app-b-r_hs_el_hs.dita"/>
+		<topicref href="og-app-b-r_dip_sb_to_hs.dita"/>
+	</topicref>
+</map>

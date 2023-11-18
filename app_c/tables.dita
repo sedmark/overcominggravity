@@ -36,15 +36,15 @@
                         <entry rotate="1"/>
                         <entry rotate="1">Оценка МФГ</entry>
                         <entry rotate="1">Уровень</entry>
-                        <entry rotate="0"><xref href="../app_b/hs/og-app-b-hs-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/ringshs/og-app-b-ringshs-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/hspu/og-app-b-hspu-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/rhspu/og-app-b-rhspu-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/press/og-app-b-press-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/presshs/og-app-b-presshs-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/rpresshs/og-app-b-rpresshs-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/sapresshs/og-app-b-sapresshs-intro.dita"/></entry>
-                        <entry rotate="0"><xref href="../app_b/lsit/og-app-b-lsit-intro.dita"/>,&#x0A;<xref href="../app_b/strlsit/og-app-b-strlsit-intro.dita"/>,&#x0A;<xref href="../app_b/vsit/og-app-b-vsit-intro.dita"/>&#x0A;<xref href="../app_b/manna/og-app-b-manna-intro.dita"/>
+                        <entry rotate="0"><xref href="../app_b/table1/hs/og-app-b-hs-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/ringshs/og-app-b-r_hs-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/hspu/og-app-b-hspu-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/rhspu/og-app-b-rhspu-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/press/og-app-b-press-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/presshs/og-app-b-presshs-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/rpresshs/og-app-b-rpresshs-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/sapresshs/og-app-b-sapresshs-intro.dita"/></entry>
+                        <entry rotate="0"><xref href="../app_b/table1/sit/og-app-b-sit-intro.dita"/>
                         </entry>
                     </row>
                 </thead>
@@ -54,9 +54,9 @@
                         <entry morerows="3" rotate="1" align="center" valign="middle">Базовые
                             навыки</entry>
                         <entry>1</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-wallhs.dita"/> (Wall&#160;HS)</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-wallhs.dita"/> (Wall&#160;HS)</entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-pike_hespu.dita"/>(pike&#160;HeSPU)</entry>
                         <entry/>
                         <entry></entry>
                         <entry></entry>
@@ -66,9 +66,9 @@
                     </row>
                     <row>
                         <entry>2</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-wallhs.dita"/> (Wall&#160;HS)</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-wallhs.dita"/> (Wall&#160;HS)</entry>
                         <entry></entry>
-                        <entry>pike&#160;HeSPU</entry>
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-box_hespu.dita"/>(box&#160;HeSPU)</entry>
                         <entry/>
                         <entry>.3x&#160;bw</entry>
                         <entry></entry>
@@ -78,9 +78,9 @@
                     </row>
                     <row>
                         <entry>3</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-wallhs.dita"/> (Wall&#160;HS)</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-wallhs.dita"/> (Wall&#160;HS)</entry>
                         <entry></entry>
-                        <entry>box&#160;HeSPU</entry>
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-wall_hespu_eccen.dita"/>(Wall&#160;HeSPU&#160;Eccen.)</entry>
                         <entry/>
                         <entry>.425x&#160;bw</entry>
                         <entry></entry>
@@ -90,9 +90,9 @@
                     </row>
                     <row>
                         <entry>4</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-freehs.dita"/> (Free&#160;HS)</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-freehs.dita"/> (Free&#160;HS)</entry>
                         <entry></entry>
-                        <entry>wall&#160;HeSPU</entry>
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-wall_hespu.dita"/>(wall&#160;HeSPU)</entry>
                         <entry/>
                         <entry>.55x&#160;bw</entry>
                         <entry></entry>
@@ -103,9 +103,9 @@
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень A</entry>
                         <entry>5</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-freehs.dita"/> (Free&#160;HS)</entry>
-                        <entry>R&#160;shld&#160;std</entry>
-                        <entry>wall&#160;HSPU</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-freehs.dita"/> (Free&#160;HS)</entry>
+                        <entry><xref href="../app_b/table1/ringshs/og-app-b-r_shld_std.dita"/> (R&#160;shld&#160;std)</entry>
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-wall_hspu.dita"/>(wall&#160;HSPU)</entry>
                         <entry/>
                         <entry>.675x&#160;bw</entry>
                         <entry>BA BB press</entry>
@@ -116,9 +116,9 @@
                     <row>
                         <entry morerows="3" rotate="1"  align="center" valign="middle">Средний</entry>
                         <entry>6</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-freehs_4fingers.dita"/> (Free&#160;HS 4&#160;fingers)</entry>
-                        <entry>R&#160;strap&#160;HS</entry>
-                        <entry>free&#160;HeSPU</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-freehs_4fingers.dita"/> (Free&#160;HS 4&#160;fingers)</entry>
+                        <entry><xref href="../app_b/table1/ringshs/og-app-b-r_strap_hs.dita"/> (R&#160;strap&#160;HS)</entry>
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-free_hespu.dita"/>(free&#160;HeSPU)</entry>
                         <entry></entry>
                         <entry>.8x&#160;bw</entry>
                         <entry>L-sit BA BB press</entry>
@@ -128,9 +128,9 @@
                     </row>
                     <row>
                         <entry>7</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-freehs_3fingers.dita"/> (Free&#160;HS 3&#160;fingers)</entry>
-                        <entry>R&#160;HS</entry>
-                        <entry>free&#160;HSPU</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-freehs_3fingers.dita"/> (Free&#160;HS 3&#160;fingers)</entry>
+                        <entry><xref href="../app_b/table1/ringshs/og-app-b-r_hs.dita"/> (R&#160;HS)</entry>
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-free_hspu.dita"/>(free&#160;HSPU)</entry>
                         <entry>R&#160;wide&#160;HSPU</entry>
                         <entry>.9x&#160;bw</entry>
                         <entry>CR SB press</entry>
@@ -140,7 +140,7 @@
                     </row>
                     <row>
                         <entry>8</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-freehs_2fingers.dita"/> (Free&#160;HS 2&#160;fingers)</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-freehs_2fingers.dita"/> (Free&#160;HS 2&#160;fingers)</entry>
                         <entry/>
                         <entry></entry>
                         <entry>R&#160;strap&#160;HSPU</entry>
@@ -153,7 +153,7 @@
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень B</entry>
                         <entry>9</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-freehs_1fingers.dita"/> (Free&#160;HS 1&#160;fingers)</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-freehs_1fingers.dita"/> (Free&#160;HS 1&#160;fingers)</entry>
                         <entry></entry>
                         <entry></entry>
                         <entry>R&#160;free&#160;HSPU</entry>
@@ -166,7 +166,7 @@
                     <row>
                         <entry morerows="3" rotate="1"  align="center" valign="middle">Продвинутый</entry>
                         <entry>10</entry>
-                        <entry><xref href="../app_b/hs/og-app-b-onearmhs.dita"/> (One&#160;arm HS)</entry>
+                        <entry><xref href="../app_b/table1/hs/og-app-b-onearmhs.dita"/> (One&#160;arm HS)</entry>
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
