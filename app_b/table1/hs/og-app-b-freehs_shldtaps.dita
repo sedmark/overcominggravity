@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-b-freehs_shldtaps" xml:lang="ru">
-  <title>Касания плеч в свободной стойке на руках</title>
+  <title><text id="title">Касания плеч в свободной стойке на руках</text></title>
   <titlealts>
     <navtitle>Касания плеч</navtitle>
   </titlealts>
+  <shortdesc><text conref="#./title"/></shortdesc>
+  <prolog>
+    <data>
+      <text id="enabbrev">Free HS Shld Taps</text>
+    </data>
+  </prolog>
   <conbody>
     <p conkeyref="underconstruction/p_substitution"/>
   </conbody>

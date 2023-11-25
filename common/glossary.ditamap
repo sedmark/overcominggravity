@@ -2,7 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map xml:lang="ru">
     <glossref keys="gl-bcaa" href="Glossary/physio/bcaa.dita" format="dita"/>
-    <glossref keys="gl-hs" href="Glossary/sport/hs.dita" format="dita"/>
     <glossref keys="gl-rhs" href="Glossary/sport/rhs.dita" format="dita"/>
     <glossref keys="gl-naturalcalm" href="Glossary/physio/naturalcalm.dita" format="dita"/>
     <glossref keys="gl-slap" href="Glossary/physio/slap.dita" format="dita"/>
@@ -55,5 +54,6 @@
     <glossref keys="gl-onearmhs" href="Glossary/sport/onearmhs.dita" format="dita"/>
     <glossref keys="gl-freehs" href="Glossary/sport/freehs.dita" format="dita"/>
     <glossref keys="gl-wallhs" href="Glossary/sport/wallhs.dita" format="dita"/>
+    <glossref keys="gl-hs" href="Glossary/sport/hs.dita" format="dita"/>
     <glossref keys="gl-golgi" href="Glossary/physio/golgi.dita" format="dita"/>
 </map>

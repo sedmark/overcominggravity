@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-b-freehs_4fingers" xml:lang="ru">
-  <title>Стойка на одной руке с поддержкой четырьмя пальцами другой руки</title>
+  <title><text id="title">Стойка на одной руке с опорой на 4 пальца другой руки</text></title>
   <titlealts>
-    <navtitle>Стойка на одной руке с поддержкой четырьмя пальцами другой руки</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc><text conref="#./title"/></shortdesc>
+  <prolog>
+    <data>
+      <text id="enabbrev">Free HS 4&#160;fingers</text>
+    </data>
+  </prolog>
   <conbody>
     <p conkeyref="underconstruction/p_substitution"/>
   </conbody>

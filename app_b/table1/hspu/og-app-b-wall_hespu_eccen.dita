@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-wall_hespu" xml:lang="ru">
-  <title>Эксцентрические отжимания у стены в стойке на голове</title>
+<concept id="og-app-b-wall_hespu_eccen" xml:lang="ru">
+  <title><text id="title">Эксцентрические отжимания у стены</text></title>
   <titlealts>
-    <navtitle>Эксцентрические отжимания у стены</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc>Эксцентрические отжимания у стены в стойке на голове</shortdesc>
+  <prolog>
+    <data>
+      <text id="enabbrev">Wall HeSPU Eccen.</text>
+    </data>
+  </prolog>
   <conbody>
     <p conkeyref="underconstruction/p_substitution"/>
   </conbody>

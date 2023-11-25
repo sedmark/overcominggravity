@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-b-onearmhs" xml:lang="ru">
-  <title>Стойка на одной руке</title>
+  <title><text id="title">Стойка на одной руке</text></title>
   <titlealts>
-    <navtitle>Стойка на одной руке</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc><text conref="#./title"/></shortdesc>
   <prolog>
     <data>
-      <text id="abbrev" conkeyref="gl-onearmhs/abbrev"></text>
+      <text id="enabbrev" conkeyref="gl-onearmhs/abbrev"/>
     </data>
   </prolog>
   <conbody>

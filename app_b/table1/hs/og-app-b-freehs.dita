@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept  id="og-app-b-freehs" xml:lang="ru">
-  <title>Стойка на руках без опоры</title>
+<concept id="og-app-b-freehs" xml:lang="ru">
+  <title><text id="title">Стойка на руках без опоры</text></title>
   <titlealts>
-    <navtitle>Стойка на руках без опоры</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc><text conref="#./title"/></shortdesc>
   <prolog>
     <data>
-      <text id="abbrev" conkeyref="gl-freehs/abbrev"></text>
+      <text id="enabbrev" conkeyref="gl-freehs/abbrev"/>
     </data>
   </prolog>
   <conbody>

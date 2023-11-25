@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-b-handstands-intro" xml:lang="ru">
-  <title>Стойки на руках</title>
+  <title><text id="title">Стойки на руках</text></title>
   <titlealts>
-    <navtitle>Стойки на руках</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc><text conref="#./title"/></shortdesc>
+  <prolog>
+    <data>
+      <text id="enabbrev" conkeyref="gl-hs/abbrev"/>
+    </data>
+  </prolog>
   <conbody>
     <p conkeyref="underconstruction/p_substitution"/>
   </conbody>

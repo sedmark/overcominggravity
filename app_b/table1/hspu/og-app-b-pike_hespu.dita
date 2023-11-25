@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-pike_hespu" xml:lang="ru">
-  <title>Пиковые отжимания в стойке на голове</title>
+  <title><text id="title">Пиковые отжимания</text></title>
   <titlealts>
-    <navtitle>Пиковые отжимания</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc>Пиковые отжимания в стойке на голове</shortdesc>
+  <prolog>
+    <data>
+      <text id="enabbrev">pike HeSPU</text>
+    </data>
+  </prolog>
   <conbody>
     <p conkeyref="underconstruction/p_substitution"/>
   </conbody>

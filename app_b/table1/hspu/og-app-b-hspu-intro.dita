@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-hspu-intro" xml:lang="ru">
-  <title>Отжимания в стойке на руках</title>
+  <title><text id="title">Отжимания в стойке на руках</text></title>
   <titlealts>
-    <navtitle>Отжимания в стойке на руках</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc><text conref="#./title"/></shortdesc>
+  <prolog>
+    <data>
+      <text id="enabbrev" conkeyref="gl-hspu/abbrev"/>
+    </data>
+  </prolog>
   <conbody>
     <p conkeyref="underconstruction/p_substitution"/>
   </conbody>
