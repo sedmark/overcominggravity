@@ -143,7 +143,7 @@
                         <entry><xref href="../app_b/table1/hs/og-app-b-freehs_3fingers.dita"><text conref="../app_b/table1/hs/og-app-b-freehs_3fingers.dita#og-app-b-freehs_3fingers/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table1/ringshs/og-app-b-r_hs.dita"><text conref="../app_b/table1/ringshs/og-app-b-r_hs.dita#og-app-b-r_hs/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table1/hspu/og-app-b-free_hspu.dita"><text conref="../app_b/table1/hspu/og-app-b-free_hspu.dita#og-app-b-free_hspu/enabbrev"/></xref></entry>
-                        <entry>R&#160;wide&#160;HSPU</entry>
+                        <entry><xref href="../app_b/table1/rhspu/og-app-b-r_wide_hspu.dita"><text conref="../app_b/table1/rhspu/og-app-b-r_wide_hspu.dita#og-app-b-r_wide_hspu/enabbrev"/></xref></entry>
                         <entry>.9x&#160;bw</entry>
                         <entry>CR SB press</entry>
                         <entry>Chair illusion</entry>
@@ -155,7 +155,7 @@
                         <entry><xref href="../app_b/table1/hs/og-app-b-freehs_2fingers.dita"><text conref="../app_b/table1/hs/og-app-b-freehs_2fingers.dita#og-app-b-freehs_2fingers/enabbrev"/></xref></entry>
                         <entry/>
                         <entry></entry>
-                        <entry>R&#160;strap&#160;HSPU</entry>
+                        <entry><xref href="../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita"><text conref="../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita#og-app-b-r_strap_hspu/enabbrev"/></xref></entry>
                         <entry>1x&#160;bw</entry>
                         <entry>BA SB press</entry>
                         <entry>R BA BB press</entry>
@@ -168,7 +168,7 @@
                         <entry><xref href="../app_b/table1/hs/og-app-b-freehs_1fingers.dita"><text conref="../app_b/table1/hs/og-app-b-freehs_1fingers.dita#og-app-b-freehs_1fingers/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry>R&#160;free&#160;HSPU</entry>
+                        <entry><xref href="../app_b/table1/rhspu/og-app-b-r_free_hspu.dita"><text conref="../app_b/table1/rhspu/og-app-b-r_free_hspu.dita#og-app-b-r_free_hspu/enabbrev"/></xref></entry>
                         <entry>1.075x&#160;bw</entry>
                         <entry>HS,EL,HS</entry>
                         <entry>R dip to HS</entry>
