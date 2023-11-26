@@ -134,7 +134,7 @@
                         <entry></entry>
                         <entry>80%</entry>
                         <entry><xref href="../app_b/table1/presshs/og-app-b-lsit_ba_bb_press.dita"><text conref="../app_b/table1/presshs/og-app-b-lsit_ba_bb_press.dita#og-app-b-lsit_ba_bb_press/enabbrev"></text></xref></entry>
-                        <entry>Chair press</entry>
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-chair_press.dita"><text conref="../app_b/table1/rpresshs/og-app-b-chair_press.dita#og-app-b-chair_press/enabbrev"></text></xref></entry>
                         <entry>Ele. str std str press</entry>
                         <entry>45&#160;deg V-sit</entry>
                     </row>
@@ -146,7 +146,7 @@
                         <entry><xref href="../app_b/table1/rhspu/og-app-b-r_wide_hspu.dita"><text conref="../app_b/table1/rhspu/og-app-b-r_wide_hspu.dita#og-app-b-r_wide_hspu/enabbrev"/></xref></entry>
                         <entry>90%</entry>
                         <entry><xref href="../app_b/table1/presshs/og-app-b-cr_sb_press.dita"><text conref="../app_b/table1/presshs/og-app-b-cr_sb_press.dita#og-app-b-cr_sb_press/enabbrev"></text></xref></entry>
-                        <entry>Chair illusion</entry>
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-chair_illusion.dita"><text conref="../app_b/table1/rpresshs/og-app-b-chair_illusion.dita#og-app-b-chair_illusion/enabbrev"></text></xref></entry>
                         <entry>Str/pike std press</entry>
                         <entry>75&#160;deg V-sit</entry>
                     </row>
@@ -158,7 +158,7 @@
                         <entry><xref href="../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita"><text conref="../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita#og-app-b-r_strap_hspu/enabbrev"/></xref></entry>
                         <entry>100%</entry>
                         <entry><xref href="../app_b/table1/presshs/og-app-b-ba_sb_press.dita"><text conref="../app_b/table1/presshs/og-app-b-ba_sb_press.dita#og-app-b-ba_sb_press/enabbrev"></text></xref></entry>
-                        <entry>R BA BB press</entry>
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_ba_bb_press.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_ba_bb_press.dita#og-app-b-r_ba_bb_press/enabbrev"></text></xref></entry>
                         <entry>L-sit/str-L str press</entry>
                         <entry>100&#160;deg V-sit</entry>
                     </row>
@@ -171,7 +171,7 @@
                         <entry><xref href="../app_b/table1/rhspu/og-app-b-r_free_hspu.dita"><text conref="../app_b/table1/rhspu/og-app-b-r_free_hspu.dita#og-app-b-r_free_hspu/enabbrev"/></xref></entry>
                         <entry>107.5%</entry>
                         <entry><xref href="../app_b/table1/presshs/og-app-b-hs_el_hs.dita"><text conref="../app_b/table1/presshs/og-app-b-hs_el_hs.dita#og-app-b-hs_el_hs/enabbrev"></text></xref></entry>
-                        <entry>R dip to HS</entry>
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_dip_to_hs.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_dip_to_hs.dita#og-app-b-r_dip_to_hs/enabbrev"></text></xref></entry>
                         <entry>L-sit/str-L pike press</entry>
                         <entry>120&#160;deg V-sit</entry>
                     </row>
@@ -184,7 +184,7 @@
                         <entry></entry>
                         <entry>115%</entry>
                         <entry><xref href="../app_b/table1/presshs/og-app-b-pb_dip_sb_to_hs.dita"><text conref="../app_b/table1/presshs/og-app-b-pb_dip_sb_to_hs.dita#og-app-b-pb_dip_sb_to_hs/enabbrev"></text></xref></entry>
-                        <entry>R BA SB press</entry>
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_ba_sb_press.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_ba_sb_press.dita#og-app-b-r_ba_sb_press/enabbrev"></text></xref></entry>
                         <entry>R SA L-sit str press</entry>
                         <entry>140&#160;deg V-sit</entry>
                     </row>
@@ -196,7 +196,7 @@
                         <entry></entry>
                         <entry>120%</entry>
                         <entry></entry>
-                        <entry>R HS,EL,HS</entry>
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_hs_el_hs.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_hs_el_hs.dita#og-app-b-r_hs_el_hs/enabbrev"></text></xref></entry>
                         <entry>R SA str-L str press</entry>
                         <entry>155&#160;deg V-sit</entry>
                     </row>
@@ -208,7 +208,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry>R dip SB to HS</entry>
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_dip_sb_to_hs.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_dip_sb_to_hs.dita#og-app-b-r_dip_sb_to_hs/enabbrev"></text></xref></entry>
                         <entry>R SA pike press</entry>
                         <entry>170&#160;deg V-sit</entry>
                     </row>
