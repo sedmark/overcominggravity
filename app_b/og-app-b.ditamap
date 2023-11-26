@@ -3,6 +3,15 @@
 <map id="map-app-b" xml:lang="ru">
 	<topicref href="og-app-b-intro.dita">
 		<mapref href="table1/hs/og-app-b-hs.ditamap"/>
+		<mapref href="table1/ringshs/og-app-b-r_hs.ditamap"/>
+		<mapref href="table1/hspu/og-app-b-hspu.ditamap"/>
+		<mapref href="table1/rhspu/og-app-b-rhspu.ditamap"/>
+		<mapref href="table1/press/og-app-b-press.ditamap"/>
+		<mapref href="table1/presshs/og-app-b-presshs.ditamap"/>
+		<mapref href="table1/rpresshs/og-app-b-rpresshs.ditamap"/>
+		<mapref href="table1/sapresshs/og-app-b-sapresshs.ditamap"/>
+		<mapref href="table1/sit/og-app-b-sit.ditamap"/>
 		<!--topicref href="og-app-b-summary.dita"/-->
 	</topicref>
 </map>
+

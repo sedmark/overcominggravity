@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-b-r_sa_l-sit_str_press" xml:lang="ru">
-  <title></title>
+  <title><text id="title">Силовой выход на кольцах ноги врозь с прямыми руками в стойку на руках из L-уголка</text></title>
   <titlealts>
-    <navtitle></navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  <shortdesc><text conref="#./title"/></shortdesc>
+  <prolog>
+    <data>
+      <text id="enabbrev">R SA L-sit str press</text>
+    </data>
+  </prolog>
   <conbody>
     <p conkeyref="underconstruction/p_substitution"/>
   </conbody>
