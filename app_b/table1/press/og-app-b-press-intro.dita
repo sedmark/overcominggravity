@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conref="#./title"/></shortdesc>
+  <shortdesc>Жим с нагрузкой в % к собственному весу</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-press/abbrev"/>

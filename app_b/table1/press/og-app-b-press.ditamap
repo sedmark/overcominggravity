@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b-press" xml:lang="ru">
-	<topicref href="og-app-b-press-intro.dita">
-		<topicref href="og-app-b-0_3x_bw.dita"/>
-		<topicref href="og-app-b-0_425x_bw.dita"/>
-		<topicref href="og-app-b-0_55x_bw.dita"/>
-		<topicref href="og-app-b-0_675x_bw.dita"/>
-		<topicref href="og-app-b-0_8x_bw.dita"/>
-		<topicref href="og-app-b-0_9x_bw.dita"/>
-		<topicref href="og-app-b-1x_bw.dita"/>
-		<topicref href="og-app-b-1_075x_bw.dita"/>
-		<topicref href="og-app-b-1_15x_bw.dita"/>
-		<topicref href="og-app-b-1_2x_bw.dita"/>
-	</topicref>
+	<topicref href="og-app-b-press-intro.dita"/>
 </map>
