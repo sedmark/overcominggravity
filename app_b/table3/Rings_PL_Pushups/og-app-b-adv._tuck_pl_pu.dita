@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-adv._tuck_pl_pu" xml:lang="ru">
+   <title>
+      <text id="title">adv. Tuck PL PU</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conref="#./title"/>
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev">adv. Tuck PL PU</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>

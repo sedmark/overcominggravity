@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-og-app-b-Back_Lever" xml:lang="ru">
+   <topicref href="og-app-b-Back_Lever-intro.dita">
+      <topicref href="og-app-b-tuck_bl.dita"/>
+      <topicref href="og-app-b-adv._tuck_bl.dita"/>
+      <topicref href="og-app-b-straddle_bl.dita"/>
+      <topicref href="og-app-b-½lay_-_1leg_bl.dita"/>
+      <topicref href="og-app-b-full_bl.dita"/>
+      <topicref href="og-app-b-bl_pullout.dita"/>
+      <topicref href="og-app-b-gh_pullout.dita"/>
+      <topicref href="og-app-b-ba_pullup_to_bl.dita"/>
+      <topicref href="og-app-b-hs_lower_to_bl.dita"/>
+   </topicref>
+</map>

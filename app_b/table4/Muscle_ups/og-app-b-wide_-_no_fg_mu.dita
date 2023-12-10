@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-wide_-_no_fg_mu" xml:lang="ru">
+   <title>
+      <text id="title">Wide / no FG MU</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conref="#./title"/>
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev">Wide / no FG MU</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>

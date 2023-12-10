@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-og-app-b-Ab_Wheel" xml:lang="ru">
+   <topicref href="og-app-b-Ab_Wheel-intro.dita">
+      <topicref href="og-app-b-25s_plank.dita"/>
+      <topicref href="og-app-b-60s_plank.dita"/>
+      <topicref href="og-app-b-1_arm_1_leg_plank.dita"/>
+      <topicref href="og-app-b-knees_ab_wheel.dita"/>
+      <topicref href="og-app-b-ab_wheel_on_ramp.dita"/>
+      <topicref href="og-app-b-ab_wheel_eccentrics.dita"/>
+      <topicref href="og-app-b-full_ab_wheel.dita"/>
+      <topicref href="og-app-b-ab_wheel_+_20_lbs.dita"/>
+      <topicref href="og-app-b-one_arm_ab_wheel.dita"/>
+   </topicref>
+</map>

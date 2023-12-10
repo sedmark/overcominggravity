@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-pb_jump_dips" xml:lang="ru">
+   <title>
+      <text id="title">PB jump dips</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conref="#./title"/>
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev">PB jump dips</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-og-app-b-Iron_Cross" xml:lang="ru">
+   <topicref href="og-app-b-Iron_Cross-intro.dita">
+      <topicref href="og-app-b-cross_progressions.dita"/>
+      <topicref href="og-app-b-hold_iron_cross.dita"/>
+      <topicref href="og-app-b-cross_to_back_lever.dita"/>
+      <topicref href="og-app-b-iron_cross_pullouts.dita"/>
+      <topicref href="og-app-b-hang_pull_to_back_lever.dita"/>
+      <topicref href="og-app-b-butterfly_mount.dita"/>
+      <topicref href="og-app-b-support_to_hang_to_cross.dita"/>
+   </topicref>
+</map>

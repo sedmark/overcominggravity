@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-og-app-b-Dips" xml:lang="ru">
+   <topicref href="og-app-b-Dips-intro.dita">
+      <topicref href="og-app-b-pb_jump_dips.dita"/>
+      <topicref href="og-app-b-pb_dip_ecce..dita"/>
+      <topicref href="og-app-b-pb_dips.dita"/>
+      <topicref href="og-app-b-l-dips.dita"/>
+      <topicref href="og-app-b-45_deg_dips.dita"/>
+      <topicref href="og-app-b-one_arm_dip.dita"/>
+   </topicref>
+</map>
