@@ -74,7 +74,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry>Tuck L-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-tuck_l-sit.dita"><text conref="../app_b/table1/sit/og-app-b-tuck_l-sit.dita#og-app-b-tuck_l-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>2</entry>
@@ -86,7 +86,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry>1 leg bent L-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-1_leg_bent_l-sit.dita"><text conref="../app_b/table1/sit/og-app-b-1_leg_bent_l-sit.dita#og-app-b-1_leg_bent_l-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>3</entry>
@@ -98,7 +98,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry>L-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-l-sit.dita"><text conref="../app_b/table1/sit/og-app-b-l-sit.dita#og-app-b-l-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>4</entry>
@@ -110,7 +110,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry>Straddle L-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-straddle_l-sit.dita"><text conref="../app_b/table1/sit/og-app-b-straddle_l-sit.dita#og-app-b-straddle_l-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень A</entry>
@@ -123,7 +123,7 @@
                         <entry><xref href="../app_b/table1/presshs/og-app-b-ba_bb_press.dita"><text conref="../app_b/table1/presshs/og-app-b-ba_bb_press.dita#og-app-b-ba_bb_press/enabbrev"></text></xref></entry>
                         <entry></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-wall_str_press_ecce.dita"><text conref="../app_b/table1/sapresshs/og-app-b-wall_str_press_ecce.dita#og-app-b-wall_str_press_ecce/enabbrev"/></xref></entry>
-                        <entry>RTO L-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-rto_l-sit.dita"><text conref="../app_b/table1/sit/og-app-b-rto_l-sit.dita#og-app-b-rto_l-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry morerows="3" rotate="1"  align="center" valign="middle">Средний</entry>
@@ -136,7 +136,7 @@
                         <entry><xref href="../app_b/table1/presshs/og-app-b-lsit_ba_bb_press.dita"><text conref="../app_b/table1/presshs/og-app-b-lsit_ba_bb_press.dita#og-app-b-lsit_ba_bb_press/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/rpresshs/og-app-b-chair_press.dita"><text conref="../app_b/table1/rpresshs/og-app-b-chair_press.dita#og-app-b-chair_press/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-ele_str_std_str_press.dita"><text conref="../app_b/table1/sapresshs/og-app-b-ele_str_std_str_press.dita#og-app-b-ele_str_std_str_press/enabbrev"/></xref></entry>
-                        <entry>45&#160;deg V-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-45_deg_v-sit.dita"><text conref="../app_b/table1/sit/og-app-b-45_deg_v-sit.dita#og-app-b-45_deg_v-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>7</entry>
@@ -148,7 +148,7 @@
                         <entry><xref href="../app_b/table1/presshs/og-app-b-cr_sb_press.dita"><text conref="../app_b/table1/presshs/og-app-b-cr_sb_press.dita#og-app-b-cr_sb_press/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/rpresshs/og-app-b-chair_illusion.dita"><text conref="../app_b/table1/rpresshs/og-app-b-chair_illusion.dita#og-app-b-chair_illusion/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-str_pike_std_press.dita"><text conref="../app_b/table1/sapresshs/og-app-b-str_pike_std_press.dita#og-app-b-str_pike_std_press/enabbrev"/></xref></entry>
-                        <entry>75&#160;deg V-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-75_deg_v-sit.dita"><text conref="../app_b/table1/sit/og-app-b-75_deg_v-sit.dita#og-app-b-75_deg_v-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>8</entry>
@@ -160,7 +160,7 @@
                         <entry><xref href="../app_b/table1/presshs/og-app-b-ba_sb_press.dita"><text conref="../app_b/table1/presshs/og-app-b-ba_sb_press.dita#og-app-b-ba_sb_press/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_ba_bb_press.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_ba_bb_press.dita#og-app-b-r_ba_bb_press/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-l-sit_str-l_str_press.dita"><text conref="../app_b/table1/sapresshs/og-app-b-l-sit_str-l_str_press.dita#og-app-b-l-sit_str-l_str_press/enabbrev"/></xref></entry>
-                        <entry>100&#160;deg V-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-100_deg_v-sit.dita"><text conref="../app_b/table1/sit/og-app-b-100_deg_v-sit.dita#og-app-b-100_deg_v-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень B</entry>
@@ -173,7 +173,7 @@
                         <entry><xref href="../app_b/table1/presshs/og-app-b-hs_el_hs.dita"><text conref="../app_b/table1/presshs/og-app-b-hs_el_hs.dita#og-app-b-hs_el_hs/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_dip_to_hs.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_dip_to_hs.dita#og-app-b-r_dip_to_hs/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-l-sit_str-l_pike_press.dita"><text conref="../app_b/table1/sapresshs/og-app-b-l-sit_str-l_pike_press.dita#og-app-b-l-sit_str-l_pike_press/enabbrev"/></xref></entry>
-                        <entry>120&#160;deg V-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-120_deg_v-sit.dita"><text conref="../app_b/table1/sit/og-app-b-120_deg_v-sit.dita#og-app-b-120_deg_v-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry morerows="3" rotate="1"  align="center" valign="middle">Продвинутый</entry>
@@ -186,7 +186,7 @@
                         <entry><xref href="../app_b/table1/presshs/og-app-b-pb_dip_sb_to_hs.dita"><text conref="../app_b/table1/presshs/og-app-b-pb_dip_sb_to_hs.dita#og-app-b-pb_dip_sb_to_hs/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_ba_sb_press.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_ba_sb_press.dita#og-app-b-r_ba_sb_press/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-r_sa_l-sit_str_press.dita"><text conref="../app_b/table1/sapresshs/og-app-b-r_sa_l-sit_str_press.dita#og-app-b-r_sa_l-sit_str_press/enabbrev"/></xref></entry>
-                        <entry>140&#160;deg V-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-140_deg_v-sit.dita"><text conref="../app_b/table1/sit/og-app-b-140_deg_v-sit.dita#og-app-b-140_deg_v-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>11</entry>
@@ -198,7 +198,7 @@
                         <entry></entry>
                         <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_hs_el_hs.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_hs_el_hs.dita#og-app-b-r_hs_el_hs/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-r_sa_str-l_str_press.dita"><text conref="../app_b/table1/sapresshs/og-app-b-r_sa_str-l_str_press.dita#og-app-b-r_sa_str-l_str_press/enabbrev"/></xref></entry>
-                        <entry>155&#160;deg V-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-155_deg_v-sit.dita"><text conref="../app_b/table1/sit/og-app-b-155_deg_v-sit.dita#og-app-b-155_deg_v-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>12</entry>
@@ -210,7 +210,7 @@
                         <entry></entry>
                         <entry><xref href="../app_b/table1/rpresshs/og-app-b-r_dip_sb_to_hs.dita"><text conref="../app_b/table1/rpresshs/og-app-b-r_dip_sb_to_hs.dita#og-app-b-r_dip_sb_to_hs/enabbrev"></text></xref></entry>
                         <entry><xref href="../app_b/table1/sapresshs/og-app-b-r_sa_pike_press.dita"><text conref="../app_b/table1/sapresshs/og-app-b-r_sa_pike_press.dita#og-app-b-r_sa_pike_press/enabbrev"/></xref></entry>
-                        <entry>170&#160;deg V-sit</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-170_deg_v-sit.dita"><text conref="../app_b/table1/sit/og-app-b-170_deg_v-sit.dita#og-app-b-170_deg_v-sit/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень C</entry>
@@ -223,7 +223,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry>Manna</entry>
+                        <entry><xref href="../app_b/table1/sit/og-app-b-manna.dita"><text conref="../app_b/table1/sit/og-app-b-manna.dita#og-app-b-manna/enabbrev"/></xref>Manna</entry>
                     </row>
                     <row>
                         <entry morerows="2" rotate="1"  align="center" valign="middle">Элитный</entry>

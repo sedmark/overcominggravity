@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-140_deg_v-sit" xml:lang="ru">
    <title>
-      <text id="title">140 deg V-sit</text>
+      <text id="title">140&#176; V-sit</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">140 deg V-sit</text>
+         <text id="enabbrev">140&#176; V-sit</text>
       </data>
    </prolog>
    <conbody>
