@@ -6,7 +6,10 @@
     <image href="../images/germanhang.png" placement="break"/></glossdef>
     <glossBody>
       <glossAlt>
-        <glossSynonym id="en">German hang</glossSynonym>
+        <glossAbbreviation><text id="abbrev">GH</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">German hang</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

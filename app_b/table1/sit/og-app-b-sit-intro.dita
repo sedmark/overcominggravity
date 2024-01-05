@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-sit-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Упоры углом</text>
    </title>
    <titlealts>
       <navtitle>
@@ -16,6 +16,7 @@
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-lsit/abbrev"/>
+         <text id="shorttitle" conref="#./title"/>
       </data>
    </prolog>
    <conbody>

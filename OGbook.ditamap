@@ -38,7 +38,7 @@
   </part>
   <backmatter>
     <booklists>
-      <glossarylist href="common/glossary.ditamap"  format="ditamap"/>
+      <glossarylist href="common/glossary.ditamap" format="ditamap"/>
     </booklists>
   </backmatter>
 </bookmap>

@@ -10,7 +10,7 @@
         <glossAbbreviation><text id="abbrev">One arm HS</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">One-Arm Handstand</glossSynonym>
+        <glossSynonym><text id="en">One-Arm Handstand</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

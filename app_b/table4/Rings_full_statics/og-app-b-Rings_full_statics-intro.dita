@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-Rings_full_statics-intro" xml:lang="ru">
+<concept id="og-app-b-rings_full_statics-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Статические элементы на кольцах</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev">Rings full statics</text>
+         <text id="shorttitle">Стати-ческие элементы на кольцах</text>
       </data>
    </prolog>
    <conbody>

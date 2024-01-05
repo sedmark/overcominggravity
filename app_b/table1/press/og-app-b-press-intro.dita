@@ -5,10 +5,11 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc>Жим с нарастающей нагрузкой в долях от собственного веса</shortdesc>
+  <shortdesc>Жим (<text conref="#./enabbrev"/>) с нарастающей нагрузкой в долях от собственного веса</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-press/abbrev"/>
+      <text id="shorttitle" conref="#./title"/>
     </data>
   </prolog>
   <conbody>

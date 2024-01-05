@@ -5,10 +5,11 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conref="#./title"/></shortdesc>
+  <shortdesc><text conkeyref="gl-hspu/def"/> (<text conref="#./enabbrev"/>)</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-hspu/abbrev"/>
+      <text id="shorttitle">Отжима-ния в стойке на руках</text>
     </data>
   </prolog>
   <conbody>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="row">
+  <glossterm>Подтягивания на одной руке</glossterm>
+  <glossdef><text id="def">Подтягивания на одной руке хватом снизу</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">OAC</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">One Arm Chin Up</text></glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

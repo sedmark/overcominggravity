@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map-og-app-b-Planche" xml:lang="ru">
-   <topicref href="og-app-b-Planche-intro.dita">
+<map id="map-og-app-b-planche" xml:lang="ru">
+   <topicref href="og-app-b-planche-intro.dita">
       <topicref href="og-app-b-frog_stand.dita"/>
       <topicref href="og-app-b-sa_frog_stand.dita"/>
       <topicref href="og-app-b-tuck_pl.dita"/>
       <topicref href="og-app-b-adv._tuck_pl.dita"/>
       <topicref href="og-app-b-straddle_pl.dita"/>
-      <topicref href="og-app-b-½_lay_-_1_leg_pl.dita"/>
+      <topicref href="og-app-b-05_lay_-_1_leg_pl.dita"/>
       <topicref href="og-app-b-sa_str_pl_to_hs.dita"/>
       <topicref href="og-app-b-full_pl.dita"/>
       <topicref href="og-app-b-rings_sa_str_pl_to_hs.dita"/>

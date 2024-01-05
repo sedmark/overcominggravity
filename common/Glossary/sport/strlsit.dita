@@ -9,7 +9,7 @@
       <glossAbbreviation><text id="abbrev">Str-L</text></glossAbbreviation>
     </glossAlt>
     <glossAlt>
-      <glossSynonym id="en">Straddle L-sit</glossSynonym>
+      <glossSynonym><text id="en">Straddle L-sit</text></glossSynonym>
     </glossAlt>
   </glossBody>
 </glossentry>

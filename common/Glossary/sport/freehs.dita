@@ -10,7 +10,7 @@
         <glossAbbreviation><text id="abbrev">Free HS</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Free Handstand</glossSynonym>
+        <glossSynonym><text id="en">Free Handstand</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

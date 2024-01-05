@@ -8,7 +8,7 @@
         <glossAbbreviation><text id="abbrev">HS</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Handstands</glossSynonym>
+        <glossSynonym><text id="en">Handstands</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

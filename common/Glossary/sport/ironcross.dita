@@ -2,12 +2,15 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="ironcross">
     <glossterm>Крест</glossterm>
-  <glossdef><text id="def">Упражнение на кольцах. Международное название — Железный крест</text>
+  <glossdef><text id="def">Упражнение на кольцах «Железный крест»</text>
     <image href="../images/ironcross.png" placement="break"/>
   </glossdef>
     <glossBody>
       <glossAlt>
-        <glossSynonym id="en">Iron Cross</glossSynonym>
+        <glossAbbreviation><text id="abbrev">Cross</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Iron Cross</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

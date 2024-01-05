@@ -8,7 +8,7 @@
         <glossAbbreviation><text id="abbrev">SA Press HS</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Straight-Arm Press Handstands</glossSynonym>
+        <glossSynonym><text id="en">Straight-Arm Press Handstands</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

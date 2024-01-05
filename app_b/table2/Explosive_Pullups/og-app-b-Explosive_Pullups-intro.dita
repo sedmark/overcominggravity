@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-Explosive_Pullups-intro" xml:lang="ru">
+<concept id="og-app-b-explosive_pullups-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Взрывные подтягивания</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev">Explosive Pullups</text>
+         <text id="shorttitle">Взрывные подтяги-вания</text>
       </data>
    </prolog>
    <conbody>

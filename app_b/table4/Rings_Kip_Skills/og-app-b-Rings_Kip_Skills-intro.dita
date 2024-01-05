@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-Rings_Kip_Skills-intro" xml:lang="ru">
+<concept id="og-app-b-rings_kip_skills-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Выходы разгибом на кольцах</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev">Rings Kip Skills</text>
+         <text id="shorttitle" conref="#./title"/>
       </data>
    </prolog>
    <conbody>

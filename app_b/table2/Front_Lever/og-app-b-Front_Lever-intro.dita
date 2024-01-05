@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-Front_Lever-intro" xml:lang="ru">
+<concept id="og-app-b-front_lever-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Горизонтальный вис спереди</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conkeyref="gl-frontlever/def"/> (<text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev" conkeyref="gl-frontlever/en"/>
+         <text id="shorttitle">Передний вис</text>
       </data>
    </prolog>
    <conbody>

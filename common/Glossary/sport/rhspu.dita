@@ -8,7 +8,7 @@
         <glossAbbreviation><text id="abbrev">Rings HSPU</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Rings Handstand Push Up</glossSynonym>
+        <glossSynonym><text id="en">Rings Handstand Push Up</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

@@ -2,13 +2,13 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="rpresshs">
   <glossterm>Силовые выходы в стойку на руках на кольцах</glossterm>
-  <glossdef><text id="def">Выходы силой в стойку на руках на кольцах</text></glossdef>
+  <glossdef><text id="def">Выходы силой на кольцах в перевернутую стойку на руках</text></glossdef>
     <glossBody>
       <glossAlt>
         <glossAbbreviation><text id="abbrev">Rings Press HS</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Rings Press Handstand</glossSynonym>
+        <glossSynonym><text id="en">Rings Press Handstand</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

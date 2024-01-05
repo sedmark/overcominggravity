@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map-og-app-b-R_Pullups" xml:lang="ru">
-   <topicref href="og-app-b-R_Pullups-intro.dita">
+<map id="map-og-app-b-r_pullups" xml:lang="ru">
+   <topicref href="og-app-b-r_pullups-intro.dita">
       <topicref href="og-app-b-r_l-pullups.dita"/>
       <topicref href="og-app-b-r_wide_pullups.dita"/>
       <topicref href="og-app-b-r_wide_l-pullups.dita"/>
       <topicref href="og-app-b-r_archer_pullups.dita"/>
       <topicref href="og-app-b-oac_eccentric.dita"/>
       <topicref href="og-app-b-oac.dita"/>
-      <topicref href="og-app-b-oac_+_4.5_kg.dita"/>
-      <topicref href="og-app-b-oac_+_9_kg.dita"/>
+      <topicref href="og-app-b-oac_plus_4.5_kg.dita"/>
+      <topicref href="og-app-b-oac_plus_9_kg.dita"/>
    </topicref>
 </map>

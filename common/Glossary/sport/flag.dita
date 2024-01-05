@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="flag">
+    <glossterm>Флажок</glossterm>
+    <glossdef><text id="def">Удержание тела на весу в боковом балансе с упором на вертикальный шест, стенку</text></glossdef>
+    <glossBody>
+        <glossAlt>
+            <glossAbbreviation><text id="abbrev">Flag</text></glossAbbreviation>
+        </glossAlt>
+        <glossAlt>
+            <glossSynonym><text id="en">Flag</text></glossSynonym>
+        </glossAlt>
+    </glossBody>
+</glossentry>

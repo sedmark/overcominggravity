@@ -5,7 +5,10 @@
     <glossdef><text id="def">Упражнение на кольцах. Международное название — Викторианский крест</text></glossdef>
     <glossBody>
       <glossAlt>
-        <glossSynonym id="en">Victorian</glossSynonym>
+        <glossAbbreviation><text id="abbrev">Victorian</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Victorian Cross</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

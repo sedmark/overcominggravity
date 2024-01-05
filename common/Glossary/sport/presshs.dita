@@ -8,7 +8,7 @@
         <glossAbbreviation><text id="abbrev">Press HS</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Press Handstand</glossSynonym>
+        <glossSynonym><text id="en">Press Handstand</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

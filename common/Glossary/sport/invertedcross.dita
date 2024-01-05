@@ -5,7 +5,10 @@
   <glossdef><text id="def">Упражнение на кольцах. Другие названия: «крест вниз головой», «стойка в кресте»</text></glossdef>
     <glossBody>
       <glossAlt>
-        <glossSynonym id="en">Inverted Cross</glossSynonym>
+        <glossAbbreviation><text id="abbrev">Inv.Cross</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Inverted Cross</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

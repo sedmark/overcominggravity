@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-Planche-intro" xml:lang="ru">
+<concept id="og-app-b-planche-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Горизонт</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conkeyref="gl-planche/def"/> (<text conref="#./enabbrev"/> PB/FL)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev" conkeyref="gl-planche/abbrev"/>
+         <text id="shorttitle" conref="#./title"/>
       </data>
    </prolog>
    <conbody>

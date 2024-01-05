@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-PBFL_PL_Pushups-intro" xml:lang="ru">
+<concept id="og-app-b-pbfl_pl_pushups-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Отжимания в «горизонте»</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text>Отжимания в «горизонте» на брусьях и на полу</text> (<text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev">PB/FL PL Pushups</text>
+         <text id="shorttitle">Отжима-ния в гори-зонте</text>
       </data>
    </prolog>
    <conbody>

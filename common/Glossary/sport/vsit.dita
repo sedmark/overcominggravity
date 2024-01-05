@@ -8,5 +8,8 @@
     <glossAlt>
       <glossAbbreviation><text id="abbrev">V</text></glossAbbreviation>
     </glossAlt>
+    <glossAlt>
+      <glossSynonym><text id="en">V-sit</text></glossSynonym>
+    </glossAlt>
   </glossBody>
 </glossentry>

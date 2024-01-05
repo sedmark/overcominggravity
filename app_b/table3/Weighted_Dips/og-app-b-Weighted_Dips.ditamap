@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map-og-app-b-Weighted_Dips" xml:lang="ru">
-   <topicref href="og-app-b-Weighted_Dips-intro.dita">
+<map id="map-og-app-b-weighted_dips" xml:lang="ru">
+   <topicref href="og-app-b-weighted_dips-intro.dita">
       <topicref href="og-app-b-assisted_dips.dita"/>
       <topicref href="og-app-b-1x_bw.dita"/>
       <topicref href="og-app-b-1.2x_bw.dita"/>
@@ -13,6 +13,6 @@
       <topicref href="og-app-b-2x_bw.dita"/>
       <topicref href="og-app-b-2.125x_bw.dita"/>
       <topicref href="og-app-b-2.25x_bw.dita"/>
-      <topicref href="og-app-b-maltese_(l17).dita"/>
+      <topicref href="og-app-b-maltese_l17.dita"/>
    </topicref>
 </map>

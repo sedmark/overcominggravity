@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-Ab_Wheel-intro" xml:lang="ru">
+<concept id="og-app-b-ab_wheel-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Гимнастический ролик</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text>Ролик для пресса</text> (<text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev">Ab Wheel</text>
+         <text id="shorttitle">Гимнас-тический ролик</text>
       </data>
    </prolog>
    <conbody>

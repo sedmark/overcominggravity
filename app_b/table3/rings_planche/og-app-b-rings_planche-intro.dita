@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-rings_planche-intro" xml:lang="ru">
+   <title>
+      <text id="title">Горизонт на кольцах</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>)
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev">Rings Planche</text>
+         <text id="shorttitle" conref="#./title"/>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>

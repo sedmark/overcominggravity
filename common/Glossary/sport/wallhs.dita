@@ -3,7 +3,7 @@
 <glossentry id="wall_hs">
   <glossterm>Стойка на руках у стены</glossterm>
   <glossdef>
-    <!--text id="def">Стойка на руках у стены</text-->
+    <text id="def">Стойка на руках с опорой на стену</text>
     <image href="../images/wallhs.png" placement="break"/>
   </glossdef>
     <glossBody>
@@ -11,7 +11,7 @@
         <glossAbbreviation><text id="abbrev">Wall HS</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Wall Handstand</glossSynonym>
+        <glossSynonym><text id="en"></text>Wall Handstand</glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

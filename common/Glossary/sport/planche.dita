@@ -2,5 +2,13 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="planche">
     <glossterm>Горизонт</glossterm>
-    <glossdef><text id="def">Горизонтальный упор на прямых руках.</text></glossdef>
+    <glossdef><text id="def">Горизонтальный упор на прямых руках на брусьях или на полу</text></glossdef>
+    <glossBody>
+        <glossAlt>
+            <glossAbbreviation><text id="abbrev">PL</text></glossAbbreviation>
+        </glossAlt>
+        <glossAlt>
+            <glossSynonym><text id="en">Planche</text></glossSynonym>
+        </glossAlt>
+    </glossBody>
 </glossentry>

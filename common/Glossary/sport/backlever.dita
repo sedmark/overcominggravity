@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
-<glossentry id="backlever">
+<glossentry id="backlever" xml:lang="ru">
   <glossterm>Задний вис</glossterm>
   <glossdef><text id="def">Горизонтальный вис сзади, «ласточка»</text>
     <image href="../images/backlever.png" placement="break"/></glossdef>
     <glossBody>
       <glossAlt>
-        <glossSynonym id="en">Back Lever</glossSynonym>
+        <glossAbbreviation><text id="abbrev">BL</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Back Lever</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

@@ -5,10 +5,11 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conref="#./title"/></shortdesc>
+  <shortdesc><text conkeyref="gl-presshs/def"/> (<text conref="#./enabbrev"/>)</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-presshs/abbrev"/>
+      <text id="shorttitle" conref="#./title"/>
     </data>
   </prolog>
   <conbody>

@@ -8,5 +8,8 @@
     <glossAlt>
       <glossAbbreviation><text id="abbrev">Manna</text></glossAbbreviation>
     </glossAlt>
+    <glossAlt>
+      <glossSynonym><text id="en">Manna</text></glossSynonym>
+    </glossAlt>
   </glossBody>
 </glossentry>

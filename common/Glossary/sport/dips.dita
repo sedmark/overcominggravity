@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="pushups">
+    <glossterm>Вертикальные отжимания</glossterm>
+    <glossdef><text id="def">Вертикальные отжимания (на брусьях)</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Dips</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Dips</text></glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

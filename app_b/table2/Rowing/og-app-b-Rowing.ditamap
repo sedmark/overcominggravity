@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map-og-app-b-Rowing" xml:lang="ru">
-   <topicref href="og-app-b-Rowing-intro.dita">
+<map id="map-og-app-b-rowing" xml:lang="ru">
+   <topicref href="og-app-b-rowing-intro.dita">
       <topicref href="og-app-b-rings_rows.dita"/>
       <topicref href="og-app-b-wide_rings_rows.dita"/>
       <topicref href="og-app-b-archer_rings_rows.dita"/>

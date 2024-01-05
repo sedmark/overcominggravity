@@ -7,7 +7,10 @@
     </glossdef>
     <glossBody>
       <glossAlt>
-        <glossSynonym id="en">Maltese</glossSynonym>
+        <glossAbbreviation><text id="abbrev">Maltese</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Maltese Cross</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

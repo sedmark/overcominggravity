@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map-og-app-b-Pushups" xml:lang="ru">
-   <topicref href="og-app-b-Pushups-intro.dita">
+<map id="map-og-app-b-pushups" xml:lang="ru">
+   <topicref href="og-app-b-pushups-intro.dita">
       <topicref href="og-app-b-regular_pushups.dita"/>
       <topicref href="og-app-b-diamond_pushups.dita"/>
       <topicref href="og-app-b-ring_wide_pu.dita"/>

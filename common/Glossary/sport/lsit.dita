@@ -8,5 +8,8 @@
     <glossAlt>
       <glossAbbreviation><text id="abbrev">L</text></glossAbbreviation>
     </glossAlt>
+    <glossAlt>
+      <glossSynonym><text id="en">L-sit</text></glossSynonym>
+    </glossAlt>
   </glossBody>
 </glossentry>

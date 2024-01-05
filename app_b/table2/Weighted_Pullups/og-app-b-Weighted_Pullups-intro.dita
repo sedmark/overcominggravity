@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-Weighted_Pullups-intro" xml:lang="ru">
+<concept id="og-app-b-weighted_pullups-intro" xml:lang="ru">
    <title>
-      <text id="title"/>
+      <text id="title">Подтягивания с отягощением</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,11 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conkeyref="gl-pullups/def"/> (<text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-/abbrev"/>
+         <text id="enabbrev" conkeyref="gl-pullups/abbrev"/>
+         <text id="shorttitle">Подтяги-вания с отяго-щением</text>
       </data>
    </prolog>
    <conbody>

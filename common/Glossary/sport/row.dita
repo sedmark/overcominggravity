@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="row">
+  <glossterm>Горизонтальные подтягивания</glossterm>
+    <glossdef><text id="def">Тяговые движения в горизонтальной плоскости</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Row</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Rowing</text></glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>

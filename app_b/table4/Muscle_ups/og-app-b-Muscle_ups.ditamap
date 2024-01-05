@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map-og-app-b-Muscle_ups" xml:lang="ru">
-   <topicref href="og-app-b-Muscle_ups-intro.dita">
+<map id="map-og-app-b-muscle_ups" xml:lang="ru">
+   <topicref href="og-app-b-muscle_ups-intro.dita">
       <topicref href="og-app-b-mu_negatives.dita"/>
       <topicref href="og-app-b-kipping_mu.dita"/>
       <topicref href="og-app-b-muscle_ups.dita"/>
@@ -15,6 +15,6 @@
       <topicref href="og-app-b-felge_backward_sb_to_hs.dita"/>
       <topicref href="og-app-b-straight_body_rotation_to_hs.dita"/>
       <topicref href="og-app-b-butterfly_mount.dita"/>
-      <topicref href="og-app-b-(l17)_elevator.dita"/>
+      <topicref href="og-app-b-l17_elevator.dita"/>
    </topicref>
 </map>

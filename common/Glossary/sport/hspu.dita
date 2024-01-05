@@ -8,7 +8,7 @@
         <glossAbbreviation><text id="abbrev">HSPU</text></glossAbbreviation>
       </glossAlt>
       <glossAlt>
-        <glossSynonym id="en">Handstand Push Up</glossSynonym>
+        <glossSynonym><text id="en">Handstand Push Up</text></glossSynonym>
       </glossAlt>
     </glossBody>
 </glossentry>

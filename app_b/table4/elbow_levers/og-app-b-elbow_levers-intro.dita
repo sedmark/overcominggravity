@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-elbow_levers-intro" xml:lang="ru">
+   <title>
+      <text id="title">Горизонтальные упоры на локтях</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conkeyref="gl-el/def"/>. <text conref="#./en"/> (<text conref="#./enabbrev"/>) </shortdesc>
+   <prolog>
+      <data>
+         <text id="en" conkeyref="gl-el/en"/>
+         <text id="enabbrev" conkeyref="gl-el/abbrev"/>
+         <text id="shorttitle">Горизонт на локтях </text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>
