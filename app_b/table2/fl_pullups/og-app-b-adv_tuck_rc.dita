@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-hang_pull_to_inv." xml:lang="ru">
+<concept id="og-app-b-adv_tuck_rc" xml:lang="ru">
    <title>
-      <text id="title">Hang Pull to Inv.</text>
+      <text id="title">Adv. Tuck RC</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Hang Pull to Inv.</text>
+         <text id="enabbrev">Adv. Tuck RC</text>
       </data>
    </prolog>
    <conbody>

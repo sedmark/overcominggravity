@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-straddle_pl" xml:lang="ru">
    <title>
-      <text id="title">straddle PL</text>
+      <text id="title">Straddle PL</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">straddle PL</text>
+         <text id="enabbrev">Straddle PL</text>
       </data>
    </prolog>
    <conbody>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-ba_pullup_to_bl" xml:lang="ru">
+<concept id="og-app-b-ba_pullup_bl" xml:lang="ru">
    <title>
-      <text id="title">BA pullup to BL</text>
+      <text id="title">BA pullup BL</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">BA pullup to BL</text>
+         <text id="enabbrev">BA pullup BL</text>
       </data>
    </prolog>
    <conbody>

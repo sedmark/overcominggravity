@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-2.1x_bodyweight" xml:lang="ru">
+<concept id="og-app-b-non-kip_btb_clap" xml:lang="ru">
    <title>
-      <text id="title">2.1x bodyweight</text>
+      <text id="title">Non-kip BTB Clap</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">2.1x bodyweight</text>
+         <text id="enabbrev">Non-kip BTB Clap</text>
       </data>
    </prolog>
    <conbody>

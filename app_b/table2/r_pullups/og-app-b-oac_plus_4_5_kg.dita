@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-05_lay_-_1_leg_pl" xml:lang="ru">
+<concept id="og-app-b-oac_plus_4_5_kg" xml:lang="ru">
    <title>
-      <text id="title">½ lay / 1 leg PL</text>
+      <text id="title">OAC + 4.5 kg</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">½ lay / 1 leg PL</text>
+         <text id="enabbrev">OAC + 4.5 kg</text>
       </data>
    </prolog>
    <conbody>

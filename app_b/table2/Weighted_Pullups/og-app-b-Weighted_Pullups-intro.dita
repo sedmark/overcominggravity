@@ -10,12 +10,10 @@
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc>
-      <text conkeyref="gl-pullups/def"/> (<text conref="#./enabbrev"/>)
-   </shortdesc>
+   <shortdesc>Подтягивания с нагрузкой в долях от собственного веса (<text conref="#./enabbrev"/>)</shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev" conkeyref="gl-pullups/abbrev"/>
+         <text id="enabbrev"/>
          <text id="shorttitle">Подтяги-вания с отяго-щением</text>
       </data>
    </prolog>
