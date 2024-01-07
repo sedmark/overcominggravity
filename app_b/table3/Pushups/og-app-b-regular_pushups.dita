@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-regular_pushups" xml:lang="ru">
    <title>
-      <text id="title">regular pushups</text>
+      <text id="title">Regular Pushups</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">regular pushups</text>
+         <text id="enabbrev">Regular Pushups</text>
       </data>
    </prolog>
    <conbody>

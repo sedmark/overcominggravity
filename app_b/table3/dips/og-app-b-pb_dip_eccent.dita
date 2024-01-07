@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-rings_str._oa_pu" xml:lang="ru">
+<concept id="og-app-b-pb_dip_eccent." xml:lang="ru">
    <title>
-      <text id="title">rings str. OA PU</text>
+      <text id="title">PB Dip Eccent.</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">rings str. OA PU</text>
+         <text id="enabbrev">PB Dip Eccent.</text>
       </data>
    </prolog>
    <conbody>

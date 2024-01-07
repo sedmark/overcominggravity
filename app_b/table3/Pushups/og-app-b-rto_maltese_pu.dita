@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-rto_maltese_pu" xml:lang="ru">
    <title>
-      <text id="title">RTO maltese PU</text>
+      <text id="title">RTO Maltese PU</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">RTO maltese PU</text>
+         <text id="enabbrev">RTO Maltese PU</text>
       </data>
    </prolog>
    <conbody>

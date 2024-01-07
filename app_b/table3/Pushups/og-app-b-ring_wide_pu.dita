@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-ring_wide_pu" xml:lang="ru">
    <title>
-      <text id="title">ring wide PU</text>
+      <text id="title">Ring Wide PU</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">ring wide PU</text>
+         <text id="enabbrev">Ring Wide PU</text>
       </data>
    </prolog>
    <conbody>

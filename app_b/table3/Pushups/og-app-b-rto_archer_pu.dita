@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-rto_archer_pu" xml:lang="ru">
    <title>
-      <text id="title">RTO archer PU</text>
+      <text id="title">RTO Archer PU</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">RTO archer PU</text>
+         <text id="enabbrev">RTO Archer PU</text>
       </data>
    </prolog>
    <conbody>

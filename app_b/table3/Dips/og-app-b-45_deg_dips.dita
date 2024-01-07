@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-45_deg_dips" xml:lang="ru">
    <title>
-      <text id="title">45 deg dips</text>
+      <text id="title">45&#176; Dips</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">45 deg dips</text>
+         <text id="enabbrev">45&#176; Dips</text>
       </data>
    </prolog>
    <conbody>
