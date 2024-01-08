@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-1x_bw" xml:lang="ru">
    <title>
-      <text id="title">1x bw</text>
+      <text id="title">1x СВ</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">1x bw</text>
+         <text id="enabbrev">СВ</text>
       </data>
    </prolog>
    <conbody>

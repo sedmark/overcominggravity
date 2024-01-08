@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-1.375x_bw" xml:lang="ru">
+<concept id="og-app-b-1_375x_bw" xml:lang="ru">
    <title>
-      <text id="title">1.375x bw</text>
+      <text id="title">1.375x СВ</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">1.375x bw</text>
+         <text id="enabbrev">+37.5% СВ</text>
       </data>
    </prolog>
    <conbody>

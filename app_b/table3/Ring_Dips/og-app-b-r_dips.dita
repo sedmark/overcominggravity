@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-r_dips" xml:lang="ru">
    <title>
-      <text id="title">R dips</text>
+      <text id="title">R Dips</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">R dips</text>
+         <text id="enabbrev">R Dips</text>
       </data>
    </prolog>
    <conbody>

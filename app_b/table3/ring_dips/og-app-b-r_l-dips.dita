@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-r__l-dips" xml:lang="ru">
+<concept id="og-app-b-r_l-dips" xml:lang="ru">
    <title>
-      <text id="title">R  L-dips</text>
+      <text id="title">R L-dips</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">R  L-dips</text>
+         <text id="enabbrev">R L-dips</text>
       </data>
    </prolog>
    <conbody>

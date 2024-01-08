@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-oac_plus_9_kg" xml:lang="ru">
    <title>
-      <text id="title">OAC + 9 kg</text>
+      <text id="title">OAC + 9&#160;kg</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">OAC + 9 kg</text>
+         <text id="enabbrev">OAC + 9&#160;kg</text>
       </data>
    </prolog>
    <conbody>
