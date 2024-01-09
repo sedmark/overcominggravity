@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-butterfly_mount" xml:lang="ru">
    <title>
-      <text id="title">Butterfly mount</text>
+      <text id="title">Butterfly Mount</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Butterfly mount</text>
+         <text id="enabbrev">Butterfly Mount</text>
       </data>
    </prolog>
    <conbody>
