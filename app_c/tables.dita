@@ -855,7 +855,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-25s_plank.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-25s_plank.dita#og-app-b-25s_plank/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
@@ -865,7 +865,7 @@
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-mu_negatives.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-mu_negatives.dita#og-app-b-mu_negatives/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-60s_plank.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-60s_plank.dita#og-app-b-60s_plank/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
@@ -875,7 +875,7 @@
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-kipping_mu.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-kipping_mu.dita#og-app-b-kipping_mu/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-1_arm_1_leg_plank.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-1_arm_1_leg_plank.dita#og-app-b-1_arm_1_leg_plank/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
@@ -884,10 +884,10 @@
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень A</entry>
                         <entry>5</entry>
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-muscle_ups.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-muscle_ups.dita#og-app-b-muscle_ups/enabbrev"/></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/elbow_levers/og-app-b-two_arm_el.dita"><text conref="../app_b/table4/elbow_levers/og-app-b-two_arm_el.dita#og-app-b-two_arm_el/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/flag/og-app-b-tuck_flag.dita"><text conref="../app_b/table4/flag/og-app-b-tuck_flag.dita#og-app-b-tuck_flag/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-knees_ab_wheel.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-knees_ab_wheel.dita#og-app-b-knees_ab_wheel/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-rto_l-sit.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-rto_l-sit.dita#og-app-b-rto_l-sit/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
@@ -895,30 +895,30 @@
                         <entry morerows="3" rotate="1"  align="center" valign="middle">Средний</entry>
                         <entry>6</entry>
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-wide_or_no_fg_mu.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-wide_or_no_fg_mu.dita#og-app-b-wide_or_no_fg_mu/enabbrev"/></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/elbow_levers/og-app-b-rings_two_arm_el.dita"><text conref="../app_b/table4/elbow_levers/og-app-b-rings_two_arm_el.dita#og-app-b-rings_two_arm_el/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/flag/og-app-b-adv_tuck_flag.dita"><text conref="../app_b/table4/flag/og-app-b-adv_tuck_flag.dita#og-app-b-adv_tuck_flag/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-ab_wheel_on_ramp.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-ab_wheel_on_ramp.dita#og-app-b-ab_wheel_on_ramp/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-rto_str-l.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-rto_str-l.dita#og-app-b-rto_str-l/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
                     <row>
                         <entry>7</entry>
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-strict_bar_mu.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-strict_bar_mu.dita#og-app-b-strict_bar_mu/enabbrev"/></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/elbow_levers/og-app-b-oa_straddle_el.dita"><text conref="../app_b/table4/elbow_levers/og-app-b-oa_straddle_el.dita#og-app-b-oa_straddle_el/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/flag/og-app-b-straddle_flag.dita"><text conref="../app_b/table4/flag/og-app-b-straddle_flag.dita#og-app-b-straddle_flag/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-ab_wheel_eccentrics.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-ab_wheel_eccentrics.dita#og-app-b-ab_wheel_eccentrics/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-back_lever.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-back_lever.dita#og-app-b-back_lever/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
                     <row>
                         <entry>8</entry>
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-sfl_mu_atpl_or_l-sit_mu.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-sfl_mu_atpl_or_l-sit_mu.dita#og-app-b-sfl_mu_atpl_or_l-sit_mu/enabbrev"></text></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/elbow_levers/og-app-b-oa_straight_body_el.dita"><text conref="../app_b/table4/elbow_levers/og-app-b-oa_straight_body_el.dita#og-app-b-oa_straight_body_el/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/flag/og-app-b-full_flag.dita"><text conref="../app_b/table4/flag/og-app-b-full_flag.dita#og-app-b-full_flag/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-full_ab_wheel.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-full_ab_wheel.dita#og-app-b-full_ab_wheel/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-front_lever.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-front_lever.dita#og-app-b-front_lever/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
@@ -928,8 +928,8 @@
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-oa_straight_mu.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-oa_straight_mu.dita#og-app-b-oa_straight_mu/enabbrev"></text></xref></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-ab_wheel_plus_20_lbs.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-ab_wheel_plus_20_lbs.dita#og-app-b-ab_wheel_plus_20_lbs/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-rings_90_deg_v-sit.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-rings_90_deg_v-sit.dita#og-app-b-rings_90_deg_v-sit/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
@@ -939,8 +939,8 @@
                         <entry><xref href="../app_b/table4/muscle_ups/og-app-b-felge_bckwrd_sb_to_support.dita"><text conref="../app_b/table4/muscle_ups/og-app-b-felge_bckwrd_sb_to_support.dita#og-app-b-felge_bckwrd_sb_to_support/enabbrev"></text></xref></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/ab_wheel/og-app-b-one_arm_ab_wheel.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-one_arm_ab_wheel.dita#og-app-b-one_arm_ab_wheel/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-iron_cross_or_str_pl.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-iron_cross_or_str_pl.dita#og-app-b-iron_cross_or_str_pl/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
@@ -982,7 +982,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-full_planche.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-full_planche.dita#og-app-b-full_planche/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
@@ -1002,7 +1002,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-inverted_cross.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-inverted_cross.dita#og-app-b-inverted_cross/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
                     </row>
