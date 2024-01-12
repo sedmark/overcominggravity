@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-iron_cross_or_str_pl" xml:lang="ru">
    <title>
-      <text id="title">Iron cross  / Str PL</text>
+      <text id="title">Iron&#160;cross  / Str&#160;PL</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Iron cross  / Str PL</text>
+         <text id="enabbrev">Iron&#160;cross  / Str&#160;PL</text>
       </data>
    </prolog>
    <conbody>

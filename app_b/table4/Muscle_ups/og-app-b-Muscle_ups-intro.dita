@@ -11,12 +11,12 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conkeyref="gl-mu/def"/> (<text conref="#./enabbrev"/>/Inverted <text conref="#./enabbrev"/>)
+      <text conkeyref="gl-mu/def"/> (<text conref="#./enabbrev"/> / Inverted <text conref="#./enabbrev"/>)
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-mu/en"/>
-         <text id="shorttitle">Выходы силой / Перевер-нутые выходы силой</text>
+         <text id="shorttitle">Выходы силой / Перевернутые выходы силой</text>
       </data>
    </prolog>
    <conbody>

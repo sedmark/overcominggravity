@@ -683,7 +683,7 @@
                         <entry><xref href="../app_b/table3/pushups/og-app-b-rto_60_deg_pppu.dita"><text conref="../app_b/table3/pushups/og-app-b-rto_60_deg_pppu.dita#og-app-b-rto_60_deg_pppu/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table3/one_arm_pushups/og-app-b-straight_bdy_oa_pu.dita"><text conref="../app_b/table3/one_arm_pushups/og-app-b-straight_bdy_oa_pu.dita#og-app-b-straight_bdy_oa_pu/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table3/dips/og-app-b-one_arm_dip.dita"><text conref="../app_b/table3/dips/og-app-b-one_arm_dip.dita#og-app-b-one_arm_dip/enabbrev"/></xref></entry>
-                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita#og-app-b-rto_75_deg_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita"><image href="../app_b/table2/iron_cross/img/icon_cross.png"/><text conref="../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita#og-app-b-rto_75_deg_dips/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table3/weighted_dips/og-app-b-1_85x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-1_85x_bw.dita#og-app-b-1_85x_bw/enabbrev"/></xref></entry>
                     </row>
                     <row>
@@ -848,7 +848,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry>(fwd — вперед)</entry>
                     </row>
                     <row>
                         <entry>2</entry>
@@ -858,7 +858,7 @@
                         <entry><xref href="../app_b/table4/ab_wheel/og-app-b-25s_plank.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-25s_plank.dita#og-app-b-25s_plank/enabbrev"/></xref></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry>(bwd — назад)</entry>
                     </row>
                     <row>
                         <entry>3</entry>
@@ -899,8 +899,8 @@
                         <entry><xref href="../app_b/table4/flag/og-app-b-adv_tuck_flag.dita"><text conref="../app_b/table4/flag/og-app-b-adv_tuck_flag.dita#og-app-b-adv_tuck_flag/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table4/ab_wheel/og-app-b-ab_wheel_on_ramp.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-ab_wheel_on_ramp.dita#og-app-b-ab_wheel_on_ramp/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-rto_str-l.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-rto_str-l.dita#og-app-b-rto_str-l/enabbrev"/></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-kip_to_support.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-kip_to_support.dita#og-app-b-kip_to_support/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_piked_to_support.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_piked_to_support.dita#og-app-b-felge_fwd__piked_to_support/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>7</entry>
@@ -909,8 +909,8 @@
                         <entry><xref href="../app_b/table4/flag/og-app-b-straddle_flag.dita"><text conref="../app_b/table4/flag/og-app-b-straddle_flag.dita#og-app-b-straddle_flag/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table4/ab_wheel/og-app-b-ab_wheel_eccentrics.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-ab_wheel_eccentrics.dita#og-app-b-ab_wheel_eccentrics/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-back_lever.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-back_lever.dita#og-app-b-back_lever/enabbrev"/></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_support.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_support.dita#og-app-b-back_kip_to_support/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_bwd_piked_to_support.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_bwd_piked_to_support.dita#og-app-b-felge_bwd__piked_to_support/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>8</entry>
@@ -930,7 +930,7 @@
                         <entry></entry>
                         <entry><xref href="../app_b/table4/ab_wheel/og-app-b-ab_wheel_plus_20_lbs.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-ab_wheel_plus_20_lbs.dita#og-app-b-ab_wheel_plus_20_lbs/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-rings_90_deg_v-sit.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-rings_90_deg_v-sit.dita#og-app-b-rings_90_deg_v-sit/enabbrev"/></xref></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-sa_kip_to_l-sit.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-sa_kip_to_l-sit.dita#og-app-b-sa_kip_to_l-sit/enabbrev"/></xref></entry>
                         <entry></entry>
                     </row>
                     <row>
@@ -941,8 +941,8 @@
                         <entry></entry>
                         <entry><xref href="../app_b/table4/ab_wheel/og-app-b-one_arm_ab_wheel.dita"><text conref="../app_b/table4/ab_wheel/og-app-b-one_arm_ab_wheel.dita#og-app-b-one_arm_ab_wheel/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-iron_cross_or_str_pl.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-iron_cross_or_str_pl.dita#og-app-b-iron_cross_or_str_pl/enabbrev"/></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-sa_back_kip_to_support.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-sa_back_kip_to_support.dita#og-app-b-sa_back_kip_to_support/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_straight_to_support.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_straight_to_support.dita#og-app-b-felge_fwd__straight_to_support/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>11</entry>
@@ -951,8 +951,8 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_handstand.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_handstand.dita#og-app-b-back_kip_to_handstand/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_bwd_straight_to_support.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_bwd_straight_to_support.dita#og-app-b-felge_bwd__straight_to_support/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>12</entry>
@@ -962,7 +962,7 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_bwd_sb_to_hs.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_bwd_sb_to_hs.dita#og-app-b-felge_bwd_sb_to_hs/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry morerows="3" rotate="1" align="center" valign="middle">Уровень C</entry>
@@ -972,8 +972,8 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-sa_kip_to_v-sit-kip_cross-l-cross.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-sa_kip_to_v-sit-kip_cross-l-cross.dita#og-app-b-sa_kip_to_v-sit-kip_cross-l-cross/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_sa_to_cross.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_sa_to_cross.dita#og-app-b-felge_fwd_sa_to_cross/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry morerows="2" rotate="1"  align="center" valign="middle">Элитный</entry>
@@ -983,8 +983,8 @@
                         <entry></entry>
                         <entry></entry>
                         <entry><xref href="../app_b/table4/rings_full_statics/og-app-b-full_planche.dita"><text conref="../app_b/table4/rings_full_statics/og-app-b-full_planche.dita#og-app-b-full_planche/enabbrev"/></xref></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_cross-l-cross.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_cross-l-cross.dita#og-app-b-back_kip_to_cross-l-cross/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_sa_to_str_pl.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_sa_to_str_pl.dita#og-app-b-felge_fwd_sa_to_str_pl/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>15</entry>
@@ -993,8 +993,8 @@
                         <entry></entry>
                         <entry></entry>
                         <entry></entry>
-                        <entry></entry>
-                        <entry></entry>
+                        <entry><xref href="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_straddle_pl.dita"><text conref="../app_b/table4/rings_kip_skills/og-app-b-back_kip_to_straddle_pl.dita#og-app-b-back_kip_to_straddle_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_sa_sb_to_hs.dita"><text conref="../app_b/table4/rings_felge_skills/og-app-b-felge_fwd_sa_sb_to_hs.dita#og-app-b-felge_fwd_sa_sb_to_hs/enabbrev"/></xref></entry>
                     </row>
                     <row>
                         <entry>16</entry>

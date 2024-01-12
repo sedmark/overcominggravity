@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-back_kip_to_cross-l-cross" xml:lang="ru">
    <title>
-      <text id="title">Back kip to cross/L-cross</text>
+      <text id="title">Back kip to cross / L-cross</text>
    </title>
    <titlealts>
       <navtitle>
@@ -15,7 +15,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Back kip to cross/L-cross</text>
+         <text id="enabbrev">Back&#160;kip&#160;to&#160;cross / L-cross</text>
       </data>
    </prolog>
    <conbody>
