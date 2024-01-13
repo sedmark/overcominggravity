@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b" xml:lang="ru">
 	<topicref href="og-app-b-intro.dita">
+		<topicref navtitle="Снаряжение" href="og-app-b-reqeq.dita"/>
 		<topicref navtitle="Таблица 1">
 			<mapref href="table1/hs/og-app-b-hs.ditamap"/>
 			<mapref href="table1/ringshs/og-app-b-r_hs.ditamap"/>
