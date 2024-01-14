@@ -3,6 +3,7 @@
 <map id="map-app-b-hs" xml:lang="ru">
 	<topicref href="og-app-b-hs-intro.dita">
 		<topicref href="og-app-b-wallhs.dita"/>
+		<topicref href="og-app-b-grip.dita"/>
 		<topicref href="og-app-b-hes.dita"/>
 		<topicref href="og-app-b-freehs.dita"/>
 		<topicref href="og-app-b-freehs_4fingers.dita"/>
