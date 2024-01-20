@@ -5,14 +5,13 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/wallhs.png" align="left" height="2in"/><text conref="#./title"/></shortdesc>
+  <shortdesc><image href="img/wallhs.jpeg" align="left" height="2in"/><text conref="#./title"/></shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-wallhs/abbrev"/>
     </data>
   </prolog>
   <conbody>
-    <p conkeyref="underconstruction/p_substitution"/>
     <p>Стойки на руках — критический компонент тренинга с собственным весом. В сущности, стойки на
       руках лежат в основе всех гимнастических упражнений. Важно правильно освоить это упражнение,
       поэтому оно стоит первым в категории навыков. И поэтому разучивание стоек на руках подробно
