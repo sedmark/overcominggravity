@@ -6,8 +6,8 @@
     <navtitle>Как пользоваться таблицами</navtitle>
   </titlealts>
   <conbody>
-    <p>Та информация о тренировках с собственным весом, которая есть в интернете, по большей части
-      отрывочна. Но все-таки есть ресурсы, которые рассказывают о прогрессиях силы и навыков.</p>
+    <p>Та информация о тренировках с собственным весом, которая есть в интернете, весьма отрывочна.
+      Но все-таки можно найти ресурсы, которые рассказывают о прогрессиях силы и навыков.</p>
     <p>Однако, практически нигде не определены уровни прогрессий. Поэтому, я собрал вместе несколько
       таблиц прогрессий, который, я надеюсь, изменят подход к упражнениям с собственным весом. Они
       напоминают «ступени навыков» в компьютерных ролевых играх (RPG). В игре вы «прокачиваете»
@@ -68,13 +68,16 @@
     <p>Тем, кто общается с гимнастами или <term keyref="gl-bodyweighter">бодивейтерами</term>, термины и сокращения из таблиц могут быть знакомы, 
       но большинству людей нужно обращаться к описаниям этих упражнений.</p>
     <table conref="../app_c/tables.dita#tables/table1">
-      <tgroup cols="1">
-        <tbody>
-          <row>
-            <entry/>
-          </row>
-        </tbody>
-      </tgroup>
+      <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
+    </table>
+    <table conref="../app_c/tables.dita#tables/table2">
+      <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
+    </table>
+    <table conref="../app_c/tables.dita#tables/table3">
+      <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
+    </table>
+    <table conref="../app_c/tables.dita#tables/table4">
+      <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
     </table>
   </conbody>
 <!--
