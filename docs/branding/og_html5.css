@@ -964,10 +964,10 @@ table .varname {
 
 /****************************************
 SDA
+  transform: rotate(270deg);
 ****************************************/
 .entry.rotate {
   writing-mode: vertical-lr;
-  transform: rotate(270deg);
 }
 
 
