@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-pullups-intro" xml:lang="ru">
+   <title>
+      <text id="title">Подтягивания</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conkeyref="gl-pullups/def"/> (<text conref="#./enabbrev"/>)
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev" conkeyref="gl-pullups/abbrev"/>
+         <text id="shorttitle">Подтяги-вания</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>

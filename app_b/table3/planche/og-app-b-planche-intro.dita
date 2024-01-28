@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-planche-intro" xml:lang="ru">
+   <title>
+      <text id="title">Горизонт</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conkeyref="gl-planche/def"/> (<text conref="#./enabbrev"/> PB/FL)
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev" conkeyref="gl-planche/abbrev"/>
+         <text id="shorttitle" conref="#./title"/>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>

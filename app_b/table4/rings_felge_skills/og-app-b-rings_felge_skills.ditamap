@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-og-app-b-rings_felge_skills" xml:lang="ru">
+   <topicref href="og-app-b-rings_felge_skills-intro.dita">
+      <topicref href="og-app-b-felge_fwd_piked_to_support.dita"/>
+      <topicref href="og-app-b-felge_bwd_piked_to_support.dita"/>
+      <topicref href="og-app-b-felge_fwd_straight_to_support.dita"/>
+      <topicref href="og-app-b-felge_bwd_straight_to_support.dita"/>
+      <topicref href="og-app-b-felge_bwd_sb_to_hs.dita"/>
+      <topicref href="og-app-b-felge_fwd_sa_to_cross.dita"/>
+      <topicref href="og-app-b-felge_fwd_sa_to_str_pl.dita"/>
+      <topicref href="og-app-b-felge_fwd_sa_sb_to_hs.dita"/>
+   </topicref>
+</map>

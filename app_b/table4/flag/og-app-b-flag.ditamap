@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-og-app-b-flag" xml:lang="ru">
+   <topicref href="og-app-b-flag-intro.dita">
+      <topicref href="og-app-b-tuck_flag.dita"/>
+      <topicref href="og-app-b-adv_tuck_flag.dita"/>
+      <topicref href="og-app-b-straddle_flag.dita"/>
+      <topicref href="og-app-b-full_flag.dita"/>
+   </topicref>
+</map>
