@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-one_arm_dip" xml:lang="ru">
+   <title>
+      <text id="title">One Arm Dip</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conref="#./title"/>
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev">One Arm Dip</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>
