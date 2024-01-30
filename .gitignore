@@ -3,6 +3,7 @@
 *.cmd
 *.fo
 *.docx
+log.txt
 temp/
 out/
 src/
