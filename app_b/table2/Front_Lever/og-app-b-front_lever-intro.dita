@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-front_lever-intro" xml:lang="ru">
+   <title>
+      <text id="title">Горизонтальный вис спереди</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conkeyref="gl-frontlever/def"/> (<text conref="#./enabbrev"/>)
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev" conkeyref="gl-frontlever/en"/>
+         <text id="shorttitle">Передний вис</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>

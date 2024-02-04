@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-og-app-b-rings_kip_skills" xml:lang="ru">
+   <topicref href="og-app-b-rings_kip_skills-intro.dita">
+      <topicref href="og-app-b-kip_to_support.dita"/>
+      <topicref href="og-app-b-back_kip_to_support.dita"/>
+      <topicref href="og-app-b-sa_kip_to_l-sit.dita"/>
+      <topicref href="og-app-b-sa_back_kip_to_support.dita"/>
+      <topicref href="og-app-b-back_kip_to_handstand.dita"/>
+      <topicref href="og-app-b-sa_kip_to_v-sit-kip_cross-l-cross.dita"/>
+      <topicref href="og-app-b-back_kip_to_cross-l-cross.dita"/>
+      <topicref href="og-app-b-back_kip_to_straddle_pl.dita"/>
+   </topicref>
+</map>

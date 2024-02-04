@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-muscle_ups-intro" xml:lang="ru">
+   <title>
+      <text id="title">Выходы силой / Перевернутые выходы силой</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conkeyref="gl-mu/def"/> (<text conref="#./enabbrev"/> / Inverted <text conref="#./enabbrev"/>)
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev" conkeyref="gl-mu/en"/>
+         <text id="shorttitle">Выходы силой / Перевернутые выходы силой</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p conkeyref="underconstruction/p_substitution"/>
+   </conbody>
+</concept>
