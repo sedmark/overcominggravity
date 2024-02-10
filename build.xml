@@ -1,0 +1,27 @@
+<project name="OG" default="boots" basedir=".">
+		<property environment="env"/>
+    <property name="dita.dir" location="${env.DITA_DIR}"/>
+    <target name="boots">
+        <ant antfile="${dita.dir}/build.xml">
+            <property name="args.input" value="OGbook.ditamap"/>
+            <!--property name="format" value="sass-bootstrap"/-->
+            <!--property name="transtype" value="html5"/-->
+            <property name="transtype" value="html5-bootstrap"/>
+            <!--property name="transtype" value="pdf"/-->
+            <property name="bootstrap.theme" value="united"/>
+            <!--property name="args.hdr" value="${dita.dir}/plugins/net.infotexture.dita-bootstrap.lunr/includes/hdr.navbar.lunr.xml"/-->
+            <property name="output.dir" value="${basedir}/out"/>
+            <!--property name="offline.mode" value="no"/>
+            <property name="lunr.support.include" value="yes"/-->
+						<!--
+            <property name="args.cssroot" value="${basedir}/css"/>
+            <property name="args.css" value="og_html5.css"/>
+            <property name="args.copycss" value="yes"/>
+            <property name="args.csspath" value="branding"/>
+						-->
+            <property name="nav-toc" value="full"/>
+            <property name="args.rellinks" value="all"/>
+            <property name="clean.temp" value="yes"/>
+        </ant>
+    </target>
+</project>

@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc>Стойка на близко поставленных руках. В таблицах уровней отсутствует.</shortdesc>
+  <shortdesc>Стойка на близко поставленных руках. В таблицах уровней отсутствует</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">Hands Closer Together HS</text>

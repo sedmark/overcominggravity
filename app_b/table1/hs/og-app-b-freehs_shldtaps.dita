@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle>Касания плеч</navtitle>
   </titlealts>
-  <shortdesc><text conref="#./title"/>. В таблицах уровней отсутствуют.</shortdesc>
+  <shortdesc><text conref="#./title"/>. В таблицах уровней отсутствуют</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">Free HS Shld Taps</text>

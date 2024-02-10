@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/freehs.jpeg" align="left" height="2in"/>Стойка на руках без опоры</shortdesc>
+  <shortdesc><image href="img/freehs.jpeg" align="left" height="2in"/>Стойка на руках без опоры. Уровень 5</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-freehs/abbrev"/>
@@ -38,6 +38,6 @@
     <p>После того, как вы добьетесь каменной твердости стойки у стены, для свободной стойки на руках
       без опоры потребуется просто постоянная практика. Практикуйтесь каждый день и вы ее
       освоите.</p>
-    <p>Это упражнение уровня A по гимнастической системе оценки трудности.</p>
+    <p>Упражнение соответствует уровню A в гимнастике.</p>
   </conbody>
 </concept>
