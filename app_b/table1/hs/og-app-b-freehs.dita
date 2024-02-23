@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/freehs.jpeg" align="left" height="2in"/>Стойка на руках без опоры. Уровень 5</shortdesc>
+  <shortdesc><image href="img/freehs.png" align="left"/>Стойка на руках без опоры. Уровень 5</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-freehs/abbrev"/>

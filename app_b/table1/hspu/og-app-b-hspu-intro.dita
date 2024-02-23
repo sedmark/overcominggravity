@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conkeyref="gl-hspu/def"/> (<text conref="#./enabbrev"/>)</shortdesc>
+  <shortdesc><text conkeyref="gl-hspu/def"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table1">Таблица 1, колонка 3</xref></shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-hspu/abbrev"/>
@@ -13,6 +13,14 @@
     </data>
   </prolog>
   <conbody>
-    <p conkeyref="underconstruction/p_substitution"/>
+    <p>В серии упражнений «отжимания в стойке на руках» принципиальным моментом, опять же, является
+      особое внимание на правильные положения тела. В случае шатаний или неправильных положений мы
+      только задерживаем собственное силовое и кинестетическое развитие.</p>
+    <p>
+      <note>Если посмотреть на таблицу, то можно заметить, что по логике прогрессии третьей колонкой
+        должна быть серия упражнения, которая размещена в следующей четвертой колонке. На самом
+        деле, гибридную категорию четвертой колонки создает комбинация навыков второй и третьей
+        колонок.</note>
+    </p>
   </conbody>
 </concept>

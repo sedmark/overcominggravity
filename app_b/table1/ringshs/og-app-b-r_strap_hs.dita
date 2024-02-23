@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle>Стойка с опорой на подвесные ремни</navtitle>
   </titlealts>
-  <shortdesc><image href="img/r_strap_hs.jpeg" align="left" height="2in"/><text conref="#./title"/>. Уровень 6</shortdesc>
+  <shortdesc><image href="img/r_strap_hs.png" align="left"/><text conref="#./title"/>. Уровень 6</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">R strap HS</text>

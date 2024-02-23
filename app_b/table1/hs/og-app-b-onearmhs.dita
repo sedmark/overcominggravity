@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/onearmhs.jpeg" align="left" height="2in"/><text conref="#./title"/></shortdesc>
+  <shortdesc><image href="img/onearmhs.png" align="left"/><text conref="#./title"/></shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-onearmhs/abbrev"/>
