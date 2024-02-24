@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conkeyref="gl-presshs/def"/> (<text conref="#./enabbrev"/>)</shortdesc>
+  <shortdesc><text conkeyref="gl-presshs/def"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table1">Таблица 1, колонка 6</xref></shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-presshs/abbrev"/>
@@ -13,6 +13,9 @@
     </data>
   </prolog>
   <conbody>
-    <p conkeyref="underconstruction/p_substitution"/>
+    <p>Силовые выходы в стойку на руках с согнутыми руками — это серия элементов, которые, наверное,
+      желает освоить каждый. Так же как и в других стойках на руках (а в действительности и во всех
+      упражнениях), чтобы их освоить им необходимо уделить должное внимание, а после освоения
+      постоянно закреплять правильную технику.</p>
   </conbody>
 </concept>

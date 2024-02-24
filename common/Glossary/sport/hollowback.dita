@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="holowback">
+  <glossterm>Прогнувшись</glossterm>
+  <glossdef><text id="def">Положение в гимнастике, при котором тело сохраняется прямым или только слегка прогнутым</text></glossdef>
+    <glossBody>
+      <glossAlt>
+        <glossAbbreviation><text id="abbrev">Hollowback</text></glossAbbreviation>
+      </glossAlt>
+      <glossAlt>
+        <glossSynonym><text id="en">Hollow position</text></glossSynonym>
+      </glossAlt>
+    </glossBody>
+</glossentry>
