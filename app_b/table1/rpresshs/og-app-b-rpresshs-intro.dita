@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-b-rpresshs-intro" xml:lang="ru">
-  <title><text id="title">Силовые выходы в стойку на руках на кольцах</text></title>
+  <title><text id="title">Силовые выходы в стойку на руках на кольцах с согнутых рук</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conkeyref="gl-rpresshs/def"/> (<text conref="#./enabbrev"/>)</shortdesc>
+  <shortdesc><text conkeyref="gl-rpresshs/def"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table1">Таблица 1, колонка 7</xref></shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-rpresshs/abbrev"/>
