@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-140_deg_v-sit" xml:lang="ru">
    <title>
-      <text id="title">140&#176; V-sit</text>
+      <text id="title">V-угол 140&#176;</text>
    </title>
    <titlealts>
       <navtitle>
@@ -18,7 +18,5 @@
          <text id="enabbrev">140&#176; V-sit</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody conref="og-app-b-phase3-sit.dita#og-app-b-phase3-sit/phase3"/>
 </concept>

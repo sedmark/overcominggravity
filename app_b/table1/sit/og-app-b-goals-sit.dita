@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-goals-sit" xml:lang="ru">
+   <title>
+      <text id="title">Целевая тренировка V-угла и Манна</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conref="#./title"/>
+   </shortdesc>
+   <conbody>
+      <p>Для новичков выбор <term keyref="gl-vsit">V-угла</term> в качестве цели является пустой
+         тратой времени. Лучше выбрать угол <term keyref="gl-manna">Манна</term>, так как с ним вы
+         освоите и желаемый V-угол. Как уже говорилось, величины углов указаны полуусловно, но они
+         дают четкий критерий для сравнения.</p>
+   </conbody>
+</concept>

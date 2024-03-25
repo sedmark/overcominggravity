@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-manna" xml:lang="ru">
    <title>
-      <text id="title">Manna</text>
+      <text id="title">Манна</text>
    </title>
    <titlealts>
       <navtitle>
@@ -18,7 +18,5 @@
          <text id="enabbrev">Manna</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody conref="og-app-b-phase4-sit.dita#og-app-b-phase4-sit/phase4"/>
 </concept>
