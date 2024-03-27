@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conkeyref="gl-rhs/def"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table1">Таблица 1, колонка 2</xref></shortdesc>
+  <shortdesc><text conkeyref="gl-rhs/def"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/table1.dita">Таблица 1, колонка 2</xref></shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-rhs/abbrev"/>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="table3" xml:lang="ru">
+    <title>Таблица прогрессий силы и навыков №3</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table id="table3" orient="port" frame="all"  colsep="1" rowsep="1">
+            <title>Таблица 3</title>
+            <tgroup cols="12">
+                <colspec colname="group" align="center" colwidth="2*"/>
+                <colspec colname="fig" align="center" colwidth="2*"/>
+                <colspec colname="level" align="center" colwidth="1*"/>
+                <colspec colname="1" align="center"/>
+                <colspec colname="2" align="center"/>
+                <colspec colname="3" align="center"/>
+                <colspec colname="4" align="center"/>
+                <colspec colname="5" align="center"/>
+                <colspec colname="6" align="center"/>
+                <colspec colname="7" align="center"/>
+                <colspec colname="8" align="center"/>
+                <colspec colname="9" align="center"/>
+                <thead>
+                    <row valign="middle">
+                        <entry namest="group" nameend="level" align="right">№&#160;колонки</entry>
+                        <entry>1</entry>
+                        <entry>2</entry>
+                        <entry>3</entry>
+                        <entry>4</entry>
+                        <entry>5</entry>
+                        <entry>6</entry>
+                        <entry>7</entry>
+                        <entry>8</entry>
+                        <entry>9</entry>
+                    </row>
+                    <row valign="middle">
+                        <entry namest="group" nameend="level" align="right">№&#160;страницы в&#160;оригинале</entry>
+                        <entry>410</entry>
+                        <entry>424</entry>
+                        <entry>431</entry>
+                        <entry>437</entry>
+                        <entry>439</entry>
+                        <entry>452</entry>
+                        <entry>457</entry>
+                        <entry>463</entry>
+                        <entry>471</entry>
+                    </row>
+                    <row>
+                        <entry rotate="1">Оценка автора</entry>
+                        <entry rotate="1">Оценка МФГ</entry>
+                        <entry rotate="1">Уровень</entry>
+                        <entry rotate="0"><xref href="../app_b/table3/planche/og-app-b-planche-intro.dita"><text conref="../app_b/table3/planche/og-app-b-planche-intro.dita#og-app-b-planche-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/rings_planche/og-app-b-rings_planche-intro.dita"><text conref="../app_b/table3/rings_planche/og-app-b-rings_planche-intro.dita#og-app-b-rings_planche-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/pbfl_pl_pushups/og-app-b-pbfl_pl_pushups-intro.dita"><text conref="../app_b/table3/pbfl_pl_pushups/og-app-b-pbfl_pl_pushups-intro.dita#og-app-b-pbfl_pl_pushups-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/rings_pl_pushups/og-app-b-rings_pl_pushups-intro.dita"><text conref="../app_b/table3/rings_pl_pushups/og-app-b-rings_pl_pushups-intro.dita#og-app-b-rings_pl_pushups-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/pushups/og-app-b-pushups-intro.dita"><text conref="../app_b/table3/pushups/og-app-b-pushups-intro.dita#og-app-b-pushups-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/one_arm_pushups/og-app-b-one_arm_pushups-intro.dita"><text conref="../app_b/table3/one_arm_pushups/og-app-b-one_arm_pushups-intro.dita#og-app-b-one_arm_pushups-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/dips/og-app-b-dips-intro.dita"><text conref="../app_b/table3/dips/og-app-b-dips-intro.dita#og-app-b-dips-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/ring_dips/og-app-b-ring_dips-intro.dita"><text conref="../app_b/table3/ring_dips/og-app-b-ring_dips-intro.dita#og-app-b-ring_dips-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table3/weighted_dips/og-app-b-weighted_dips-intro.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-weighted_dips-intro.dita#og-app-b-weighted_dips-intro/shorttitle"/></xref></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="4" rotate="1" align="center" valign="middle">Начальный</entry>
+                        <entry morerows="3" rotate="1" align="center" valign="middle">Базовые навыки</entry>
+                        <entry>1</entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-regular_pushups.dita"><text conref="../app_b/table3/pushups/og-app-b-regular_pushups.dita#og-app-b-regular_pushups/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/dips/og-app-b-pb_jump_dips.dita"><text conref="../app_b/table3/dips/og-app-b-pb_jump_dips.dita#og-app-b-pb_jump_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-support_holds.dita"><text conref="../app_b/table3/ring_dips/og-app-b-support_holds.dita#og-app-b-support_holds/enabbrev"/></xref></entry>
+                        <entry></entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-diamond_pushups.dita"><text conref="../app_b/table3/pushups/og-app-b-diamond_pushups.dita#og-app-b-diamond_pushups/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/dips/og-app-b-pb_dip_eccent.dita"><text conref="../app_b/table3/dips/og-app-b-pb_dip_eccent.dita#og-app-b-pb_dip_eccent/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-support_holds.dita"><text conref="../app_b/table3/ring_dips/og-app-b-support_holds.dita#og-app-b-support_holds/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-assisted_dips.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-assisted_dips.dita#og-app-b-assisted_dips/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-frog_stand.dita"><text conref="../app_b/table3/planche/og-app-b-frog_stand.dita#og-app-b-frog_stand/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-ring_wide_pu.dita"><text conref="../app_b/table3/pushups/og-app-b-ring_wide_pu.dita#og-app-b-ring_wide_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/dips/og-app-b-pb_dips.dita"><text conref="../app_b/table3/dips/og-app-b-pb_dips.dita#og-app-b-pb_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-r_dip_ecce.dita"><text conref="../app_b/table3/ring_dips/og-app-b-r_dip_ecce.dita#og-app-b-r_dip_ecce/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-1x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-1x_bw.dita#og-app-b-1x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-sa_frog_stand.dita"><text conref="../app_b/table3/planche/og-app-b-sa_frog_stand.dita#og-app-b-sa_frog_stand/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_planche/og-app-b-rings_frog_stand.dita"><text conref="../app_b/table3/rings_planche/og-app-b-rings_frog_stand.dita#og-app-b-rings_frog_stand/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-ring_pu.dita"><text conref="../app_b/table3/pushups/og-app-b-ring_pu.dita#og-app-b-ring_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/dips/og-app-b-l-dips.dita"><text conref="../app_b/table3/dips/og-app-b-l-dips.dita#og-app-b-l-dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-r_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-r_dips.dita#og-app-b-r_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-1_2x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-1_2x_bw.dita#og-app-b-1_2x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry morerows="3" rotate="1" align="center" valign="middle">Уровень A</entry>
+                        <entry>5</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-tuck_pl.dita"><text conref="../app_b/table3/planche/og-app-b-tuck_pl.dita#og-app-b-tuck_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_planche/og-app-b-rings_sa_frog_stand.dita"><text conref="../app_b/table3/rings_planche/og-app-b-rings_sa_frog_stand.dita#og-app-b-rings_sa_frog_stand/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-rto_pushups.dita"><text conref="../app_b/table3/pushups/og-app-b-rto_pushups.dita#og-app-b-rto_pushups/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/one_arm_pushups/og-app-b-elevated_oa_pu.dita"><text conref="../app_b/table3/one_arm_pushups/og-app-b-elevated_oa_pu.dita#og-app-b-elevated_oa_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/dips/og-app-b-45_deg_dips.dita"><text conref="../app_b/table3/dips/og-app-b-45_deg_dips.dita#og-app-b-45_deg_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-r_l-dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-r_l-dips.dita#og-app-b-r_l-dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-1_375x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-1_375x_bw.dita#og-app-b-1_375x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry morerows="3" rotate="1"  align="center" valign="middle">Средний</entry>
+                        <entry>6</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-adv_tuck_pl.dita"><text conref="../app_b/table3/planche/og-app-b-adv_tuck_pl.dita#og-app-b-adv_tuck_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_planche/og-app-b-rings_tuck_pl.dita"><text conref="../app_b/table3/rings_planche/og-app-b-rings_tuck_pl.dita#og-app-b-rings_tuck_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/pbfl_pl_pushups/og-app-b-tuck_pl_pu.dita"><text conref="../app_b/table3/pbfl_pl_pushups/og-app-b-tuck_pl_pu.dita#og-app-b-tuck_pl_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-rto_archer_pu.dita"><text conref="../app_b/table3/pushups/og-app-b-rto_archer_pu.dita#og-app-b-rto_archer_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/one_arm_pushups/og-app-b-straddle_oa_pu.dita"><text conref="../app_b/table3/one_arm_pushups/og-app-b-straddle_oa_pu.dita#og-app-b-straddle_oa_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-r_wide_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-r_wide_dips.dita#og-app-b-r_wide_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-1_55x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-1_55x_bw.dita#og-app-b-1_55x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-rto_40_deg_pppu.dita"><text conref="../app_b/table3/pushups/og-app-b-rto_40_deg_pppu.dita#og-app-b-rto_40_deg_pppu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/one_arm_pushups/og-app-b-rings_str_oa_pu.dita"><text conref="../app_b/table3/one_arm_pushups/og-app-b-rings_str_oa_pu.dita#og-app-b-rings_str._oa_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_45_deg_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_45_deg_dips.dita#og-app-b-rto_45_deg_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-1_7x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-1_7x_bw.dita#og-app-b-1_7x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-straddle_pl.dita"><text conref="../app_b/table3/planche/og-app-b-straddle_pl.dita#og-app-b-straddle_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_planche/og-app-b-rings_adv_tuck_pl.dita"><image href="../app_b/table2/iron_cross/img/icon_cross.png"/><text conref="../app_b/table3/rings_planche/og-app-b-rings_adv_tuck_pl.dita#og-app-b-rings_adv_tuck_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/pbfl_pl_pushups/og-app-b-adv_tuck_pl_pu.dita"><text conref="../app_b/table3/pbfl_pl_pushups/og-app-b-adv_tuck_pl_pu.dita#og-app-b-adv_tuck_pl_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_pl_pushups/og-app-b-tuck_pl_pu.dita"><text conref="../app_b/table3/rings_pl_pushups/og-app-b-tuck_pl_pu.dita#og-app-b-tuck_pl_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-rto_60_deg_pppu.dita"><text conref="../app_b/table3/pushups/og-app-b-rto_60_deg_pppu.dita#og-app-b-rto_60_deg_pppu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/one_arm_pushups/og-app-b-straight_bdy_oa_pu.dita"><text conref="../app_b/table3/one_arm_pushups/og-app-b-straight_bdy_oa_pu.dita#og-app-b-straight_bdy_oa_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/dips/og-app-b-one_arm_dip.dita"><text conref="../app_b/table3/dips/og-app-b-one_arm_dip.dita#og-app-b-one_arm_dip/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita"><image href="../app_b/table2/iron_cross/img/icon_cross.png"/><text conref="../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita#og-app-b-rto_75_deg_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-1_85x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-1_85x_bw.dita#og-app-b-1_85x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry morerows="3" rotate="1" align="center" valign="middle">Уровень B</entry>
+                        <entry>9</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-05_lay_or_1_leg_pl.dita"><text conref="../app_b/table3/planche/og-app-b-05_lay_or_1_leg_pl.dita#og-app-b-05_lay_or_1_leg_pl/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-rto_maltese_pu.dita"><text conref="../app_b/table3/pushups/og-app-b-rto_maltese_pu.dita#og-app-b-rto_maltese_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/one_arm_pushups/og-app-b-rings_sb_oa_pu.dita"><text conref="../app_b/table3/one_arm_pushups/og-app-b-rings_sb_oa_pu.dita#og-app-b-rings_sb_oa_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/dips/og-app-b-one_arm_dip.dita"><text conref="../app_b/table3/dips/og-app-b-one_arm_dip.dita#og-app-b-one_arm_dip/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_deg_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_deg_dips.dita#og-app-b-rto_90_deg_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-2x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-2x_bw.dita#og-app-b-2x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry morerows="3" rotate="1"  align="center" valign="middle">Продвинутый</entry>
+                        <entry>10</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-sa_str_pl_to_hs.dita"><text conref="../app_b/table3/planche/og-app-b-sa_str_pl_to_hs.dita#og-app-b-sa_str_pl_to_hs/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_planche/og-app-b-rings_straddle_pl.dita"><text conref="../app_b/table3/rings_planche/og-app-b-rings_straddle_pl.dita#og-app-b-rings_straddle_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/pbfl_pl_pushups/og-app-b-straddle_pl_pu.dita"><text conref="../app_b/table3/pbfl_pl_pushups/og-app-b-straddle_pl_pu.dita#og-app-b-straddle_pl_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_pl_pushups/og-app-b-adv_tuck_pl_pu.dita"><text conref="../app_b/table3/rings_pl_pushups/og-app-b-adv_tuck_pl_pu.dita#og-app-b-adv_tuck_pl_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-wall_pppu.dita"><text conref="../app_b/table3/pushups/og-app-b-wall_pppu.dita#og-app-b-wall_pppu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_plus_30_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_plus_30_dips.dita#og-app-b-rto_90_plus_30_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-2_125x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-2_125x_bw.dita#og-app-b-2_125x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry>11</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-full_pl.dita"><text conref="../app_b/table3/planche/og-app-b-full_pl.dita#og-app-b-full_pl/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-r_wall_pppu.dita"><text conref="../app_b/table3/pushups/og-app-b-r_wall_pppu.dita#og-app-b-r_wall_pppu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_plus_50_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_plus_50_dips.dita#og-app-b-rto_90_plus_50_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-2_25x_bw.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-2_25x_bw.dita#og-app-b-2_25x_bw/enabbrev"/></xref></entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-rings_sa_str_pl_to_hs.dita"><text conref="../app_b/table3/planche/og-app-b-rings_sa_str_pl_to_hs.dita#og-app-b-rings_sa_str_pl_to_hs/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_planche/og-app-b-rings_05_lay_or_1_leg_pl.dita"><text conref="../app_b/table3/rings_planche/og-app-b-rings_05_lay_or_1_leg_pl.dita#og-app-b-rings_05_lay_or_1_leg_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/pbfl_pl_pushups/og-app-b-05_lay_or_1_leg_pl_pu.dita"><text conref="../app_b/table3/pbfl_pl_pushups/og-app-b-05_lay_or_1_leg_pl_pu.dita#og-app-b-05_lay_or_1_leg_pl_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_pl_pushups/og-app-b-straddle_pl_pu.dita"><text conref="../app_b/table3/rings_pl_pushups/og-app-b-straddle_pl_pu.dita#og-app-b-straddle_pl_pu/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-wall_maltese_pu.dita"><text conref="../app_b/table3/pushups/og-app-b-wall_maltese_pu.dita#og-app-b-wall_maltese_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_plus_65_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_plus_65_dips.dita#og-app-b-rto_90_plus_65_dips/enabbrev"/></xref></entry>
+                        <entry></entry>
+                    </row>
+                    <row>
+                        <entry morerows="3" rotate="1" align="center" valign="middle">Уровень C</entry>
+                        <entry>13</entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pushups/og-app-b-r_wall_maltese_pu.dita"><text conref="../app_b/table3/pushups/og-app-b-r_wall_maltese_pu.dita#og-app-b-r_wall_maltese_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_plus_75_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_plus_75_dips.dita#og-app-b-rto_90_plus_75_dips/enabbrev"/></xref></entry>
+                        <entry></entry>
+                    </row>
+                    <row>
+                        <entry morerows="2" rotate="1"  align="center" valign="middle">Элитный</entry>
+                        <entry>14</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-sa_from_pl_to_hs.dita"><text conref="../app_b/table3/planche/og-app-b-sa_from_pl_to_hs.dita#og-app-b-sa_from_pl_to_hs/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_planche/og-app-b-rings_full_pl.dita"><text conref="../app_b/table3/rings_planche/og-app-b-rings_full_pl.dita#og-app-b-rings_full_pl/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/rings_pl_pushups/og-app-b-05_lay_or_1_leg_pl_pu.dita"><text conref="../app_b/table3/rings_pl_pushups/og-app-b-05_lay_or_1_leg_pl_pu.dita#og-app-b-05_lay_or_1_leg_pl_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_plus_82_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_plus_82_dips.dita#og-app-b-rto_90_plus_82_dips/enabbrev"/></xref></entry>
+                        <entry></entry>
+                    </row>
+                    <row>
+                        <entry>15</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-rings_sa_sb_to_hs.dita"><text conref="../app_b/table3/planche/og-app-b-rings_sa_sb_to_hs.dita#og-app-b-rings_sa_sb_to_hs/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/pbfl_pl_pushups/og-app-b-full_pl_pu.dita"><text conref="../app_b/table3/pbfl_pl_pushups/og-app-b-full_pl_pu.dita#og-app-b-full_pl_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_plus_86_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_plus_86_dips.dita#og-app-b-rto_90_plus_86_dips/enabbrev"/></xref></entry>
+                        <entry></entry>
+                    </row>
+                    <row>
+                        <entry>16</entry>
+                        <entry><xref href="../app_b/table3/planche/og-app-b-rings_sa_from_pl_to_hs.dita"><text conref="../app_b/table3/planche/og-app-b-rings_sa_from_pl_to_hs.dita#og-app-b-rings_sa_from_pl_to_hs/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/rings_pl_pushups/og-app-b-full_pl_pu.dita"><text conref="../app_b/table3/rings_pl_pushups/og-app-b-full_pl_pu.dita#og-app-b-full_pl_pu/enabbrev"/></xref></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry><xref href="../app_b/table3/ring_dips/og-app-b-rto_90_plus_88_dips.dita"><text conref="../app_b/table3/ring_dips/og-app-b-rto_90_plus_88_dips.dita#og-app-b-rto_90_plus_88_dips/enabbrev"/></xref></entry>
+                        <entry><xref href="../app_b/table3/weighted_dips/og-app-b-maltese_l17.dita"><text conref="../app_b/table3/weighted_dips/og-app-b-maltese_l17.dita#og-app-b-maltese_l17/enabbrev"/></xref></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
