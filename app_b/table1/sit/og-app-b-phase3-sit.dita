@@ -10,24 +10,17 @@
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc><image href="img/phase3-sit.png" align="left"/>Этап 3. V-угол</shortdesc>
+   <shortdesc id="shortdesc">
+      <image href="img/phase3-sit.png" align="left"/>
+      <text conref="#./title"/>
+   </shortdesc>
    <conbody id="phase3">
-      <p>
-         <table>
-            <title>Этап 3</title>
-            <tgroup cols="1">
-               <tbody>
-                  <row>
-                     <entry>
-                        <p>V-угол 100&#176; — Уровень 8</p>
-                        <p>V-угол 120&#176; — Уровень 9</p>
-                        <p>V-угол 140&#176; — Уровень 10</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </p>
+      <p>Упражнения этапа 3:</p>
+      <ul>
+         <li>V-угол 100&#176; — Уровень 8</li>
+         <li>V-угол 120&#176; — Уровень 9</li>
+         <li>V-угол 140&#176; — Уровень 10</li>
+      </ul>
       <p>Третий этап можно кратко обозначить как обретение силы для выталкивания таза на высоту
          плеч. Используйте все, что в ваших силах, чтобы справиться с тяжелым перемещением таза
          вперед.</p>

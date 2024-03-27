@@ -1,8 +1,8 @@
 <project name="OG" default="boots" basedir=".">
 		<property environment="env"/>
-    <property name="dita.dir" location="${env.DITA_DIR}"/>
-    <target name="boots">
-        <ant antfile="${dita.dir}/build.xml">
+    <property name="ditadir" location="${env.DITA_DIR}"/>
+    <target name="simple">
+        <ant antfile="${ditadir}/build.xml">
             <property name="args.input" value="OGbook.ditamap"/>
             <!--property name="format" value="sass-bootstrap"/-->
             <!--property name="transtype" value="html5"/-->
@@ -20,6 +20,27 @@
             <property name="args.csspath" value="branding"/>
 						-->
             <property name="args.filter" value="OGbook.ditaval"/>
+            <property name="nav-toc" value="full"/>
+            <property name="args.rellinks" value="all"/>
+            <property name="clean.temp" value="yes"/>
+        </ant>
+    </target>
+    <target name="boots">
+        <ant antfile="${ditadir}/build.xml">
+            <property name="args.input" value="OGbook.ditamap"/>
+            <property name="format" value="html5-bootstrap"/>
+            <property name="transtype" value="html5-bootstrap"/>
+            <property name="bootstrap.theme" value="united"/>
+            <!--property name="args.hdr" value="${ditadir}/plugins/net.infotexture.dita-bootstrap.lunr/includes/hdr.navbar.lunr.xml"/-->
+            <property name="args.hdr" value="${basedir}/css/og.hdr.navbar.xml"/>
+            <property name="output.dir" value="${basedir}/out"/>                             
+				    <property name="default.language" value="ru"/>
+
+            <property name="offline.mode" value="no"/>
+            <property name="lunr.support.include" value="yes"/>
+            <property name="lunr.lang" value="ru"/>
+
+            <property name="args.favicon" value="${basedir}/images/favicon.svg"/>
             <property name="nav-toc" value="full"/>
             <property name="args.rellinks" value="all"/>
             <property name="clean.temp" value="yes"/>

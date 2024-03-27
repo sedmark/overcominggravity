@@ -10,24 +10,17 @@
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc><image href="img/manna.png" align="left"/>Этап 4. Манна</shortdesc>
+   <shortdesc id="shortdesc">
+      <image href="img/manna.png" align="left"/>
+      <text conref="#./title"/>
+   </shortdesc>
    <conbody id="phase4">
-      <p>
-         <table>
-            <title>Этап 4</title>
-            <tgroup cols="1">
-               <tbody>
-                  <row>
-                     <entry>
-                        <p>V-угол 155&#176; — Уровень 11</p>
-                        <p>V-угол 170&#176; — Уровень 12</p>
-                        <p>Манна — Уровень 13</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </p>
+      <p>Упражнения этапа 4:</p>
+      <ul>
+         <li>V-угол 155&#176; — Уровень 11</li>
+         <li>V-угол 170&#176; — Уровень 12</li>
+         <li>Манна — Уровень 13</li>
+      </ul>
       <p>Подъем таза выше плеч — последний этап прогрессии Манна — в разы труднее прочих этапов.</p>
       <p>К этому моменту с помощью высоких удержаний вы можете действительно обрести способность
          удерживать угол Манна. Аналогично, если вы гимнаст или спортсмен, появляется возможность

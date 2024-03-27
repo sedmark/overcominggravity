@@ -10,9 +10,7 @@
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc>
-      <text conref="#./title"/>
-   </shortdesc>
+   <shortdesc conref="og-app-b-phase3-sit.dita#og-app-b-phase3-sit/shortdesc"/>
    <prolog>
       <data>
          <text id="enabbrev">100&#176; V-sit</text>
