@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map_table2" xml:lang="ru">
+	<mapref href="back_lever/og-app-b-back_lever.ditamap"/>
+	<mapref href="front_lever/og-app-b-front_lever.ditamap"/>
+	<mapref href="fl_pullups/og-app-b-fl_pullups.ditamap"/>
+	<mapref href="rowing/og-app-b-rowing.ditamap"/>
+	<mapref href="pullups/og-app-b-pullups.ditamap"/>
+	<mapref href="r_pullups/og-app-b-r_pullups.ditamap"/>
+	<mapref href="weighted_pullups/og-app-b-weighted_pullups.ditamap"/>
+	<mapref href="explosive_pullups/og-app-b-explosive_pullups.ditamap"/>
+	<mapref href="iron_cross/og-app-b-iron_cross.ditamap"/>
+</map>

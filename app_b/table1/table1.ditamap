@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map_table1" xml:lang="ru">
+	<mapref href="hs/og-app-b-hs.ditamap"/>
+	<mapref href="ringshs/og-app-b-r_hs.ditamap"/>
+	<mapref href="hspu/og-app-b-hspu.ditamap"/>
+	<mapref href="rhspu/og-app-b-rhspu.ditamap"/>
+	<mapref href="press/og-app-b-press.ditamap"/>
+	<mapref href="presshs/og-app-b-presshs.ditamap"/>
+	<mapref href="rpresshs/og-app-b-rpresshs.ditamap"/>
+	<mapref href="sapresshs/og-app-b-sapresshs.ditamap"/>
+	<mapref href="sit/og-app-b-sit.ditamap"/>
+</map>
