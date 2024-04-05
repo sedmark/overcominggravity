@@ -32,7 +32,8 @@
             <property name="transtype" value="html5-bootstrap"/>
             <property name="bootstrap.theme" value="united"/>
             <!--property name="args.hdr" value="${ditadir}/plugins/net.infotexture.dita-bootstrap.lunr/includes/hdr.navbar.lunr.xml"/-->
-            <property name="args.hdr" value="${basedir}/css/og.hdr.navbar.xml"/>
+            <!--property name="args.hdr" value="${basedir}/css/og.hdr.navbar.xml"/-->
+            <property name="args.hdr" value="${basedir}/css/og.hdr.navbar.lunr.xml"/>
             <property name="output.dir" value="${basedir}/out"/>                             
 				    <property name="default.language" value="ru"/>
 

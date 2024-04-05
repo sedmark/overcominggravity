@@ -51,7 +51,7 @@
           <a class="nav-link" href="/app_b/og-app-b-intro.html">Упражнения</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/app_c/og-app-c-intro.html">Таблицы</a>
+          <a class="nav-link" href="/app_c/tables.html">Таблицы</a>
         </li>
       </ul>
       <ul class="navbar-nav ms-auto">

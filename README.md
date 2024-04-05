@@ -14,3 +14,6 @@
 
 ## Tips
 В *font-mappings.xml* в разделе *logical-font name="Sans"* убрать некириллический шрифт Helvetica.
+
+## IIS JSON
+Сервер  Типы MIME: Add json application/json
