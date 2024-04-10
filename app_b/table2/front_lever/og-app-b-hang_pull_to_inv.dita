@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-hang_pull_to_inv" xml:lang="ru">
    <title>
-      <text id="title">Hang Pull to Inv.</text>
+      <text id="title">Подъем из виса в вис прогнувшись</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,7 +11,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/hang_pull_to_inv.png" align="left"/>
+      <text conref="#./title"/>. Уровень 10
    </shortdesc>
    <prolog>
       <data>
@@ -19,6 +20,14 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Подъем из виса в вис прогнувшись увеличивает диапазон движения и повышает трудность
+         упражнения.</p>
+      <p>Примите расслабленное прямое вертикальное положение. Сначала активируйте плечи, притянув их
+         (плечо в суставное гнездо), а затем начните подъем.</p>
+      <p>Тело должно быть прямолинейным, чтобы притянуть руки к бедрам медленно и под контролем. Но
+         это будет трудно сделать, потому что мышцы плеч находятся в растянутом состоянии близко к
+         краю своего диапазона движения.</p>
+      <p>Есть соблазн придать начальный импульс подъему, чтобы легче выйти из нижней точки. Опять
+         же, избегайте этого, и начало и сам подъем осуществляйте только за счет мышц плеч.</p>
    </conbody>
 </concept>

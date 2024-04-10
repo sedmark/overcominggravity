@@ -3,15 +3,16 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-fl_to_inverted" xml:lang="ru">
    <title>
-      <text id="title">FL to Inverted</text>
+      <text id="title">Подъем из горизонтального виса спереди в вис прогнувшись</text>
    </title>
    <titlealts>
       <navtitle>
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc>
-      <text conref="#./title"/>
+   <shortdesc id="shortdesc">
+      <image href="img/fl_to_inverted.png" align="left"/>
+      <text conref="#./title"/>. Уровень 9
    </shortdesc>
    <prolog>
       <data>
@@ -19,6 +20,14 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>«Подъем из горизонтального виса спереди в вис прогнувшись» берет изометрический
+         «горизонтальный вис спереди» и переводит его в концентрическое движение для увеличения
+         трудности выполнения.</p>
+      <p>Начните из положения ровного напряженного горизонтального виса спереди и выполните подъем
+         за счет притягивания кистей рук к бедрам.</p>
+      <p>В отличие от «горизонтального виса сзади» сложность данного навыка заключается в стремлении
+         крайне сильно напрячь передние мышцы, что может вызвать скругление туловища и сгиб бедер.
+         Следует избегать такого выполнения и при подъеме полагаться только на силу мышц груди,
+         широчайших мышц спины и мышц тыльной стороны плеч.</p>
    </conbody>
 </concept>
