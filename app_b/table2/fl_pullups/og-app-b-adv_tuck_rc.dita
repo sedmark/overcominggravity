@@ -2,8 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-adv_tuck_rc" xml:lang="ru">
-   <title>
-      <text id="title">Adv. Tuck RC</text>
+   <title><text id="title">Подтягивания в горизонтальном висе спереди в полугруппировке на канате для лазания</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/adv_tuck_rc.png" align="left"/>
+      <text conref="#./title"/>. Уровень 7
    </shortdesc>
    <prolog>
       <data>
@@ -19,6 +19,6 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p/>
    </conbody>
 </concept>

@@ -2,8 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-fl_pullups-intro" xml:lang="ru">
-   <title>
-      <text id="title">Подтягивания в переднем висе</text>
+   <title><text id="title">Подтягивания  горизонтальном висе спереди</text>
    </title>
    <titlealts>
       <navtitle>
@@ -11,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conkeyref="gl-fl-pullups/def"/> (<text conref="#./enabbrev"/>)
+      <text conkeyref="gl-fl-pullups/def"/> (<text conref="#./enabbrev"/>). <xref
+         href="../../../app_c/tables.dita#tables/table2">Таблица 2, колонка 3</xref>
    </shortdesc>
    <prolog>
       <data>
@@ -20,6 +20,14 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Подтягивания в горизонтальном висе спереди – это замечательное упражнение на горизонтальную
+         тягу, крайне рекомендуется для поддержания сбалансированности плеч. И его исполнением можно
+         удивить публику.</p>
+      <p>Это и мое любимое упражнение из горизонтально-тяговых. Выполняемое в сочетании с
+         прогрессией «L-угол/V-угол/Манна» и в дополнении к горизонтальным тягам, оно прекрасно
+         помогает сбалансированности плеч.</p>
+      <p>Что касается упражнений на канате, которые так же относятся к горизонтально-тяговой
+         прогрессии, то они размещены в конце главы, хотя по сути их место в середине прогрессии. В
+         общем, их описание размещено после всех тяговых упражнений переднего виса.</p>
    </conbody>
 </concept>

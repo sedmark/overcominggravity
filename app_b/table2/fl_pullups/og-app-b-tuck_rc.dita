@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-b-tuck_rc" xml:lang="ru">
+   <title><text id="title">Подтягивания в горизонтальном висе спереди в группировке на канате для лазания</text>
+   </title>
+   <titlealts>
+      <navtitle>
+         <text conref="#./title"/>
+      </navtitle>
+   </titlealts>
+   <shortdesc>
+      <text conref="#./title"/>. Уровень 6
+   </shortdesc>
+   <prolog>
+      <data>
+         <text id="enabbrev">Tuck RC</text>
+      </data>
+   </prolog>
+   <conbody>
+      <p>Упражнение не иллюстрировано и не включено в Таблицы.</p>
+   </conbody>
+</concept>
