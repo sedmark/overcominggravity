@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-archer_rings_rows" xml:lang="ru">
-   <title><text id="title">Archer Rings Rows</text>
+<concept id="og-app-b-ring_rows" xml:lang="ru">
+   <title><text id="title">Ring Rows</text>
    </title>
    <titlealts>
       <navtitle>
@@ -14,7 +14,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Archer Rings Rows</text>
+         <text id="enabbrev">Ring Rows</text>
       </data>
    </prolog>
    <conbody>
