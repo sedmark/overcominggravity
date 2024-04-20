@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conkeyref="gl-pullups/def"/> (<text conref="#./enabbrev"/>)
+      <text conkeyref="gl-pullups/def"/> (<text conref="#./enabbrev"/>). <xref
+         href="../../../app_c/tables.dita#tables/table2">Таблица 2, колонка 5</xref>
    </shortdesc>
    <prolog>
       <data>
@@ -19,6 +20,10 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Мы не будем рассматривать всю линейку разнообразных подтягиваний. Подтягивания хватом
+         сверху или снизу наиболее хороши для развития силы базового уровня. После ее развития лучше
+         перейти к более трудным вариантам, таким как подтягивания с отягощением или подтягивания на
+         одной руке. Кроме того, для общего развития хороши прогрессии горизонтального виса и других
+         статических и динамических упражнений, основанных на подтягивании.</p>
    </conbody>
 </concept>
