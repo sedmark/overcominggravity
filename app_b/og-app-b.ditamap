@@ -7,48 +7,6 @@
 		<mapref href="table2/table2.ditamap"/>
 		<mapref href="table3/table3.ditamap"/>
 		<mapref href="table4/table4.ditamap"/>
-		<!--topicref navtitle="Таблица 1">
-			<mapref href="table1/hs/og-app-b-hs.ditamap"/>
-			<mapref href="table1/ringshs/og-app-b-r_hs.ditamap"/>
-			<mapref href="table1/hspu/og-app-b-hspu.ditamap"/>
-			<mapref href="table1/rhspu/og-app-b-rhspu.ditamap"/>
-			<mapref href="table1/press/og-app-b-press.ditamap"/>
-			<mapref href="table1/presshs/og-app-b-presshs.ditamap"/>
-			<mapref href="table1/rpresshs/og-app-b-rpresshs.ditamap"/>
-			<mapref href="table1/sapresshs/og-app-b-sapresshs.ditamap"/>
-			<mapref href="table1/sit/og-app-b-sit.ditamap"/>
-		</topicref>
-		<topicref navtitle="Таблица 2">
-			<mapref href="table2/back_lever/og-app-b-back_lever.ditamap"/>
-			<mapref href="table2/front_lever/og-app-b-front_lever.ditamap"/>
-			<mapref href="table2/fl_pullups/og-app-b-fl_pullups.ditamap"/>
-			<mapref href="table2/rowing/og-app-b-rowing.ditamap"/>
-			<mapref href="table2/pullups/og-app-b-pullups.ditamap"/>
-			<mapref href="table2/r_pullups/og-app-b-r_pullups.ditamap"/>
-			<mapref href="table2/weighted_pullups/og-app-b-weighted_pullups.ditamap"/>
-			<mapref href="table2/explosive_pullups/og-app-b-explosive_pullups.ditamap"/>
-			<mapref href="table2/iron_cross/og-app-b-iron_cross.ditamap"/>
-		</topicref>
-		<topicref navtitle="Таблица 3">
-			<mapref href="table3/planche/og-app-b-planche.ditamap"/>
-			<mapref href="table3/rings_planche/og-app-b-rings_planche.ditamap"/>
-			<mapref href="table3/pbfl_pl_pushups/og-app-b-pbfl_pl_pushups.ditamap"/>
-			<mapref href="table3/rings_pl_pushups/og-app-b-rings_pl_pushups.ditamap"/>
-			<mapref href="table3/pushups/og-app-b-pushups.ditamap"/>
-			<mapref href="table3/one_arm_pushups/og-app-b-one_arm_pushups.ditamap"/>
-			<mapref href="table3/dips/og-app-b-dips.ditamap"/>
-			<mapref href="table3/ring_dips/og-app-b-ring_dips.ditamap"/>
-			<mapref href="table3/weighted_dips/og-app-b-weighted_dips.ditamap"/>
-		</topicref>
-		<topicref navtitle="Таблица 4">
-			<mapref href="table4/muscle_ups/og-app-b-muscle_ups.ditamap"/>
-			<mapref href="table4/elbow_levers/og-app-b-elbow_levers.ditamap"/>
-			<mapref href="table4/flag/og-app-b-flag.ditamap"/>
-			<mapref href="table4/ab_wheel/og-app-b-ab_wheel.ditamap"/>
-			<mapref href="table4/rings_full_statics/og-app-b-rings_full_statics.ditamap"/>
-			<mapref href="table4/rings_kip_skills/og-app-b-rings_kip_skills.ditamap"/>
-			<mapref href="table4/rings_felge_skills/og-app-b-rings_felge_skills.ditamap"/>
-		</topicref-->
 		<!--topicref href="og-app-b-summary.dita"/-->
 	</topicref>
 </map>

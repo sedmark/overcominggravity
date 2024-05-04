@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-oac_plus_4_5_kg" xml:lang="ru">
-   <title><text id="title">OAC + 4.5&#160;kg</text>
+   <title><text id="title">Подтягивания на одной руке хватом снизу с отягощением 4.5 кг</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,23 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/oac_plus.png" align="left"/>
+      <text conref="#./title"/>. Уровень 10
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">OAC + 4.5&#160;kg</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+   <conbody id="conbody">
+      <p>Теперь просто добавляйте вес отягощения по мере совершенствования. Мне представляется самым
+         простым способом использовать отягощающий жилет или пояс. Однако с тем же успехом вы можете
+         держать гантель в другой руке и будете выглядеть вообще потрясающе, если будете еще и
+         сгибать ее.</p>
+      <p>Есть и иные способы добавления веса, такие, как использование не всех пальцев на
+         подтягивающей руке, отработка других вариантов упражнения (подтягивание на одной руке
+         хватом сверху вместо хвата снизу или наоборот), или увеличение диапазона движения, такого
+         как подтягивания до груди вместо подтягивания только до подбородка. Можете смело поработать
+         над всеми эти вариантами, если они вам интересны</p>
    </conbody>
 </concept>
