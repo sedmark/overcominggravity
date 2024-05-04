@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-R_Pullups-intro" xml:lang="ru">
+<concept id="og-app-b-r_pullups-intro" xml:lang="ru">
    <title><text id="title">Подтягивания на кольцах и на одной руке</text>
    </title>
    <titlealts>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conkeyref="gl-rpullups/def"/>, <text conkeyref="gl-oac/def"/> (<text conref="#./enabbrev1"/> + <text conref="#./enabbrev2"/>)
+      <text conkeyref="gl-rpullups/def"/>, <text conkeyref="gl-oac/def"/> (<text conref="#./enabbrev1"/> + <text conref="#./enabbrev2"/>) <xref
+         href="../../../app_c/tables.dita#tables/table2">Таблица 2, колонка 6</xref>
    </shortdesc>
    <prolog>
       <data>
