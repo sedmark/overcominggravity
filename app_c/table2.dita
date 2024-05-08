@@ -53,7 +53,7 @@
                         <entry rotate="0"><xref href="../app_b/table2/fl_pullups/og-app-b-fl_pullups-intro.dita"><text conref="../app_b/table2/fl_pullups/og-app-b-fl_pullups-intro.dita#og-app-b-fl_pullups-intro/shorttitle"/></xref></entry>
                         <entry rotate="0"><xref href="../app_b/table2/rowing/og-app-b-rowing-intro.dita"><text conref="../app_b/table2/rowing/og-app-b-rowing-intro.dita#og-app-b-rowing-intro/shorttitle"/></xref></entry>
                         <entry rotate="0"><xref href="../app_b/table2/pullups/og-app-b-pullups-intro.dita"><text conref="../app_b/table2/pullups/og-app-b-pullups-intro.dita#og-app-b-pullups-intro/shorttitle"/></xref></entry>
-                        <entry rotate="0"><xref href="../app_b/table2/r_pullups/og-app-b-r_pullups-intro.dita"><text conref="../app_b/table2/r_pullups/og-app-b-r_pullups-intro.dita#og-app-b-R_Pullups-intro/shorttitle"/></xref></entry>
+                        <entry rotate="0"><xref href="../app_b/table2/r_pullups/og-app-b-r_pullups-intro.dita"><text conref="../app_b/table2/r_pullups/og-app-b-r_pullups-intro.dita#og-app-b-r_pullups-intro/shorttitle"/></xref></entry>
                         <entry rotate="0"><xref href="../app_b/table2/weighted_pullups/og-app-b-weighted_pullups-intro.dita"><text conref="../app_b/table2/weighted_pullups/og-app-b-weighted_pullups-intro.dita#og-app-b-weighted_pullups-intro/shorttitle"/></xref></entry>
                         <entry rotate="0"><xref href="../app_b/table2/explosive_pullups/og-app-b-explosive_pullups-intro.dita"><text conref="../app_b/table2/explosive_pullups/og-app-b-explosive_pullups-intro.dita#og-app-b-explosive_pullups-intro/shorttitle"/></xref></entry>
                         <entry rotate="0"><xref href="../app_b/table2/iron_cross/og-app-b-iron_cross-intro.dita"><text conref="../app_b/table2/iron_cross/og-app-b-iron_cross-intro.dita#og-app-b-iron_cross-intro/shorttitle"/></xref></entry>
@@ -135,7 +135,7 @@
                     <row>
                         <entry>7</entry>
                         <entry outputclass="gray"><xref href="../app_b/table2/back_lever/og-app-b-full_bl.dita"><image href="../app_b/table2/iron_cross/img/icon_cross.png"/><text conref="../app_b/table2/back_lever/og-app-b-full_bl.dita#og-app-b-full_bl/enabbrev"/></xref></entry>
-                        <entry outputclass="gray"><xref href="../app_b/table2/front_lever/og-app-b-05_lay_-_1_leg_fl.dita"><image href="../app_b/table2/iron_cross/img/icon_cross.png"/><text conref="../app_b/table2/front_lever/og-app-b-05_lay_-_1_leg_fl.dita#og-app-b-05_lay_-_1_leg_fl/enabbrev"/></xref></entry>
+                        <entry outputclass="gray"><xref href="../app_b/table2/front_lever/og-app-b-05_lay_or_1_leg_fl.dita"><image href="../app_b/table2/iron_cross/img/icon_cross.png"/><text conref="../app_b/table2/front_lever/og-app-b-05_lay_or_1_leg_fl.dita#og-app-b-05_lay_or_1_leg_fl/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table2/fl_pullups/og-app-b-adv_tuck_rc.dita"><text conref="../app_b/table2/fl_pullups/og-app-b-adv_tuck_rc.dita#og-app-b-adv_tuck_rc/enabbrev"/></xref></entry>
                         <entry><xref href="../app_b/table2/rowing/og-app-b-one_arm_rows.dita"><text conref="../app_b/table2/rowing/og-app-b-one_arm_rows.dita#og-app-b-one_arm_rows/enabbrev"/></xref></entry>
                         <entry></entry>
