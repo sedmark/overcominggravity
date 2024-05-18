@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conkeyref="gl-ironcross/def"/> (<text conref="#./enabbrev"/>)
+      <text conkeyref="gl-ironcross/def"/> (<text conref="#./enabbrev"/>). <xref
+         href="../../../app_c/tables.dita#tables/table2">Таблица 2, колонка 9</xref>
    </shortdesc>
    <prolog>
       <data>
@@ -19,6 +20,49 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Упражнению «Крест» в действительности должна быть посвящена целая глава. Техника его
+         выполнения и требования к нему, особенно к соединительным тканям, высоки и могут легко
+         привести к травмам перенапряжения, если использовать неправильный подход.</p>
+      <p>В таблице рекомендуемые предварительные упражнения помечены значком <image
+            href="img/icon_cross.png" placement="inline"/> и служат они для подготовки
+         соединительных тканей и суставов к жесткому характеру «Креста». Вот их последовательный список:<ol>
+            <li><xref href="../../../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita"/>(<text
+                  conref="../../../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita#og-app-b-r_strap_hspu/enabbrev"
+               />)</li>
+            <li><xref href="../../../app_b/table1/sapresshs/og-app-b-l-sit_str-l_str_press.dita"
+                  />(<text
+                  conref="../../../app_b/table1/sapresshs/og-app-b-l-sit_str-l_str_press.dita#og-app-b-l-sit_str-l_str_press/enabbrev"
+               />)</li>
+            <li><xref href="../../../app_b/table2/back_lever/og-app-b-full_bl.dita"/>(<text
+                  conref="../../../app_b/table2/back_lever/og-app-b-full_bl.dita#og-app-b-full_bl/enabbrev"
+               />)</li>
+            <li><xref href="../../../app_b/table2/front_lever/og-app-b-05_lay_or_1_leg_fl.dita"
+                  />(<text
+                  conref="../../../app_b/table2/front_lever/og-app-b-05_lay_or_1_leg_fl.dita#og-app-b-05_lay_or_1_leg_fl/enabbrev"
+               />)</li>
+            <li><xref href="../../../app_b/table3/rings_planche/og-app-b-rings_adv_tuck_pl.dita"
+                  />(<text
+                  conref="../../../app_b/table3/rings_planche/og-app-b-rings_adv_tuck_pl.dita#og-app-b-rings_adv_tuck_pl/enabbrev"
+               />)</li>
+            <li><xref href="../../../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita"/>(<text
+                  conref="../../../app_b/table3/ring_dips/og-app-b-rto_75_deg_dips.dita#og-app-b-rto_75_deg_dips/enabbrev"
+               />)</li>
+         </ol></p>
+      <p>Во всех этих упражнениях есть пара общих моментов. Стойки на кольцах обеспечивают развитие
+         достаточной силы жима, особенно передней части плеч, на которую ложится большая нагрузка
+         при выполнении креста. Кроме того, все упражнения на прямых руках, включая выходы в стойку
+         с прямых рук, полный задний вис, передний вис и горизонт гарантируют, что соединительные
+         ткани плеча и предплечья смогут безопасно выдерживать вес тела в условиях максимальной
+         нагрузки. Точно так же отжимания на развернутых кольцах создают компонент напряжения в
+         локтях и груди, который имитирует напряжение, испытываемое в положении крест.</p>
+      <p>Такая силовая база имеет решающее значение, потому что положение тела при выполнении креста
+         вызывает крайнее напряжение, больше, чем любое из вышеописанных упражнений. Нам не нужны
+         никакие травмы, и поэтому ключевым моментом является наличие достаточной базовой силы,
+         чтобы безопасно начать прогрессию креста.</p>
+      <p>Что касается упражнений на развернутых кольцах, то вы должны уметь удерживать кольца,
+         развернутые на 90 градусов (ладони полностью вперед), в течение как минимум 30 секунд.
+         Можно заметить, что это вызывает большую нагрузку на внутреннюю часть локтей, бицепсов и
+         грудь. Эта нагрузка является движущей силой адаптации, которая необходима для защиты тела
+         от жесткого воздействия креста.</p>
    </conbody>
 </concept>
