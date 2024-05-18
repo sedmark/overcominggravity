@@ -3,7 +3,10 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-iron_cross" xml:lang="ru">
    <topicref href="og-app-b-iron_cross-intro.dita">
-      <topicref href="og-app-b-cross_progressions.dita"/>
+     <topicref href="og-app-b-cross_progressions.dita">
+       <topicref href="og-app-b-train_methods.dita"/>
+       <topicref href="og-app-b-technique.dita"/>
+     </topicref>
       <topicref href="og-app-b-hold_iron_cross.dita"/>
       <topicref href="og-app-b-cross_to_back_lever.dita"/>
       <topicref href="og-app-b-iron_cross_pullouts.dita"/>
