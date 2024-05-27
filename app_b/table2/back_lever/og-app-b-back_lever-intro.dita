@@ -10,7 +10,6 @@
       </navtitle>
    </titlealts>
    <shortdesc><text conkeyref="gl-backlever/def"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table2">Таблица 2, колонка 1</xref></shortdesc>
-   
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-backlever/en"/>
