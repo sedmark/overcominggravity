@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-adv_tuck_pl_pu" xml:lang="ru">
-   <title><text id="title">Rings Adv. Tuck PL PU</text>
+<concept id="og-app-b-rings_adv_tuck_pl_pu" xml:lang="ru">
+   <title><text id="title">Отжимания в «горизонте» в полугруппировке на кольцах</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/rings_adv_tuck_pl_pu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 10
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Rings Adv. Tuck PL PU</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>

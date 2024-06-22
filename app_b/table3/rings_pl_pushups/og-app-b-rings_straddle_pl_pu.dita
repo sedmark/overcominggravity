@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-straddle_pl_pu" xml:lang="ru">
-   <title><text id="title">Rings Straddle PL PU</text>
+<concept id="og-app-b-rings_straddle_pl_pu" xml:lang="ru">
+   <title><text id="title">Отжимания в «горизонте» ноги врозь на кольцах</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/rings_straddle_pl_pu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 12
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Rings Straddle PL PU</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>

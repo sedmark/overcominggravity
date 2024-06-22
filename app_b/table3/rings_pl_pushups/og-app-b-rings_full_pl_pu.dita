@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-full_pl_pu" xml:lang="ru">
-   <title><text id="title">Rings Full PL PU</text>
+<concept id="og-app-b-rings_full_pl_pu" xml:lang="ru">
+   <title><text id="title">Отжимания в полном «горизонте» на кольцах</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/rings_full_pl_pu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 16
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Rings Full PL PU</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>

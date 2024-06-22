@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-05_lay_or_1_leg_pl_pu" xml:lang="ru">
-   <title><text id="title">Rings ½&#160;lay / 1&#160;leg&#160;PL&#160;PU</text>
+<concept id="og-app-b-rings_05_lay_or_1_leg_pl_pu" xml:lang="ru">
+   <title><text id="title">Отжимания на кольцах в «полугоризонте» или в «горизонте» с одной выпрямленной ногой</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/rings_05_lay_or_1_leg_pl_pu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 14
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Rings ½&#160;lay / 1&#160;leg&#160;PL&#160;PU</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>
