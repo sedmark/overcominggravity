@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-r_wall_maltese_pu" xml:lang="ru">
-   <title><text id="title">R Wall Maltese PU</text>
+   <title><text id="title">Мальтийские отжимания на кольцах с опорой о стену</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/r_wall_maltese_pu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 13
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +19,13 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Мальтийские отжимания на кольцах с опорой о стену строятся на двух предыдущих навыках,
+         объединяя их. Раздвиньте кисти рук с развернутыми наружу кольцами до угла 30-45 градусов в
+         подмышках, поддерживая положение тела совершенно параллельно полу и уперев ступни в
+         стену.</p>
+      <p>Далее согните руки и задержитесь в нижнем положении упражнения на расстоянии  2-5 см) от
+         пола. Вернитесь наверх и задержитесь там.</p>
+      <p>Следите, что бы тело было все время прямым, а кольца развернутыми.</p>
+      <p conref="og-app-b-wall_pppu.dita#og-app-b-wall_pppu/advice"/>
    </conbody>
 </concept>

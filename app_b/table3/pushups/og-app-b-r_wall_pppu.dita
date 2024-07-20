@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-r_wall_pppu" xml:lang="ru">
-   <title><text id="title">R Wall PPPU</text>
+   <title><text id="title">Отжимания в псевдогоризонте на кольцах с опорой о стену</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/r_wall_pppu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 11
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +19,15 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Кольца добавляют значительную нестабильность в упражнение. Следует также отметить, что для
+         правильного выполнения этого движения требуется сила изометрического «горизонта», хотя даже
+         с ней принятие исходного положения может быть трудным делом.</p>
+      <p>Это упражнение выполняется на кольцах, подвешенных близко к стене, что позволяет упереть
+         ноги в стену в положении удержания «горизонта». Далее стабилизируйте кольца, развернув их
+         наружу, выполните отжимание с опорой о стену. Поддерживайте совершенную форму.</p>
+      <p>Если у вас нет колец возле стены, вы можете пропустить этот этап прогрессии, так же как и
+         этап на 13-м уровне.</p>
+      <p>Следите, чтобы тело было все время прямым, а кольца развернутыми.</p>
+      <p conref="og-app-b-wall_pppu.dita#og-app-b-wall_pppu/advice"/>
    </conbody>
 </concept>

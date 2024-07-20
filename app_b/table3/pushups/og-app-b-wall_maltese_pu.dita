@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-wall_maltese_pu" xml:lang="ru">
-   <title><text id="title">Wall Maltese PU</text>
+   <title><text id="title">Мальтийские отжимания с опорой о стену</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/wall_maltese_pu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 12
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +19,11 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Мальтийские отжимания с опорой о стену выполняются путем раздвижения рук из положения
+         горизонтального упора, пока угол в подмышках не достигнет 30-45 градусов. Далее опуститесь
+         почти до пола и отожмитесь обратно. Ввиду еще более невыгодного положения выполнение этого
+         упражнения с правильным положением тела будет трудным.</p>
+      <p>Следите, чтобы тело было все время прямым.</p>
+      <p conref="og-app-b-wall_pppu.dita#og-app-b-wall_pppu/advice"/>
    </conbody>
 </concept>
