@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/> (<text conref="#./enabbrev"/>)
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table3">Таблица 3, колонка 6</xref>
    </shortdesc>
    <prolog>
       <data>
@@ -18,7 +18,5 @@
          <text id="shorttitle">Отжима-ния одной рукой</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>
