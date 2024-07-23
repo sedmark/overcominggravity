@@ -12,7 +12,7 @@
    <shortdesc>Подтягивания с нагрузкой в долях от собственного веса (<text conref="#./enabbrev"/>)</shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev"/>
+         <text id="enabbrev">Weighted Pullups</text>
          <text id="shorttitle">Подтяги-вания с отяго-щением</text>
       </data>
    </prolog>
