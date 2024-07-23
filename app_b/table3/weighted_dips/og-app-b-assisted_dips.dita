@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-assisted_dips" xml:lang="ru">
-   <title><text id="title">Assisted Dips</text>
+   <title><text id="title">Вертикальные отжимания с внешней помощью</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,14 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conref="#./title"/>. Уровень 2
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Assisted Dips</text>
+         <text id="enabbrev">Верт.отж.с пом.</text>
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>См.<xref href="og-app-b-weighted_dips-intro.dita"/></p>
    </conbody>
 </concept>
