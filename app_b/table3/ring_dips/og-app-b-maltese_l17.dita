@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-maltese_l17" xml:lang="ru">
-   <title><text id="title">Maltese (L17)</text>
+   <title><text id="title">Мальтийский крест (Самолет)</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,14 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conref="#./title"/>. Уровень 17
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Maltese (уровень 17)</text>
+         <text id="enabbrev">Maltese (у17)</text>
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>См.<xref href="og-app-b-rto_90_plus_75_dips.dita"/></p>
    </conbody>
 </concept>

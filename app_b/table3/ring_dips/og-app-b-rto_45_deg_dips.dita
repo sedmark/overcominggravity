@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-rto_45_deg_dips" xml:lang="ru">
-   <title><text id="title">RTO 45&#176; Dips</text>
+   <title><text id="title">Вертикальные отжимания с развернутыми на 45 градусов кольцами</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conref="#./title"/>. Уровень 7
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +18,6 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>См.<xref href="og-app-b-rto_90_deg_dips.dita"/></p>
    </conbody>
 </concept>

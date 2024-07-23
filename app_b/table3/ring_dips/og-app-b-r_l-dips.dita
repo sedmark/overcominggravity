@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-r_l-dips" xml:lang="ru">
-   <title><text id="title">R L-dips</text>
+   <title><text id="title">Вертикальные отжимания на кольцах L-углом</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/r_l-dips.png" align="left"/>
+      <text conref="#./title"/>. Уровень 5
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +19,13 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Вертикальные отжимания на кольцах L-углом, как и их вариация на брусьях, фокусируются на
+         развитии силы трицепсов и стабилизации в положении, когда кольца находятся перед телом. Эта
+         сила потребуется в будущих прогрессиях, в которых кисти рук находятся перед телом,
+         например, «крест L-углом» и прогрессии горизонтального виса спереди.</p>
+      <p>Примите положение L-угла на развернутых или параллельных кольцах и опуститесь, удерживая
+         ноги параллельно полу. Опуститесь настолько глубоко, насколько сможете, и отожмитесь назад,
+         не нарушая уровень в ногах. Помните о прижимании колец к бокам при выполнении
+         упражнения.</p>
    </conbody>
 </concept>
