@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-sfl_mu_atpl_or_l-sit_mu" xml:lang="ru">
-   <title><text id="title">SFL&#160;MU&#160;ATPL / L-sit&#160;MU</text>
+<concept id="og-app-b-sfl_mu_atpl" xml:lang="ru">
+   <title><text id="title">SFL&#160;MU&#160;ATPL</text>
    </title>
    <titlealts>
       <navtitle>
@@ -14,7 +14,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">SFL&#160;MU&#160;ATPL / L-sit&#160;MU</text>
+         <text id="enabbrev">SFL&#160;MU&#160;ATPL</text>
       </data>
    </prolog>
    <conbody>
