@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-wide_or_no_fg_mu" xml:lang="ru">
-   <title><text id="title">Wide / no&#160;FG&#160;MU</text>
+   <title><text id="title">Выходы силой широким или неглубоким хватом</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/wide_or_no_fg_mu.png" align="left"/>
+      <text conref="#./title"/>. Уровень 6
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +19,12 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Выходы силой широким хватом еще используют глубокий хват, но позволяют кистям и локтям
+         расходится в стороны от плеч. Это уменьшает рычаг в плечах, заставляя их компенсировать эту
+         потерю за счет увеличения усилий. Техника исполнения остается той же самой.</p>
+      <p>Выходы силой, не использующие глубокий хват, уменьшают рычаг в кистях, что приходится
+         компенсировать за счет усилий локтей и плеч. Во время фазы перехода кисти рук должны
+         переместиться «вручную», чтобы оказаться сверху колец. Если этого не сделать, то может
+         появиться небольшая боль или неприятные ощущения.</p>
    </conbody>
 </concept>
