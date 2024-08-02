@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conkeyref="gl-el/def"/>. <text conref="#./en"/> (<text conref="#./enabbrev"/>) </shortdesc>
+      <text conkeyref="gl-el/def"/>. <text conref="#./en"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table3">Таблица 4, колонка 2</xref> </shortdesc>
    <prolog>
       <data>
          <text id="en" conkeyref="gl-el/en"/>
@@ -19,6 +19,10 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Прогрессия горизонтальных стоек в упоре на локтях главным образом базируется на умении
+         держать равновесие. Хотя определенная сила и требуется для удержания этих положений, но
+         основным фактором освоения этих навыков является практика. Поэтому я не стал бы утверждать,
+         что повышение уровня в этой прогрессии согласуется с другим техническими и силовым навыками
+         в таблицах. Помните об этом.</p>
    </conbody>
 </concept>
