@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-25s_plank" xml:lang="ru">
-   <title><text id="title">25s plank</text>
+   <title><text id="title">Планка 25 сек</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/plank_position.png" align="left"/>
+      <text conref="#./title"/>. Уровень 2
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +19,6 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>См.<xref href="og-app-b-plank_position.dita"/></p>
    </conbody>
 </concept>

@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-one_arm_ab_wheel" xml:lang="ru">
-   <title><text id="title">One arm ab wheel</text>
+   <title><text id="title">Выкаты на одной руке</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <text conref="#./title"/>. Уровень 10
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +18,6 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>См.<xref href="og-app-b-full_ab_wheel.dita#og-app-b-full_ab_wheel/one_arm_ab_wheel"><text conref="og-app-b-full_ab_wheel.dita#og-app-b-full_ab_wheel/title"/></xref></p>
    </conbody>
 </concept>
