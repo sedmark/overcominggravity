@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-back_lever" xml:lang="ru">
-   <title><text id="title">Back Lever</text>
+   <title><text id="title">Горизонтальный вис сзади</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/back_lever.png" align="left"/>
+      <text conref="#./title"/>. Уровень 7
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Back Lever</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>

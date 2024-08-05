@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/> (<text conref="#./enabbrev"/>)
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/tables.dita#tables/table4">Таблица 4, колонка 5</xref>
+      <text>Ключевые упражнения могут быть другими в зависимости от индивидуальной антропометрии!</text>
    </shortdesc>
    <prolog>
       <data>
@@ -19,6 +20,7 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>О технике выполнения этих элементов мы рассказывали ранее. А собрали их здесь, чтобы
+         разместить в порядке возрастания сложности.</p>
    </conbody>
 </concept>

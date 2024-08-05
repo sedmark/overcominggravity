@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-rings_90_deg_v-sit" xml:lang="ru">
-   <title><text id="title">Rings 90&#176; V-sit</text>
+   <title><text id="title">V-угол 90 градусов на кольцах</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/rings_90_deg_v-sit.png" align="left"/>
+      <text conref="#./title"/>. Уровень 9
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Rings 90&#176; V-sit</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>

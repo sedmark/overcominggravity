@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-iron_cross_or_str_pl" xml:lang="ru">
-   <title><text id="title">Iron&#160;cross  / Str&#160;PL</text>
+   <title><text id="title">Крест / Горизонт ноги врозь</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/iron_cross_or_str_pl.png" align="left"/>
+      <text conref="#./title"/>. Уровень 10
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Iron&#160;cross  / Str&#160;PL</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>

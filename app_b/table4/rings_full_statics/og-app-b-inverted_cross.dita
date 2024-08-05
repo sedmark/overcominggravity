@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-inverted_cross" xml:lang="ru">
-   <title><text id="title">Inverted cross</text>
+   <title><text id="title">Обратный крест</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,14 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/inverted_cross.png" align="left"/>
+      <text conref="#./title"/>. Уровень 16
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Inverted cross</text>
       </data>
    </prolog>
-   <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
-   </conbody>
+   <conbody/>
 </concept>
