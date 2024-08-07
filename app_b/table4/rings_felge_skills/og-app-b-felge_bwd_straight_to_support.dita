@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-felge_bwd__straight_to_support" xml:lang="ru">
-   <title><text id="title">Felge bwd  straight to support</text>
+<concept id="og-app-b-felge_bwd_straight_to_support" xml:lang="ru">
+   <title><text id="title">Оборот назад прямым телом с выходом в упор</text>
    </title>
    <titlealts>
       <navtitle>
@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>
+      <image href="img/felge_bwd_straight_to_support.png" align="left"/>
+      <text conref="#./title"/>. Уровень 10
    </shortdesc>
    <prolog>
       <data>
@@ -18,6 +19,16 @@
       </data>
    </prolog>
    <conbody>
-      <p conkeyref="underconstruction/p_substitution"/>
+      <p>Это упражнение требует гораздо большей силы, поскольку импульс может быть получен только в
+         начальной фазе опускания, а также за счет сгибания рук. Но в конечном итоге мы должны
+         исключить все импульсы. А поскольку бедра раскрыты полностью, они не могут помочь в
+         выполнении упражнения.</p>
+      <p>Займите положение упора и выполните контролируемое вращение назад. Используйте столько
+         импульса, сколько необходимо для начального освоения навыка, постепенно уменьшая его.
+         Согните руки, когда перейдете во вторую фазу, чтобы позволить ногам провернуть торс для
+         поднятия его над кольцами. По аналогии с другими навыками притягивайте кольца к бедрам и
+         отталкивайте их кистями рук от себя что есть сил. Это позволит телу провернуться вокруг
+         кистей и вернуться в положение упора.</p>
+      <p>Упражнение оценивается на уровне B в гимнастике.</p>
    </conbody>
 </concept>
