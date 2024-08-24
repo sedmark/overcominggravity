@@ -3,15 +3,14 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-sit" xml:lang="ru">
   <topicref href="og-app-b-sit-intro.dita">
-    <topicref href="og-app-b-tuck_l-sit.dita"/>
-    <topicref href="og-app-b-1_leg_bent_l-sit.dita"/>
-    <topicref href="og-app-b-l-sit.dita"/>
-    <topicref href="og-app-b-straddle_l-sit.dita"/>
-    <topicref href="og-app-b-rto_l-sit.dita"/>
-    <topicref href="og-app-b-goals-sit.dita"/>
-    <topicref href="og-app-b-phase2-sit.dita"/>
-    <topicref href="og-app-b-phase3-sit.dita"/>
-    <!-- 2do -->
-    <topicref href="og-app-b-phase4-sit.dita"/>
+    <topicref href="og-app-b-tuck_l-sit.dita" toc="no"/>
+    <topicref href="og-app-b-1_leg_bent_l-sit.dita" toc="no"/>
+    <topicref href="og-app-b-l-sit.dita" toc="no"/>
+    <topicref href="og-app-b-straddle_l-sit.dita" toc="no"/>
+    <topicref href="og-app-b-rto_l-sit.dita" toc="no"/>
+    <topicref href="og-app-b-goals-sit.dita" toc="no"/>
+    <topicref href="og-app-b-phase2-sit.dita" toc="no"/>
+    <topicref href="og-app-b-phase3-sit.dita" toc="no"/>
+    <topicref href="og-app-b-phase4-sit.dita" toc="no"/>
   </topicref>
 </map>

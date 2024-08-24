@@ -2,17 +2,17 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b-hs" xml:lang="ru">
 	<topicref href="og-app-b-hs-intro.dita">
-		<topicref href="og-app-b-wallhs.dita"/>
-		<topicref href="og-app-b-grip.dita"/>
-		<topicref href="og-app-b-hes.dita"/>
-		<topicref href="og-app-b-freehs.dita"/>
-		<topicref href="og-app-b-freehs_4fingers.dita"/>
-		<topicref href="og-app-b-freehs_shldtaps.dita"/>
-		<topicref href="og-app-b-hs_walk.dita"/>
-		<topicref href="og-app-b-hs_handscloser.dita"/>
-		<topicref href="og-app-b-freehs_3fingers.dita"/>
-		<topicref href="og-app-b-freehs_2fingers.dita"/>
-		<topicref href="og-app-b-freehs_1fingers.dita"/>
-		<topicref href="og-app-b-onearmhs.dita"/>
+		<topicref href="og-app-b-wallhs.dita" toc="no"/>
+		<topicref href="og-app-b-grip.dita" toc="no"/>
+		<topicref href="og-app-b-hes.dita" toc="no"/>
+		<topicref href="og-app-b-freehs.dita" toc="no"/>
+		<topicref href="og-app-b-freehs_4fingers.dita" toc="no"/>
+		<topicref href="og-app-b-freehs_shldtaps.dita" toc="no"/>
+		<topicref href="og-app-b-hs_walk.dita" toc="no"/>
+		<topicref href="og-app-b-hs_handscloser.dita" toc="no"/>
+		<topicref href="og-app-b-freehs_3fingers.dita" toc="no"/>
+		<topicref href="og-app-b-freehs_2fingers.dita" toc="no"/>
+		<topicref href="og-app-b-freehs_1fingers.dita" toc="no"/>
+		<topicref href="og-app-b-onearmhs.dita" toc="no"/>
 	</topicref>
 </map>

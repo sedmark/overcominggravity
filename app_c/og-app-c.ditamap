@@ -6,6 +6,10 @@
 		<topicref href="table2.dita"/>
 		<topicref href="table3.dita"/>
 		<topicref href="table4.dita"/>
-		<topicref href="prilepin_tables.dita"/>
+		<topicref href="prilepin.dita">
+			<topicref href="concentrics.dita" toc="no"/>
+			<topicref href="isometrics.dita" toc="no"/>
+			<topicref href="eccentrics.dita" toc="no"/>
+		</topicref>
 	</topicref>
 </map>

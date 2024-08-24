@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-c-summary" xml:lang="ru">
+  <title><text id="title">Таблицы Прилепина</text></title>
+  <titlealts>
+    <navtitle><text conref="#./title"/></navtitle>
+  </titlealts>
+  <conbody>
+    <p>Стимуляция с помощью двигательных упражнений наиболее физиологически эффективна при
+      использовании трех подходов (сетов) по 3-8 повторений в каждом (примерно 80-93% от 1<term
+        keyref="gl-rm"/>) с прекращением выполнения за одно-два повторения до технического отказа.
+      Такой режим лучше всего соответствует третьей строчке таблицы Прилепина.</p>
+    <p>Для расчета используйте приблизительную формулу:
+      <note type="tip">1 повторение концентрики = 2 секунды изометрики = 1 секунда эксцентрики</note>
+    </p>
+  </conbody>
+</concept>

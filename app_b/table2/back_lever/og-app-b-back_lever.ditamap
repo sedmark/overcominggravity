@@ -3,15 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-back_lever" xml:lang="ru">
   <topicref href="og-app-b-back_lever-intro.dita">
-    <topicref href="og-app-b-bl_grip.dita"/>
-    <topicref href="og-app-b-tuck_bl.dita"/>
-    <topicref href="og-app-b-adv_tuck_bl.dita"/>
-    <topicref href="og-app-b-straddle_bl.dita"/>
-    <topicref href="og-app-b-05lay_or_1leg_bl.dita"/>
-    <topicref href="og-app-b-full_bl.dita"/>
-    <topicref href="og-app-b-bl_pullout.dita"/>
-    <topicref href="og-app-b-gh_pullout.dita"/>
-    <topicref href="og-app-b-ba_pullup_bl.dita"/>
-    <topicref href="og-app-b-hs_lower_to_bl.dita"/>
+    <topicref href="og-app-b-bl_grip.dita" toc="no"/>
+    <topicref href="og-app-b-tuck_bl.dita" toc="no"/>
+    <topicref href="og-app-b-adv_tuck_bl.dita" toc="no"/>
+    <topicref href="og-app-b-straddle_bl.dita" toc="no"/>
+    <topicref href="og-app-b-05lay_or_1leg_bl.dita" toc="no"/>
+    <topicref href="og-app-b-full_bl.dita" toc="no"/>
+    <topicref href="og-app-b-bl_pullout.dita" toc="no"/>
+    <topicref href="og-app-b-gh_pullout.dita" toc="no"/>
+    <topicref href="og-app-b-ba_pullup_bl.dita" toc="no"/>
+    <topicref href="og-app-b-hs_lower_to_bl.dita" toc="no"/>
   </topicref>
 </map>

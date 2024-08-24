@@ -3,9 +3,9 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-elbow_levers" xml:lang="ru">
    <topicref href="og-app-b-elbow_levers-intro.dita">
-      <topicref href="og-app-b-two_arm_el.dita"/>
-      <topicref href="og-app-b-rings_two_arm_el.dita"/>
-      <topicref href="og-app-b-oa_straddle_el.dita"/>
-      <topicref href="og-app-b-oa_straight_body_el.dita"/>
+      <topicref href="og-app-b-two_arm_el.dita" toc="no"/>
+      <topicref href="og-app-b-rings_two_arm_el.dita" toc="no"/>
+      <topicref href="og-app-b-oa_straddle_el.dita" toc="no"/>
+      <topicref href="og-app-b-oa_straight_body_el.dita" toc="no"/>
    </topicref>
 </map>

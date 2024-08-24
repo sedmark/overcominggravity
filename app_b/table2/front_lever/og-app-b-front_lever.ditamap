@@ -3,13 +3,13 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-front_lever" xml:lang="ru">
    <topicref href="og-app-b-front_lever-intro.dita">
-      <topicref href="og-app-b-tuck_fl.dita"/>
-      <topicref href="og-app-b-adv_tuck_fl.dita"/>
-      <topicref href="og-app-b-straddle_fl.dita"/>
-      <topicref href="og-app-b-05_lay_or_1_leg_fl.dita"/>
-      <topicref href="og-app-b-full_fl.dita"/>
-      <topicref href="og-app-b-fl_to_inverted.dita"/>
-      <topicref href="og-app-b-hang_pull_to_inv.dita"/>
-      <topicref href="og-app-b-circle_fls.dita"/>
+      <topicref href="og-app-b-tuck_fl.dita" toc="no"/>
+      <topicref href="og-app-b-adv_tuck_fl.dita" toc="no"/>
+      <topicref href="og-app-b-straddle_fl.dita" toc="no"/>
+      <topicref href="og-app-b-05_lay_or_1_leg_fl.dita" toc="no"/>
+      <topicref href="og-app-b-full_fl.dita" toc="no"/>
+      <topicref href="og-app-b-fl_to_inverted.dita" toc="no"/>
+      <topicref href="og-app-b-hang_pull_to_inv.dita" toc="no"/>
+      <topicref href="og-app-b-circle_fls.dita" toc="no"/>
    </topicref>
 </map>

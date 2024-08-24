@@ -3,15 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-weighted_pullups" xml:lang="ru">
    <topicref href="og-app-b-weighted_pullups-intro.dita">
-      <topicref href="og-app-b-assisted_pullups.dita"/>
-      <topicref href="og-app-b-1x_bodyweight.dita"/>
-      <topicref href="og-app-b-1_175x_bodyweight.dita"/>
-      <topicref href="og-app-b-1_35x_bodyweight.dita"/>
-      <topicref href="og-app-b-1_50x_bodyweight.dita"/>
-      <topicref href="og-app-b-1_65x_bodyweight.dita"/>
-      <topicref href="og-app-b-1_775x_bodyweight.dita"/>
-      <topicref href="og-app-b-1_9x_bodyweight.dita"/>
-      <topicref href="og-app-b-2x_bodyweight.dita"/>
-      <topicref href="og-app-b-2_1x_bodyweight.dita"/>
+      <topicref href="og-app-b-assisted_pullups.dita" toc="no"/>
+      <topicref href="og-app-b-1x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-1_175x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-1_35x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-1_50x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-1_65x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-1_775x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-1_9x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-2x_bodyweight.dita" toc="no"/>
+      <topicref href="og-app-b-2_1x_bodyweight.dita" toc="no"/>
    </topicref>
 </map>

@@ -3,15 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-explosive_pullups" xml:lang="ru">
    <topicref href="og-app-b-explosive_pullups-intro.dita">
-      <topicref href="og-app-b-kip_pullups.dita"/>
-      <topicref href="og-app-b-bar_pullups.dita"/>
-      <topicref href="og-app-b-kip_clap_pullups.dita"/>
-      <topicref href="og-app-b-non-kip_clapping.dita"/>
-      <topicref href="og-app-b-l-clapping_pullups.dita"/>
-      <topicref href="og-app-b-kip_btb_clap.dita"/>
-      <topicref href="og-app-b-l-slap_abs.dita"/>
-      <topicref href="og-app-b-l-slap_thighs.dita"/>
-      <topicref href="og-app-b-regular_slap_thighs.dita"/>
-      <topicref href="og-app-b-non-kip_btb_clap.dita"/>
+      <topicref href="og-app-b-kip_pullups.dita" toc="no"/>
+      <topicref href="og-app-b-bar_pullups.dita" toc="no"/>
+      <topicref href="og-app-b-kip_clap_pullups.dita" toc="no"/>
+      <topicref href="og-app-b-non-kip_clapping.dita" toc="no"/>
+      <topicref href="og-app-b-l-clapping_pullups.dita" toc="no"/>
+      <topicref href="og-app-b-kip_btb_clap.dita" toc="no"/>
+      <topicref href="og-app-b-l-slap_abs.dita" toc="no"/>
+      <topicref href="og-app-b-l-slap_thighs.dita" toc="no"/>
+      <topicref href="og-app-b-regular_slap_thighs.dita" toc="no"/>
+      <topicref href="og-app-b-non-kip_btb_clap.dita" toc="no"/>
    </topicref>
 </map>

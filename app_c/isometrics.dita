@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="isometrics" xml:lang="ru">
+    <title>Изометрика</title>
+    <shortdesc>Модификация таблицы Прилепина для изометрических упражнений</shortdesc>
+    <refbody>
+        <table id="tab_concentric" orient="port" frame="all"  colsep="1" rowsep="1">
+            <title>Изометрические упражнения</title>
+            <tgroup cols="4">
+                <colspec colname="1" align="center"/>
+                <colspec colname="2" align="center"/>
+                <colspec colname="3" align="center"/>
+                <colspec colname="4" align="center"/>
+                <thead>
+                    <row>
+                        <entry>Максимальное время удержания</entry>
+                        <entry>Диапазон времени удержания</entry>
+                        <entry>Подходы</entry>
+                        <entry>Суммарный диапазон удержаний</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>26-33 сек.</entry>
+                        <entry>16-20 сек.</entry>
+                        <entry>3-4</entry>
+                        <entry>60-76 сек.</entry>
+                    </row>
+                    <row>
+                        <entry>19-25 сек.</entry>
+                        <entry>12-16 сек.</entry>
+                        <entry>4-5</entry>
+                        <entry>52-65 сек.</entry>
+                    </row>
+                    <row>
+                        <entry><b><i>13-18 сек.</i></b></entry>
+                        <entry><b><i>9-12 сек.</i></b></entry>
+                        <entry><b><i>4-5</i></b></entry>
+                        <entry><b><i>45-60 сек.</i></b></entry>
+                    </row>
+                    <row>
+                        <entry>8-12 сек.</entry>
+                        <entry>6-8 сек.</entry>
+                        <entry>5-6</entry>
+                        <entry>36-48 сек.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>    

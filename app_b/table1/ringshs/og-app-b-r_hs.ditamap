@@ -2,8 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b-r_hs" xml:lang="ru">
 	<topicref href="og-app-b-r_hs-intro.dita">
-		<topicref href="og-app-b-r_shld_std.dita"/>
-		<topicref href="og-app-b-r_strap_hs.dita"/>
-		<topicref href="og-app-b-r_hs.dita"/>
+		<topicref href="og-app-b-r_shld_std.dita" toc="no"/>
+		<topicref href="og-app-b-r_strap_hs.dita" toc="no"/>
+		<topicref href="og-app-b-r_hs.dita" toc="no"/>
 	</topicref>
 </map>

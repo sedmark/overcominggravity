@@ -3,10 +3,10 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-rings_pl_pushups" xml:lang="ru">
    <topicref href="og-app-b-rings_pl_pushups-intro.dita">
-      <topicref href="og-app-b-rings_tuck_pl_pu.dita"/>
-      <topicref href="og-app-b-rings_adv_tuck_pl_pu.dita"/>
-      <topicref href="og-app-b-rings_straddle_pl_pu.dita"/>
-      <topicref href="og-app-b-rings_05_lay_or_1_leg_pl_pu.dita"/>
-      <topicref href="og-app-b-rings_full_pl_pu.dita"/>
+      <topicref href="og-app-b-rings_tuck_pl_pu.dita" toc="no"/>
+      <topicref href="og-app-b-rings_adv_tuck_pl_pu.dita" toc="no"/>
+      <topicref href="og-app-b-rings_straddle_pl_pu.dita" toc="no"/>
+      <topicref href="og-app-b-rings_05_lay_or_1_leg_pl_pu.dita" toc="no"/>
+      <topicref href="og-app-b-rings_full_pl_pu.dita" toc="no"/>
    </topicref>
 </map>

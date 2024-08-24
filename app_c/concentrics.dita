@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="concentrics" xml:lang="ru">
+    <title>Концентрика</title>
+    <shortdesc>Таблица Прилепина для концентрических упражнений</shortdesc>
+    <refbody>
+        <table id="tab_concentric" orient="port" frame="all"  colsep="1" rowsep="1">
+            <title>Концентрические упражнения</title>
+            <tgroup cols="4">
+                <colspec colname="1" align="center"/>
+                <colspec colname="2" align="center"/>
+                <colspec colname="3" align="center"/>
+                <colspec colname="4" align="center"/>
+                <thead>
+                    <row>
+                        <entry>Интенсивность</entry>
+                        <entry>Число повторений в подходе</entry>
+                        <entry>Общее число повторений (оптимальное)</entry>
+                        <entry>Суммарный диапазон повторений</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>78-82 %</entry>
+                        <entry>8-10</entry>
+                        <entry>64</entry>
+                        <entry>50-80</entry>
+                    </row>
+                    <row>
+                        <entry>83-86 %</entry>
+                        <entry>6-7 </entry>
+                        <entry>48</entry>
+                        <entry>36-65 </entry>
+                    </row>
+                    <row>
+                        <entry><b><i>87-93 %</i></b></entry>
+                        <entry><b><i>3-5 </i></b></entry>
+                        <entry><b><i>37</i></b></entry>
+                        <entry><b><i>25-50 </i></b></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>    

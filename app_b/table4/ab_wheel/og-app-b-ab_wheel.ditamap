@@ -3,15 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-ab_wheel" xml:lang="ru">
    <topicref href="og-app-b-ab_wheel-intro.dita">
-      <topicref href="og-app-b-25s_plank.dita"/>
-      <topicref href="og-app-b-60s_plank.dita"/>
-      <topicref href="og-app-b-1_arm_1_leg_plank.dita"/>
-      <topicref href="og-app-b-plank_position.dita"/>
-      <topicref href="og-app-b-knees_ab_wheel.dita"/>
-      <topicref href="og-app-b-ab_wheel_on_ramp.dita"/>
-      <topicref href="og-app-b-ab_wheel_eccentrics.dita"/>
-      <topicref href="og-app-b-full_ab_wheel.dita"/>
-      <topicref href="og-app-b-ab_wheel_plus_20_lbs.dita"/>
-      <topicref href="og-app-b-one_arm_ab_wheel.dita"/>
+      <topicref href="og-app-b-25s_plank.dita" toc="no"/>
+      <topicref href="og-app-b-60s_plank.dita" toc="no"/>
+      <topicref href="og-app-b-1_arm_1_leg_plank.dita" toc="no"/>
+      <topicref href="og-app-b-plank_position.dita" toc="no"/>
+      <topicref href="og-app-b-knees_ab_wheel.dita" toc="no"/>
+      <topicref href="og-app-b-ab_wheel_on_ramp.dita" toc="no"/>
+      <topicref href="og-app-b-ab_wheel_eccentrics.dita" toc="no"/>
+      <topicref href="og-app-b-full_ab_wheel.dita" toc="no"/>
+      <topicref href="og-app-b-ab_wheel_plus_20_lbs.dita" toc="no"/>
+      <topicref href="og-app-b-one_arm_ab_wheel.dita" toc="no"/>
    </topicref>
 </map>

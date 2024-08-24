@@ -3,12 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-rings_planche" xml:lang="ru">
    <topicref href="og-app-b-rings_planche-intro.dita">
-      <topicref href="og-app-b-rings_frog_stand.dita"/>
-      <topicref href="og-app-b-rings_sa_frog_stand.dita"/>
-      <topicref href="og-app-b-rings_tuck_pl.dita"/>
-      <topicref href="og-app-b-rings_adv_tuck_pl.dita"/>
-      <topicref href="og-app-b-rings_straddle_pl.dita"/>
-      <topicref href="og-app-b-rings_05_lay_or_1_leg_pl.dita"/>
-      <topicref href="og-app-b-rings_full_pl.dita"/>
+      <topicref href="og-app-b-rings_frog_stand.dita" toc="no"/>
+      <topicref href="og-app-b-rings_sa_frog_stand.dita" toc="no"/>
+      <topicref href="og-app-b-rings_tuck_pl.dita" toc="no"/>
+      <topicref href="og-app-b-rings_adv_tuck_pl.dita" toc="no"/>
+      <topicref href="og-app-b-rings_straddle_pl.dita" toc="no"/>
+      <topicref href="og-app-b-rings_05_lay_or_1_leg_pl.dita" toc="no"/>
+      <topicref href="og-app-b-rings_full_pl.dita" toc="no"/>
    </topicref>
 </map>

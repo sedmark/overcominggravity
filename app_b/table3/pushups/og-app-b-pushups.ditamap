@@ -3,18 +3,18 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-pushups" xml:lang="ru">
    <topicref href="og-app-b-pushups-intro.dita">
-      <topicref href="og-app-b-regular_pushups.dita"/>
-      <topicref href="og-app-b-diamond_pushups.dita"/>
-      <topicref href="og-app-b-ring_wide_pu.dita"/>
-      <topicref href="og-app-b-ring_pu.dita"/>
-      <topicref href="og-app-b-rto_pushups.dita"/>
-      <topicref href="og-app-b-rto_archer_pu.dita"/>
-      <topicref href="og-app-b-rto_40_deg_pppu.dita"/>
-      <topicref href="og-app-b-rto_60_deg_pppu.dita"/>
-      <topicref href="og-app-b-rto_maltese_pu.dita"/>
-      <topicref href="og-app-b-wall_pppu.dita"/>
-      <topicref href="og-app-b-r_wall_pppu.dita"/>
-      <topicref href="og-app-b-wall_maltese_pu.dita"/>
-      <topicref href="og-app-b-r_wall_maltese_pu.dita"/>
+      <topicref href="og-app-b-regular_pushups.dita" toc="no"/>
+      <topicref href="og-app-b-diamond_pushups.dita" toc="no"/>
+      <topicref href="og-app-b-ring_wide_pu.dita" toc="no"/>
+      <topicref href="og-app-b-ring_pu.dita" toc="no"/>
+      <topicref href="og-app-b-rto_pushups.dita" toc="no"/>
+      <topicref href="og-app-b-rto_archer_pu.dita" toc="no"/>
+      <topicref href="og-app-b-rto_40_deg_pppu.dita" toc="no"/>
+      <topicref href="og-app-b-rto_60_deg_pppu.dita" toc="no"/>
+      <topicref href="og-app-b-rto_maltese_pu.dita" toc="no"/>
+      <topicref href="og-app-b-wall_pppu.dita" toc="no"/>
+      <topicref href="og-app-b-r_wall_pppu.dita" toc="no"/>
+      <topicref href="og-app-b-wall_maltese_pu.dita" toc="no"/>
+      <topicref href="og-app-b-r_wall_maltese_pu.dita" toc="no"/>
    </topicref>
 </map>

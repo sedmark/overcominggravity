@@ -2,12 +2,12 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b-hspu" xml:lang="ru">
 	<topicref href="og-app-b-hspu-intro.dita">
-		<topicref href="og-app-b-pike_hespu.dita"/>
-		<topicref href="og-app-b-box_hespu.dita"/>
-		<topicref href="og-app-b-wall_hespu_eccen.dita"/>
-		<topicref href="og-app-b-wall_hespu.dita"/>
-		<topicref href="og-app-b-wall_hspu.dita"/>
-		<topicref href="og-app-b-free_hespu.dita"/>
-		<topicref href="og-app-b-free_hspu.dita"/>
+		<topicref href="og-app-b-pike_hespu.dita" toc="no"/>
+		<topicref href="og-app-b-box_hespu.dita" toc="no"/>
+		<topicref href="og-app-b-wall_hespu_eccen.dita" toc="no"/>
+		<topicref href="og-app-b-wall_hespu.dita" toc="no"/>
+		<topicref href="og-app-b-wall_hspu.dita" toc="no"/>
+		<topicref href="og-app-b-free_hespu.dita" toc="no"/>
+		<topicref href="og-app-b-free_hspu.dita" toc="no"/>
 	</topicref>
 </map>

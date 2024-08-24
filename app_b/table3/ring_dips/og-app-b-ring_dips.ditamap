@@ -3,21 +3,21 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-ring_dips" xml:lang="ru">
    <topicref href="og-app-b-ring_dips-intro.dita">
-      <topicref href="og-app-b-support_holds.dita"/>
-      <topicref href="og-app-b-r_dip_ecce.dita"/>
-      <topicref href="og-app-b-r_dips.dita"/>
-      <topicref href="og-app-b-r_l-dips.dita"/>
-      <topicref href="og-app-b-r_wide_dips.dita"/>
-      <topicref href="og-app-b-rto_45_deg_dips.dita"/>
-      <topicref href="og-app-b-rto_75_deg_dips.dita"/>
-      <topicref href="og-app-b-rto_90_deg_dips.dita"/>
-      <topicref href="og-app-b-rto_90_plus_30_dips.dita"/>
-      <topicref href="og-app-b-rto_90_plus_50_dips.dita"/>
-      <topicref href="og-app-b-rto_90_plus_65_dips.dita"/>
-      <topicref href="og-app-b-rto_90_plus_75_dips.dita"/>
-      <topicref href="og-app-b-rto_90_plus_82_dips.dita"/>
-      <topicref href="og-app-b-rto_90_plus_86_dips.dita"/>
-      <topicref href="og-app-b-rto_90_plus_88_dips.dita"/>
-      <topicref href="og-app-b-maltese_l17.dita"/>
+      <topicref href="og-app-b-support_holds.dita" toc="no"/>
+      <topicref href="og-app-b-r_dip_ecce.dita" toc="no"/>
+      <topicref href="og-app-b-r_dips.dita" toc="no"/>
+      <topicref href="og-app-b-r_l-dips.dita" toc="no"/>
+      <topicref href="og-app-b-r_wide_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_45_deg_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_75_deg_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_deg_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_plus_30_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_plus_50_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_plus_65_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_plus_75_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_plus_82_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_plus_86_dips.dita" toc="no"/>
+      <topicref href="og-app-b-rto_90_plus_88_dips.dita" toc="no"/>
+      <topicref href="og-app-b-maltese_l17.dita" toc="no"/>
    </topicref>
 </map>
