@@ -2,10 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-a" xml:lang="ru">
 	<topicref href="og-app-c-intro.dita">
-		<!--topicref href="og-app-c-summary.dita"/-->
 		<topicref href="table1.dita"/>
 		<topicref href="table2.dita"/>
 		<topicref href="table3.dita"/>
 		<topicref href="table4.dita"/>
+		<topicref href="prilepin_tables.dita"/>
 	</topicref>
 </map>
