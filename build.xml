@@ -23,6 +23,7 @@
             <property name="nav-toc" value="full"/>
             <property name="args.rellinks" value="all"/>
             <property name="clean.temp" value="yes"/>
+            <property name="processing-mode" value="strict"/>
         </ant>
     </target>
     <target name="boots">

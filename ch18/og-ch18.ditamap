@@ -11,8 +11,8 @@
 		<topicref href="og-ch18-workout-nutrition.dita"/>
 		<topicref href="og-ch18-supplementation.dita"/>
 		<topicref href="og-ch18-sick-workout.dita" collection-type="sequence">
-			<topicref href="og-ch18-sick-workout-basic.dita"/>
-			<topicref href="og-ch18-sick-workout-intensity.dita"/>
+			<topicref href="og-ch18-sick-workout-basic.dita" toc="no"/>
+			<topicref href="og-ch18-sick-workout-intensity.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch18-summary.dita"/>
 	</topicref>

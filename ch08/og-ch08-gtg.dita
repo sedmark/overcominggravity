@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-ch08-gtg" xml:lang="ru">
-  <title>Метод GTG</title>
+  <title><text id="title">Метод GTG</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>

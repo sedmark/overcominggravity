@@ -2,12 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
 "concept.dtd">
 <concept id="og-ch17-summary" xml:lang="ru">
-  <title>Резюме</title>
-
+  <title><text id="title">Резюме</text></title>
   <titlealts>
-    <navtitle>Резюме</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-
   <conbody>
     <p>В этой главе мы обсудили важные концепции и этапы хронологического
     лечения травм. В частности, выяснили, что во время фаз воспаления,

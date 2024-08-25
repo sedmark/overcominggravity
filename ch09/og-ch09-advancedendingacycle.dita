@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-ch07-summary" xml:lang="ru">
-  <title><text id="title">Резюме</text></title>
+<concept id="og-ch09-advancedendingacycle" xml:lang="ru">
+  <title><text id="title">Окончание цикла</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>

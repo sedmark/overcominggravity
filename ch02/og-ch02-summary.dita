@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept  id="og-ch02-summary" xml:lang="ru">
-  <title>Резюме</title>
+<concept id="og-ch02-summary" xml:lang="ru">
+  <title><text id="title">Резюме</text></title>
   <titlealts>
-    <navtitle>Резюме</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p>Мы узнали, что если наша цель — развитие силы, то мы должны выполнять движения как можно

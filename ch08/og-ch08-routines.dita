@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-ch08-routines" xml:lang="ru">
-  <title>Программы (группы упражнений)</title>
+  <title><text id="title">Программы (группы упражнений)</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>

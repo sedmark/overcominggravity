@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-ch09-endingacycle" xml:lang="ru">
+<concept id="og-ch09-noviceendingacycle" xml:lang="ru">
   <title><text id="title">Окончание цикла</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>

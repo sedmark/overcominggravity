@@ -2,12 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
 "concept.dtd">
 <concept id="og-ch18-summary" xml:lang="ru">
-  <title>Резюме</title>
-
+  <title><text id="title">Резюме</text></title>
   <titlealts>
-    <navtitle>Резюме</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-
   <conbody>
     <p>В этой главе мы узнали, что сон и питание имеют большое влияние на организм. Таким образом,
       мы должны делать все возможное, чтобы помочь тренировкам правильным сном и питанием. Я

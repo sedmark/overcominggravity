@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>. <xref href="../../../app_c/tables.dita#tables/table3">Таблица 3, колонка 2</xref>
+      <text conref="#./title"/>. <xref href="../../../app_c/table3.dita#table3/table3">Таблица 3, колонка 2</xref>
    </shortdesc>
    <prolog>
       <data>

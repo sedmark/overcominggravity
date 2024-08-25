@@ -11,7 +11,7 @@
    </titlealts>
    <shortdesc>
       <text conkeyref="gl-rpullups/def"/>, <text conkeyref="gl-oac/def"/> (<text conref="#./enabbrev1"/> + <text conref="#./enabbrev2"/>) <xref
-         href="../../../app_c/tables.dita#tables/table2">Таблица 2, колонка 6</xref>
+         href="../../../app_c/table2.dita#table2/table2">Таблица 2, колонка 6</xref>
    </shortdesc>
    <prolog>
       <data>

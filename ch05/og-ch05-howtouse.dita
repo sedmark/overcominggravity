@@ -67,16 +67,16 @@
       прогресс.</p>
     <p>Тем, кто общается с гимнастами или <term keyref="gl-bodyweighter">бодивейтерами</term>, термины и сокращения из таблиц могут быть знакомы, 
       но большинству людей нужно обращаться к описаниям этих упражнений.</p>
-    <table conref="../app_c/table1.dita">
+    <table conref="../app_c/table1.dita#table1/table1">
       <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
     </table>
-    <table conref="../app_c/table2.dita">
+    <table conref="../app_c/table2.dita#table2/table2">
       <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
     </table>
-    <table conref="../app_c/table3.dita">
+    <table conref="../app_c/table3.dita#table3/table3">
       <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
     </table>
-    <table conref="../app_c/table4.dita">
+    <table conref="../app_c/table4.dita#table4/table4">
       <tgroup cols="1"><tbody><row><entry/></row></tbody></tgroup>
     </table>
   </conbody>
