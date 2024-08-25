@@ -4,26 +4,26 @@
 	<topicref href="og-ch09-intro.dita" collection-type="sequence">
 		<topicref href="og-ch09-intromesocycle.dita"/>
 		<topicref href="og-ch09-novicelevel.dita">
-			<topicref href="og-ch09-linearprogression.dita"/>
-			<topicref href="og-ch09-novicetypesofex.dita"/>
-			<topicref href="og-ch09-noviceendingacycle.dita"/>
+			<topicref href="og-ch09-linearprogression.dita" toc="no"/>
+			<topicref href="og-ch09-novicetypesofex.dita" toc="no"/>
+			<topicref href="og-ch09-noviceendingacycle.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch09-intermediatelevel.dita">
-			<topicref href="og-ch09-intermediateweeklyscheduling.dita"/>
-			<topicref href="og-ch09-intermediatesplits.dita"/>
-			<topicref href="og-ch09-intermediatetypesofex.dita"/>
-			<topicref href="og-ch09-intermediateendingacycle.dita"/>
+			<topicref href="og-ch09-intermediateweeklyscheduling.dita" toc="no"/>
+			<topicref href="og-ch09-intermediatesplits.dita" toc="no"/>
+			<topicref href="og-ch09-intermediatetypesofex.dita" toc="no"/>
+			<topicref href="og-ch09-intermediateendingacycle.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch09-advancedlevel.dita">
-			<topicref href="og-ch09-advancedweeklyscheduling.dita"/>
-			<topicref href="og-ch09-advancedtypesofex.dita"/>
-			<topicref href="og-ch09-routines.dita"/>
-			<topicref href="og-ch09-advancedendingacycle.dita"/>
+			<topicref href="og-ch09-advancedweeklyscheduling.dita" toc="no"/>
+			<topicref href="og-ch09-advancedtypesofex.dita" toc="no"/>
+			<topicref href="og-ch09-routines.dita" toc="no"/>
+			<topicref href="og-ch09-advancedendingacycle.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch09-intermesocycle.dita">
-			<topicref href="og-ch09-deloading.dita"/>
-			<topicref href="og-ch09-maxstrengthtesting.dita"/>
-			<topicref href="og-ch09-workoutrestructuring.dita"/>
+			<topicref href="og-ch09-deloading.dita" toc="no"/>
+			<topicref href="og-ch09-maxstrengthtesting.dita" toc="no"/>
+			<topicref href="og-ch09-workoutrestructuring.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch09-elitestrength.dita"/>
 		<topicref href="og-ch09-addconsideration.dita"/>

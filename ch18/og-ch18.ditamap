@@ -4,8 +4,8 @@
 	<topicref href="og-ch18-intro.dita" collection-type="sequence">
 		<topicref href="og-ch18-sleep.dita"/>
 		<topicref href="og-ch18-nutrition.dita" collection-type="sequence">
-			<topicref href="og-ch18-nutrition-weightloss.dita"/>
-			<topicref href="og-ch18-nutrition-weightgain.dita"/>
+			<topicref href="og-ch18-nutrition-weightloss.dita" toc="no"/>
+			<topicref href="og-ch18-nutrition-weightgain.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch18-metaflex.dita"/>
 		<topicref href="og-ch18-workout-nutrition.dita"/>

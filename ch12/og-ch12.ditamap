@@ -6,12 +6,12 @@
 		<topicref href="og-ch12-guidelines.dita"/>
 		<topicref href="og-ch12-etiology.dita"/>
 		<topicref href="og-ch12-factors.dita">
-			<topicref href="og-ch12-neuro.dita"/>
-			<topicref href="og-ch12-muscul.dita"/>
+			<topicref href="og-ch12-neuro.dita" toc="no"/>
+			<topicref href="og-ch12-muscul.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch12-acuteandchronic.dita">
-			<topicref href="og-ch12-acute.dita"/>
-			<topicref href="og-ch12-chronic.dita"/>
+			<topicref href="og-ch12-acute.dita" toc="no"/>
+			<topicref href="og-ch12-chronic.dita" toc="no"/>
 		</topicref>
 		<topicref href="og-ch12-summary.dita"/>
 	</topicref>
