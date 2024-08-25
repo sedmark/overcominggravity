@@ -13,5 +13,32 @@
     <p>Для расчета используйте приблизительную формулу:
       <note type="tip">1 повторение концентрики = 2 секунды изометрики = 1 секунда эксцентрики</note>
     </p>
+    <table conref="concentrics.dita#concentrics/tab">
+      <tgroup cols="0">
+        <tbody>
+          <row>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table conref="isometrics.dita#isometrics/tab">
+      <tgroup cols="0">
+        <tbody>
+          <row>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table conref="eccentrics.dita#eccentrics/tab">
+      <tgroup cols="0">
+        <tbody>
+          <row>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
   </conbody>
 </concept>

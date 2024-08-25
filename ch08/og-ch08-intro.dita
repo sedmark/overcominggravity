@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept  id="og-ch08-intro" xml:lang="ru">
-  <title></title>
+<concept id="og-ch08-intro" xml:lang="ru">
+  <title>Программирование</title>
   <titlealts>
-    <navtitle></navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
-    <p></p>
+    <p conkeyref="underconstruction/p_substitution"/>
   </conbody>
 </concept>

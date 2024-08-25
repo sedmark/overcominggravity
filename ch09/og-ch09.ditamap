@@ -2,6 +2,32 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map09" xml:lang="ru">
 	<topicref href="og-ch09-intro.dita" collection-type="sequence">
+		<topicref href="og-ch09-intromesocycle.dita"/>
+		<topicref href="og-ch09-novicelevel.dita">
+			<topicref href="og-ch09-linearprogression.dita"/>
+			<topicref href="og-ch09-novicetypesofex.dita"/>
+			<topicref href="og-ch09-noviceendingacycle.dita"/>
+		</topicref>
+		<topicref href="og-ch09-intermediatelevel.dita">
+			<topicref href="og-ch09-intermediateweeklyscheduling.dita"/>
+			<topicref href="og-ch09-intermediatesplits.dita"/>
+			<topicref href="og-ch09-intermediatetypesofex.dita"/>
+			<topicref href="og-ch09-intermediateendingacycle.dita"/>
+		</topicref>
+		<topicref href="og-ch09-advancedlevel.dita">
+			<topicref href="og-ch09-advancedweeklyscheduling.dita"/>
+			<topicref href="og-ch09-advancedtypesofex.dita"/>
+			<topicref href="og-ch09-routines.dita"/>
+			<topicref href="og-ch09-advancedendingacycle.dita"/>
+		</topicref>
+		<topicref href="og-ch09-intermesocycle.dita">
+			<topicref href="og-ch09-deloading.dita"/>
+			<topicref href="og-ch09-maxstrengthtesting.dita"/>
+			<topicref href="og-ch09-workoutrestructuring.dita"/>
+		</topicref>
+		<topicref href="og-ch09-elitestrength.dita"/>
+		<topicref href="og-ch09-addconsideration.dita"/>
+		<topicref href="og-ch09-stop.dita"/>
 		<topicref href="og-ch09-summary.dita"/>
 	</topicref>
 </map>

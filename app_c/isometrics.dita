@@ -4,7 +4,7 @@
     <title>Изометрика</title>
     <shortdesc>Модификация таблицы Прилепина для изометрических упражнений</shortdesc>
     <refbody>
-        <table id="tab_concentric" orient="port" frame="all"  colsep="1" rowsep="1">
+        <table id="tab" orient="port" frame="all"  colsep="1" rowsep="1">
             <title>Изометрические упражнения</title>
             <tgroup cols="4">
                 <colspec colname="1" align="center"/>

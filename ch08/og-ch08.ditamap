@@ -2,6 +2,21 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map08" xml:lang="ru">
 	<topicref href="og-ch08-intro.dita" collection-type="sequence">
+		<topicref href="og-ch08-intraworkout.dita"/>
+		<topicref href="og-ch08-stress.dita"/>
+		<topicref href="og-ch08-basic_periodization.dita"/>
+		<topicref href="og-ch08-typesofex.dita"/>
+		<topicref href="og-ch08-repetitions.dita"/>
+		<topicref href="og-ch08-regularranges.dita"/>
+		<topicref href="og-ch08-isometrics.dita"/>
+		<topicref href="og-ch08-eccentrics.dita"/>
+		<topicref href="og-ch08-repetitions_cocnlusions.dita"/>
+		<topicref href="og-ch08-resttimes.dita"/>
+		<topicref href="og-ch08-general_strength.dita"/>
+		<topicref href="og-ch08-routines.dita"/>
+		<topicref href="og-ch08-gtg.dita"/>
+		<topicref href="og-ch08-corework.dita"/>
+		<topicref href="og-ch08-termination.dita"/>
 		<topicref href="og-ch08-summary.dita"/>
 	</topicref>
 </map>

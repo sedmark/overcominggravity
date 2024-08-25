@@ -2,6 +2,13 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map07" xml:lang="ru">
 	<topicref href="og-ch07-intro.dita" collection-type="sequence">
+		<topicref href="og-ch07-fullbody_split.dita"/>
+		<topicref href="og-ch07-compounds_isometrics.dita"/>
+		<topicref href="og-ch07-goals.dita"/>
+		<topicref href="og-ch07-selecting_ex.dita"/>
+		<topicref href="og-ch07-ex_order.dita"/>
+		<topicref href="og-ch07-consolidation.dita"/>
+		<topicref href="og-ch07-stop.dita"/>
 		<topicref href="og-ch07-summary.dita"/>
 	</topicref>
 </map>

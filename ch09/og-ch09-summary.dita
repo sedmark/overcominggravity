@@ -3,9 +3,9 @@
 <concept  id="og-ch09-summary" xml:lang="ru">
   <title>Резюме</title>
   <titlealts>
-    <navtitle>Резюме</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
-    <p></p>
+    <p conkeyref="underconstruction/p_substitution"/>
   </conbody>
 </concept>
