@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-ch05-intro" xml:lang="ru">
-  <title>Глава 5. Таблицы прогрессий силы и навыков</title>
+  <title><text id="title">Глава 5. Таблицы прогрессий силы и навыков</text></title>
   <titlealts>
-    <navtitle>Глава 5. Таблицы прогрессий силы и навыков</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p></p>

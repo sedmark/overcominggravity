@@ -2,8 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
 "concept.dtd">
 <concept id="og-ch18-intro" xml:lang="ru">
-  <title>Глава 18. Образ жизни</title>
-
+  <title><text id="title">Глава 18. Образ жизни</text></title>
+  <titlealts>
+    <navtitle><text conref="#./title"/></navtitle>
+  </titlealts>
   <conbody>
     <p>Этой темы мы коснемся кратко, поскольку она не является основной для
     книги, но имеет важное значение для тренировок.</p>

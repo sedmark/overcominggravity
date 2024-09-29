@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-ch14-intro" xml:lang="ru">
-  <title>Глава 14. Программирование при травмах и общая реабилитация</title>
+  <title><text id="title">Глава 14. Программирование при травмах и общая реабилитация</text></title>
   <titlealts>
-    <navtitle>Глава 14. Программирование при травмах и общая реабилитация</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p>В <xref href="../ch13/og-ch13-intro.dita">предыдущей главе</xref> подробно излагалась

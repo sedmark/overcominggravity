@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-ch03-intro" xml:lang="ru">
-  <title>Глава 3. Постановка и достижение целей</title>
+  <title><text id="title">Глава 3. Постановка и достижение целей</text></title>
   <titlealts>
-    <navtitle>Глава 3. Постановка и достижение целей</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p>В самом начале спросите себя, в каком направлении собираетесь двигаться. К примеру, вспомните

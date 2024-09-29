@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-ch01-intro" xml:lang="ru">
-  <title>Вступление</title>
+  <title><text id="title">Вступление</text></title>
   <titlealts>
-    <navtitle>Вступление</navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p>Когда я писал статью «Основы силового тренинга с собственным весом» (The Fundamentals of

@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-ch17-intro" xml:lang="ru">
-  <title>Глава 17. Обобщенно о здоровье и травмах</title>
+  <title><text id="title">Глава 17. Обобщенно о здоровье и травмах</text></title>
+  <titlealts>
+    <navtitle><text conref="#./title"/></navtitle>
+  </titlealts>
   <conbody>
   </conbody>
 </concept>
