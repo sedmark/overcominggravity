@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="concentrics" xml:lang="ru">
-    <title>Концентрика</title>
-    <shortdesc>Таблица Прилепина для концентрических упражнений</shortdesc>
+<reference id="prilepin-charts" xml:lang="ru">
+    <title><text conref="#./tabtitle"/></title>
     <refbody>
         <table id="tab" orient="port" frame="all"  colsep="1" rowsep="1">
-            <title>Концентрические упражнения</title>
+            <title><text id="tabtitle">Таблица Прилепина</text></title>
             <tgroup cols="4">
                 <colspec colname="1" align="center"/>
                 <colspec colname="2" align="center"/>
@@ -21,22 +20,28 @@
                 </thead>
                 <tbody>
                     <row>
-                        <entry>78-82%</entry>
-                        <entry>8-10</entry>
-                        <entry>64</entry>
-                        <entry>50-80</entry>
+                        <entry>&lt;70%</entry>
+                        <entry>3-6</entry>
+                        <entry>24</entry>
+                        <entry>18-30</entry>
                     </row>
                     <row>
-                        <entry>83-86%</entry>
-                        <entry>6-7 </entry>
-                        <entry>48</entry>
-                        <entry>36-65 </entry>
+                        <entry>70-79%</entry>
+                        <entry>3-6</entry>
+                        <entry>18</entry>
+                        <entry>12-24</entry>
                     </row>
                     <row>
-                        <entry><b><i>87-93%</i></b></entry>
-                        <entry><b><i>3-5 </i></b></entry>
-                        <entry><b><i>37</i></b></entry>
-                        <entry><b><i>25-50 </i></b></entry>
+                        <entry>80-89%</entry>
+                        <entry>2-4</entry>
+                        <entry>15</entry>
+                        <entry>10-20</entry>
+                    </row>
+                    <row>
+                        <entry>90-100%</entry>
+                        <entry>1-2</entry>
+                        <entry>7</entry>
+                        <entry>4-10</entry>
                     </row>
                 </tbody>
             </tgroup>
