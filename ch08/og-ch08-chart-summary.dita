@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-ch08-summary" xml:lang="ru">
+  <title><text id="title">Краткий свод таблиц</text></title>
+  <titlealts>
+    <navtitle><text conref="#./title"/></navtitle>
+  </titlealts>
+  <conbody>
+    <p>Итак, мы пришли к заключению, что тренировочный стимул наиболее физиологически эффективен в
+      диапазоне 3-8 повторений (примерно 80-93% от 1ПМ) двигательных упражнений с прекращением
+      выполнения за один-два повторения до технического отказа. Это соответствует третьей строчке в
+      таблице Прилепина.</p>
+    <p>Запомните, что 1 повторение = 2 секундам изометрики = приблизительно 1 секунде
+      эксцентрики.</p>
+    <p><table conref="../app_c/concentrics.dita#concentrics/tab">
+        <tgroup cols="0">
+          <tbody>
+            <row>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></p>
+    <p><table conref="../app_c/isometrics.dita#isometrics/tab">
+      <tgroup cols="0">
+        <tbody>
+          <row>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table></p>
+    <p><table conref="../app_c/eccentrics.dita#eccentrics/tab">
+      <tgroup cols="0">
+        <tbody>
+          <row>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table></p>
+    <p>Теперь, когда таблицы наглядно представлены, гораздо легче создать программу с различными
+      типами упражнений. Я надеюсь, что весь этот раздел поможет вам в этом, потому что необходимо
+      подбирать схемы подходов и повторений в соответствии с своими возможностями.</p>
+  </conbody>
+</concept>
