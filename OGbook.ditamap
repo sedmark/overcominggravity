@@ -26,7 +26,7 @@
     <mapref href="ch08/og-ch08.ditamap" format="ditamap"/>
     <mapref href="ch09/og-ch09.ditamap" format="ditamap"/>
     <mapref href="ch10/og-ch10.ditamap" format="ditamap"/>
-    <!--mapref href="ch11/og-ch11.ditamap" format="ditamap"/-->
+    <mapref href="ch11/og-ch11.ditamap" format="ditamap"/>
   </part>
   <part navtitle="Часть II — Забота о здоровье и помощь при травмах" keys="part_ii">
     <mapref href="ch12/og-ch12.ditamap" format="ditamap"/>
