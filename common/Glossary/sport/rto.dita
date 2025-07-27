@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="rto">
+  <glossterm>Развернутые наружу кольца</glossterm>
+  <glossdef><text id="def">Положение гимнастических колец, при котором эпикондилы локтя параллельны
+      коральной плоскости туловища</text><image href="../images/rto.png" placement="break"
+    /></glossdef>
+  <glossBody>
+    <glossAlt>
+      <glossAbbreviation><text id="abbrev">RTO</text></glossAbbreviation>
+    </glossAlt>
+    <glossAlt>
+      <glossSynonym><text id="en">Rings turned out</text></glossSynonym>
+    </glossAlt>
+  </glossBody>
+</glossentry>
