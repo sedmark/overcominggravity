@@ -5,6 +5,9 @@
 		<!--
 		<topicref href="og-app-a-introduction.dita"/>
 		<topicref href="og-app-a-warmup.dita"/>
+		<topicref href="og-app-a-level-1-2.dita">
+			<topicref href="og-app-a-level-1-2-sample.dita">
+		</topicref>
 		-->
 		<!--topicref href="og-app-a-summary.dita"/-->
 	</topicref>
