@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-a-level-1-2-sample" xml:lang="ru">
+  <title><text id="title">Тренировка 3-4 уровней</text></title>
+  <titlealts>
+    <navtitle><text conref="#./title"/></navtitle>
+  </titlealts>
+  <conbody>
+    <p><u>Двух-четырехразовый комплекс в неделю на статику для всего тела</u> может быть выстроен
+      следующим образом:<ul>
+        <li>X секунд <xref href="../app_b/table3/planche/og-app-b-frog_stand.dita">стойки
+            «лягушка»</xref> либо <xref href="../app_b/table3/planche/og-app-b-sa_frog_stand.dita"
+            >стойки «лягушка» на прямых руках</xref>.</li>
+        <li>X секунд горизонтального виса <xref
+            href="../app_b/table2/back_lever/og-app-b-tuck_bl.dita">в группировке</xref> либо <xref
+            href="../app_b/table2/back_lever/og-app-b-adv_tuck_bl.dita">в полугруппировке</xref>.<ul>
+            <li>3x5-8 <xref href="../app_b/table1/hspu/og-app-b-wall_hespu.dita">отжиманий у стены в
+                стойке на голове</xref> и/или работа над прогрессией <xref
+                href="../app_b/table4/muscle_ups/og-app-b-muscle_ups-intro.dita">выходов
+                силой</xref>.</li>
+          </ul></li>
+        <li>X секунд <xref href="../app_b/table2/front_lever/og-app-b-tuck_fl.dita">горизонтального
+            виса в группировке</xref> и/или 3x5-12 <xref
+            href="../app_b/table2/rowing/og-app-b-wide_ring_rows.dita">широких горизонтальных
+            подтягиваний</xref></li>
+        <li>+Ноги</li>
+      </ul>Обратитесь к таблицам для изометрики, чтобы в зависимости от вашего максимума, определить
+      необходимое количество Y подходов по X секунд удержаний. </p>
+    <p>Как и в предыдущей программе, наша цель — 3 подхода по 5-8 повторений для двигательных
+      упражнений. Надо стремиться увеличивать количество повторений и затем переходить к более
+      трудному упражнению в текущей прогрессии.</p>
+    <p><u>Двух-четырехразовый комплекс в неделю на динамику для всего тела</u> может быть
+      сфокусирован на следующем:</p>
+    <ul>
+      <li>3x(3-8) подходящего упражнения из <xref
+          href="../app_b/table4/muscle_ups/og-app-b-muscle_ups-intro.dita">выходов силой</xref>,
+        либо <xref href="../app_b/table4/muscle_ups/og-app-b-muscle_ups.dita">выход силой</xref> с
+        использованием чье-нибудь помощи.</li>
+      <li>3x(5-8) <xref href="../app_b/table1/hspu/og-app-b-wall_hespu.dita">отжиманий у стены в
+          стойке на голове</xref>.</li>
+      <li>3x(5-10) <xref href="../app_b/table3/dips/og-app-b-pb_dips.dita">вертикальных
+          отжиманий</xref> и <xref href="../app_b/table3/dips/og-app-b-l-dips.dita">вертикальных
+          отжиманий с L-уголком</xref>.</li>
+      <li>3x(5-10) <xref href="../app_b/table2/pullups/og-app-b-bar_pullups.dita">обычных
+          подтягиваний</xref> и <xref href="../app_b/table2/pullups/og-app-b-l-pullups.dita"
+          >подтягиваний L-уголком</xref></li>
+      <li>3x(5-10) <xref href="../app_b/table3/pushups/og-app-b-rto_pushups.dita">горизонтальных
+          отжиманий на развернутых кольцах</xref></li>
+      <li>3x(5-15) <xref href="../app_b/table2/rowing/og-app-b-ring_rows.dita">горизонтальных
+          подтягиваний</xref></li>
+      <li>+Ноги</li>
+    </ul>
+    <p>Горизонтальные подтягивания немного выбиваются из логики. Я предпочел увеличить количество
+      повторений для этого специфического упражнения, потому что оно способствует сохранению
+      здоровья плеч. Горизонтальная тяга, наряду с прогрессией Манна, лучше всех упражнений
+      способствует развитию силы и выносливости задней части плеч.</p>
+    <p>Вспомните, первое упражнение в комплексе должно быть то, в котором мы хотим
+      совершенствоваться больше всего. Для большинства людей это упражнение «горизонт», которое я и
+      разместил первым в первом примере. При необходимости переделайте комплекс под свои цели.</p>
+    <p>На этом уровне я так же предпочитаю диапазон в 5-8 повторений, как лучший для гипертрофии. По
+      мере прогресса в этих упражнениях вам нужно дойти до 8-10 повторений, а затем при переходе к
+      более трудному варианту сбросить количество повторений до 5 или даже меньше.</p>
+  </conbody>
+</concept>
