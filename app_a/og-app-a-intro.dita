@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-a-intro" xml:lang="ru">
-  <title>Приложение A. <text conref="#./shorttitle"/></title>
+  <title><text conref="#./shorttitle"/></title>
   <titlealts>
-    <navtitle><text id="shorttitle">Примеры программ</text></navtitle>
+    <navtitle><text id="shorttitle">Приложение A. Примеры программ</text></navtitle>
   </titlealts>
   <conbody/>
 </concept>

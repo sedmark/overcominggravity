@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-a-level-3-4-sample" xml:lang="ru">
-  <title><text id="title">Тренировочные программы</text></title>
+  <title><text id="title">Тренировочные программы 3-4 уровней</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
-    <p><u>Двух-четырехразовый комплекс в неделю на статику для всего тела</u> может быть выстроен
+    <p><u>Двух-ычетырехразовый комплекс в неделю на статику для всего тела</u> может быть выстроен
       следующим образом:<ul>
         <li>X секунд <xref href="../app_b/table3/planche/og-app-b-frog_stand.dita">стойки
             «лягушка»</xref> либо <xref href="../app_b/table3/planche/og-app-b-sa_frog_stand.dita"
