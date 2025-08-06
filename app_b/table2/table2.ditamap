@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map_table2" xml:lang="ru">
+<map id="map_table2" xml:lang="ru"  title="Упражнения таблицы 2">
 	<mapref href="back_lever/og-app-b-back_lever.ditamap"/>
 	<mapref href="front_lever/og-app-b-front_lever.ditamap"/>
 	<mapref href="fl_pullups/og-app-b-fl_pullups.ditamap"/>
