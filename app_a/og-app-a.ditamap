@@ -19,10 +19,10 @@
 		<topicref href="og-app-a-level-9-10.dita">
 			<topicref href="og-app-a-level-9-10-sample.dita"/>
 		</topicref>
-		<!--topicref href="og-app-a-level-11-12.dita">
+		<topicref href="og-app-a-level-11-12.dita">
 			<topicref href="og-app-a-level-11-12-sample.dita"/>
 		</topicref>
-		<topicref href="og-app-a-routines.dita"/>
+		<!--topicref href="og-app-a-routines.dita"/>
 		<topicref href="og-app-a-beyond.dita"/>
 		<topicref href="og-app-a-531.dita"/>
 		<topicref href="og-app-a-prehab.dita"/>
