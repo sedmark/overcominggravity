@@ -11,5 +11,6 @@
 			<topicref href="isometrics.dita" toc="no"/>
 			<topicref href="eccentrics.dita" toc="no"/>
 		</topicref>
+		<topicref href="og-app-c-how_to_construct.dita"/>
 	</topicref>
 </map>
