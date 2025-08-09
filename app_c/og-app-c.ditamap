@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map-app-a" xml:lang="ru">
+<map id="map-app-c" xml:lang="ru">
 	<topicref href="og-app-c-intro.dita">
 		<topicref href="table1.dita"/>
 		<topicref href="table2.dita"/>
