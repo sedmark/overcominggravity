@@ -47,5 +47,6 @@
     <booklists>
       <glossarylist href="common/glossary.ditamap" format="ditamap"/>
     </booklists>
+    <topicref href="ch0/og-ch0-about_author.dita"/>
   </backmatter>
 </bookmap>

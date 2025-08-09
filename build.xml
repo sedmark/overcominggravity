@@ -48,4 +48,27 @@
             <property name="clean.temp" value="yes"/>
         </ant>
     </target>
+    <target name="pdf">
+        <ant antfile="${ditadir}/build.xml">
+            <property name="args.input" value="OGbook.ditamap"/>
+            <!--property name="format" value="sass-bootstrap"/-->
+            <property name="transtype" value="pdf"/>
+            <property name="bootstrap.theme" value="united"/>
+            <property name="args.hdr" value="css/og.hdr.navbar.xml"/>
+            <property name="output.dir" value="${basedir}/out"/>
+            <!--property name="offline.mode" value="no"/>
+            <property name="lunr.support.include" value="yes"/-->
+						<!--
+            <property name="args.cssroot" value="${basedir}/css"/>
+            <property name="args.css" value="og_html5.css"/>
+            <property name="args.copycss" value="yes"/>
+            <property name="args.csspath" value="branding"/>
+						-->
+            <property name="args.filter" value="OGbook.ditaval"/>
+            <property name="nav-toc" value="full"/>
+            <property name="args.rellinks" value="all"/>
+            <property name="clean.temp" value="yes"/>
+            <property name="processing-mode" value="strict"/>
+        </ant>
+    </target>
 </project>
