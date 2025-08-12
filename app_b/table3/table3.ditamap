@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map_table3" xml:lang="ru" title="Упражнения таблицы 3">
-	<mapref href="planche/og-app-b-planche.ditamap"/>
-	<mapref href="rings_planche/og-app-b-rings_planche.ditamap"/>
-	<mapref href="pbfl_pl_pushups/og-app-b-pbfl_pl_pushups.ditamap"/>
-	<mapref href="rings_pl_pushups/og-app-b-rings_pl_pushups.ditamap"/>
-	<mapref href="pushups/og-app-b-pushups.ditamap"/>
-	<mapref href="one_arm_pushups/og-app-b-one_arm_pushups.ditamap"/>
-	<mapref href="dips/og-app-b-dips.ditamap"/>
-	<mapref href="ring_dips/og-app-b-ring_dips.ditamap"/>
-	<mapref href="weighted_dips/og-app-b-weighted_dips.ditamap"/>
+<map id="map_table3" xml:lang="ru">
+	<topicref href="group-topic.dita">
+		<mapref href="planche/og-app-b-planche.ditamap"/>
+		<mapref href="rings_planche/og-app-b-rings_planche.ditamap"/>
+		<mapref href="pbfl_pl_pushups/og-app-b-pbfl_pl_pushups.ditamap"/>
+		<mapref href="rings_pl_pushups/og-app-b-rings_pl_pushups.ditamap"/>
+		<mapref href="pushups/og-app-b-pushups.ditamap"/>
+		<mapref href="one_arm_pushups/og-app-b-one_arm_pushups.ditamap"/>
+		<mapref href="dips/og-app-b-dips.ditamap"/>
+		<mapref href="ring_dips/og-app-b-ring_dips.ditamap"/>
+		<mapref href="weighted_dips/og-app-b-weighted_dips.ditamap"/>
+	</topicref>
 </map>

@@ -29,7 +29,7 @@
             преодолевая гравитацию перенести вес или передвинуть какой-то объект в пространстве.</p><p>
             <fig>
               <title>Прогрессия горизонта</title>
-              <image placement="break" href="../images/ch01_01.png" align="center"/>
+              <image placement="break" href="../images/ch01_01.png" align="center" scalefit="yes"/>
             </fig>
               
           </p>Например, прогрессия <term keyref="gl-planche">горизонта</term> заключается в

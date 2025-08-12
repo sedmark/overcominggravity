@@ -9,7 +9,7 @@
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-hspu/abbrev"/>
-      <text id="shorttitle">Отжима-ния в стойке на руках</text>
+      <text id="shorttitle"><text conref="#./title"/></text>
     </data>
   </prolog>
   <conbody>

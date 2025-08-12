@@ -10,9 +10,11 @@
     <glossref keys="gl-strlsit" href="Glossary/sport/strlsit.dita" format="dita"/>
     <glossref keys="gl-vsit" href="Glossary/sport/vsit.dita" format="dita"/>
     <glossref keys="gl-zma" href="Glossary/physio/zma.dita" format="dita"/>
-    <glossref keys="gl-shoulderadduction" href="Glossary/physio/shoulderadduction.dita" format="dita"/>
-	<glossref keys="gl-actin" href="Glossary/physio/actin.dita" format="dita"/>
-    <glossref keys="gl-anaerobicmetabolism" href="Glossary/physio/anaerobicmetabolism.dita" format="dita"/>
+    <glossref keys="gl-shoulderadduction" href="Glossary/physio/shoulderadduction.dita"
+        format="dita"/>
+    <glossref keys="gl-actin" href="Glossary/physio/actin.dita" format="dita"/>
+    <glossref keys="gl-anaerobicmetabolism" href="Glossary/physio/anaerobicmetabolism.dita"
+        format="dita"/>
     <glossref keys="gl-atp" href="Glossary/physio/atp.dita" format="dita"/>
     <glossref keys="gl-rice" href="Glossary/physio/rice.dita" format="dita"/>
     <glossref keys="gl-pricem" href="Glossary/physio/pricem.dita" format="dita"/>
@@ -26,16 +28,16 @@
     <glossref keys="gl-press" href="Glossary/sport/press.dita" format="dita"/>
     <glossref keys="gl-backlever" href="Glossary/sport/backlever.dita" format="dita"/>
     <glossref keys="gl-innervation" href="Glossary/physio/innervation.dita" format="dita"/>
-	<glossref keys="gl-ages" href="Glossary/physio/ages.dita" format="dita"/>
-	<glossref keys="gl-doms" href="Glossary/physio/doms.dita" format="dita"/>
+    <glossref keys="gl-ages" href="Glossary/physio/ages.dita" format="dita"/>
+    <glossref keys="gl-doms" href="Glossary/physio/doms.dita" format="dita"/>
     <glossref keys="gl-manna" href="Glossary/sport/manna.dita" format="dita"/>
     <glossref keys="gl-htmu" href="Glossary/physio/htmu.dita" format="dita"/>
     <glossref keys="gl-ironcross" href="Glossary/sport/ironcross.dita" format="dita"/>
     <glossref keys="gl-ltmu" href="Glossary/physio/ltmu.dita" format="dita"/>
     <glossref keys="gl-mtmu" href="Glossary/physio/mtmu.dita" format="dita"/>
-	<glossref keys="gl-metabolite" href="Glossary/physio/metabolite.dita" format="dita"/>
-	<glossref keys="gl-myosin" href="Glossary/physio/myosin.dita" format="dita"/>
-	<glossref keys="gl-motoneuron" href="Glossary/physio/motoneuron.dita" format="dita"/>
+    <glossref keys="gl-metabolite" href="Glossary/physio/metabolite.dita" format="dita"/>
+    <glossref keys="gl-myosin" href="Glossary/physio/myosin.dita" format="dita"/>
+    <glossref keys="gl-motoneuron" href="Glossary/physio/motoneuron.dita" format="dita"/>
     <glossref keys="gl-mitochondria" href="Glossary/physio/mitochondria.dita" format="dita"/>
     <glossref keys="gl-motorplan" href="Glossary/physio/motorplan.dita" format="dita"/>
     <glossref keys="gl-germanhang" href="Glossary/sport/germanhang.dita" format="dita"/>
@@ -55,8 +57,8 @@
     <glossref keys="gl-hollowback" href="Glossary/sport/hollowback.dita" format="dita"/>
     <glossref keys="gl-progression" href="Glossary/sport/progression.dita" format="dita"/>
     <glossref keys="gl-proprioception" href="Glossary/physio/proprioception.dita" format="dita"/>
-	<glossref keys="gl-radiculopathy" href="Glossary/physio/radiculopathy.dita" format="dita"/>
-	<glossref keys="gl-rhabdomyolysis" href="Glossary/physio/rhabdomyolysis.dita" format="dita"/>
+    <glossref keys="gl-radiculopathy" href="Glossary/physio/radiculopathy.dita" format="dita"/>
+    <glossref keys="gl-rhabdomyolysis" href="Glossary/physio/rhabdomyolysis.dita" format="dita"/>
     <glossref keys="gl-maltese" href="Glossary/sport/maltese.dita" format="dita"/>
     <glossref keys="gl-presshs" href="Glossary/sport/presshs.dita" format="dita"/>
     <glossref keys="gl-rpresshs" href="Glossary/sport/rpresshs.dita" format="dita"/>

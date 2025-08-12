@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map_table4" xml:lang="ru" title="Упражнения таблицы 4">
-	<mapref href="muscle_ups/og-app-b-muscle_ups.ditamap"/>
-	<mapref href="elbow_levers/og-app-b-elbow_levers.ditamap"/>
-	<mapref href="flag/og-app-b-flag.ditamap"/>
-	<mapref href="ab_wheel/og-app-b-ab_wheel.ditamap"/>
-	<mapref href="rings_full_statics/og-app-b-rings_full_statics.ditamap"/>
-	<mapref href="rings_kip_skills/og-app-b-rings_kip_skills.ditamap"/>
-	<mapref href="rings_felge_skills/og-app-b-rings_felge_skills.ditamap"/>
+	<topicref href="group-topic.dita">
+		<mapref href="muscle_ups/og-app-b-muscle_ups.ditamap"/>
+		<mapref href="elbow_levers/og-app-b-elbow_levers.ditamap"/>
+		<mapref href="flag/og-app-b-flag.ditamap"/>
+		<mapref href="ab_wheel/og-app-b-ab_wheel.ditamap"/>
+		<mapref href="rings_full_statics/og-app-b-rings_full_statics.ditamap"/>
+		<mapref href="rings_kip_skills/og-app-b-rings_kip_skills.ditamap"/>
+		<mapref href="rings_felge_skills/og-app-b-rings_felge_skills.ditamap"/>
+	</topicref>
 </map>
