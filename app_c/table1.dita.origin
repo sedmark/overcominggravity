@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="ref" xml:lang="ru">
-    <title><text conref="#./title"/></title>
+<reference id="table1" xml:lang="ru">
+    <title><text id="title">Таблица прогрессий силы и навыков №1</text></title>
     <shortdesc/>
-    <prolog>
-        <data><text id="title">Таблица прогрессий силы и навыков №1</text></data>
-    </prolog>
     <refbody>
-        <table id="table" frame="all" colsep="1" rowsep="1" scale="80">
+        <table id="table1" orient="land" frame="all" colsep="1" rowsep="1" scale="70">
+            <!--title><text conref="#./title"/></title-->
             <title/>
             <tgroup cols="12">
-                <colspec colname="group" align="center" colwidth="1.5*"/>
-                <colspec colname="fig" align="center" colwidth="1.5*"/>
+                <!--colspec colname="group" align="center" colwidth="2*"/-->
+                <colspec colname="group" align="center" colwidth="1*"/>
+                <colspec colname="fig" align="center" colwidth="1*"/>
                 <colspec colname="level" align="center" colwidth="1*"/>
                 <colspec colname="1" align="center" colwidth="3*"/>
                 <colspec colname="2" align="center" colwidth="3*"/>
@@ -49,8 +48,8 @@
                         <entry>333</entry>
                     </row>
                     <row>
-                        <entry rotate="1" valign="top" align="right">Оценка автора</entry>
-                        <entry rotate="1" valign="top" align="right">Оценка МФГ</entry>
+                        <entry rotate="1" valign="top" align="right">Оценка&#160;автора</entry>
+                        <entry rotate="1" valign="top" align="right">Оценка&#160;МФГ</entry>
                         <entry rotate="1" valign="top" align="right">Уровень</entry>
                         <entry><xref href="../app_b/table1/hs/og-app-b-hs-intro.dita"
                                     ><text
@@ -94,7 +93,7 @@
                 <tbody>
                     <row>
                         <entry morerows="4" rotate="1" valign="top" align="right">Начальный</entry>
-                        <entry morerows="3" rotate="1" valign="top" align="right">Базовые навыки</entry>
+                        <entry morerows="3" rotate="1" valign="top" align="right">Базовые&#160;навыки</entry>
                         <entry>1</entry>
                         <entry><xref href="../app_b/table1/hs/og-app-b-wallhs.dita"><text
                                     conref="../app_b/table1/hs/og-app-b-wallhs.dita#og-app-b-wallhs/enabbrev"
@@ -168,7 +167,7 @@
                                 /></xref></entry>
                     </row>
                     <row>
-                        <entry morerows="3" rotate="1" valign="top" align="right">Уровень A</entry>
+                        <entry morerows="3" rotate="1" valign="top" align="right">Уровень&#160;A</entry>
                         <entry>5</entry>
                         <entry><xref href="../app_b/table1/hs/og-app-b-freehs.dita"><text
                                     conref="../app_b/table1/hs/og-app-b-freehs.dita#og-app-b-freehs/enabbrev"
@@ -285,7 +284,7 @@
                                 /></xref></entry>
                     </row>
                     <row>
-                        <entry morerows="3" rotate="1" valign="top" align="right">Уровень B</entry>
+                        <entry morerows="3" rotate="1" valign="top" align="right">Уровень&#160;B</entry>
                         <entry>9</entry>
                         <entry><xref href="../app_b/table1/hs/og-app-b-freehs_1fingers.dita"><text
                                     conref="../app_b/table1/hs/og-app-b-freehs_1fingers.dita#og-app-b-freehs_1fingers/enabbrev"
@@ -379,7 +378,7 @@
                                 /></xref></entry>
                     </row>
                     <row>
-                        <entry morerows="3" rotate="1" valign="top" align="right">Уровень C</entry>
+                        <entry morerows="3" rotate="1" valign="top" align="right">Уровень&#160;C</entry>
                         <entry>13</entry>
                         <entry/>
                         <entry/>
@@ -433,6 +432,5 @@
                 </tbody>
             </tgroup>
         </table>
-        <?pagebreak?>
     </refbody>
 </reference>

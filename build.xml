@@ -51,18 +51,18 @@
     <target name="pdf">
         <ant antfile="${ditadir}/build.xml">
             <property name="args.input" value="OGbook.ditamap"/>
-            <!--property name="format" value="sass-bootstrap"/-->
-            <property name="transtype" value="pdf"/>
+            <property name="transtype" value="pdf2"/>
             <property name="output.dir" value="${basedir}/out"/>
             <property name="args.filter" value="OGbook.ditaval"/>
             <property name="nav-toc" value="full"/>
-            <property name="args.rellinks" value="all"/>
+            <property name="args.rellinks" value="none"/>
             <property name="args.tablelink.style" value="NUMBER"/>
             <property name="args.artlbl" value="no"/>
-            <property name="clean.temp" value="no"/>
+            <property name="clean.temp" value="yes"/>
             <property name="pdf.formatter" value="fop"/>
             <property name="processing-mode" value="lax"/>
-
+						<property name="args.chapter.layout" value="BASIC"/>
+						<property name="args.bookmark.style" value="EXPANDED"/>
         </ant>
     </target>
 </project>

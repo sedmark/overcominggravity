@@ -11,12 +11,12 @@
    </titlealts>
    <shortdesc>
       <text conkeyref="gl-fl-pullups/def"/> (<text conref="#./enabbrev"/>). <xref
-         href="../../../app_c/table2.dita#table2/table2">Таблица 2, колонка 3</xref>
+         href="../../../app_c/table2.dita#ref/table">Таблица 2, колонка 3</xref>
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-fl-pullups/abbrev"/>
-         <text id="shorttitle">Подтяги-вания в переднем висе</text>
+         <text id="shorttitle">Подтяги- вания в переднем висе</text>
       </data>
    </prolog>
    <conbody>

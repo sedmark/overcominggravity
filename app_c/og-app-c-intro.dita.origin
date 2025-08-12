@@ -13,27 +13,5 @@
         >таблицы Прилепина</xref> для обычных концентрических упражнений, а также для изометрических
       и эксцентрических. Пользуйтесь ими при составлении собственных программ, чтобы рассчитать
       количество повторений и подходов.</p>
-    <?pagebreak?>
-    <!--
-    <table conref="table1.dita#ref/table">
-      <tgroup cols="1">
-        <tbody>
-          <row>
-            <entry></entry>
-          </row>
-        </tbody>
-      </tgroup>
-    </table>
-    <?pagebreak?>
-    <table conref="table2.dita#ref/table">
-      <tgroup cols="1">
-        <tbody>
-          <row>
-            <entry></entry>
-          </row>
-        </tbody>
-      </tgroup>
-    </table>
-    -->
   </conbody>
 </concept>

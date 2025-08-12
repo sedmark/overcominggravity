@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="table2" xml:lang="ru">
-    <title>Таблица прогрессий силы и навыков №2</title>
-    <shortdesc></shortdesc>
+<reference id="ref" xml:lang="ru">
+    <title><text conref="#./title"/></title>
+    <shortdesc/>
+    <prolog>
+        <data><text id="title">Таблица прогрессий силы и навыков №2</text></data>
+    </prolog>
     <refbody>
-        <table id="table2" orient="port" frame="all"  colsep="1" rowsep="1">
-            <title>Таблица 2</title>
+        <table id="table" frame="all" colsep="1" rowsep="1" scale="80">
+            <title/>
             <tgroup cols="12">
-                <colspec colname="group" align="center" colwidth="2*"/>
-                <colspec colname="fig" align="center" colwidth="2*"/>
+                <colspec colname="group" align="center" colwidth="1.5*"/>
+                <colspec colname="fig" align="center" colwidth="1.5*"/>
                 <colspec colname="level" align="center" colwidth="1*"/>
-                <colspec colname="1" align="center"/>
-                <colspec colname="2" align="center"/>
-                <colspec colname="3" align="center"/>
-                <colspec colname="4" align="center"/>
-                <colspec colname="5" align="center"/>
-                <colspec colname="6" align="center"/>
-                <colspec colname="7" align="center"/>
-                <colspec colname="8" align="center"/>
-                <colspec colname="9" align="center"/>
+                <colspec colname="1" align="center" colwidth="3*"/>
+                <colspec colname="2" align="center" colwidth="3*"/>
+                <colspec colname="3" align="center" colwidth="3*"/>
+                <colspec colname="4" align="center" colwidth="3*"/>
+                <colspec colname="5" align="center" colwidth="3*"/>
+                <colspec colname="6" align="center" colwidth="3*"/>
+                <colspec colname="7" align="center" colwidth="3*"/>
+                <colspec colname="8" align="center" colwidth="3*"/>
+                <colspec colname="9" align="center" colwidth="3*"/>
                 <thead>
                     <row valign="middle">
                         <entry namest="group" nameend="level" align="right">№&#160;колонки</entry>
@@ -45,9 +48,9 @@
                         <entry>399</entry>
                     </row>
                     <row>
-                        <entry rotate="1">Оценка автора</entry>
-                        <entry rotate="1">Оценка МФГ</entry>
-                        <entry rotate="1">Уровень</entry>
+                        <entry rotate="1" valign="top" align="right">Оценка автора</entry>
+                        <entry rotate="1" valign="top" align="right">Оценка МФГ</entry>
+                        <entry rotate="1" valign="top" align="right">Уровень</entry>
                         <entry rotate="0"><xref href="../app_b/table2/back_lever/og-app-b-back_lever-intro.dita"><text conref="../app_b/table2/back_lever/og-app-b-back_lever-intro.dita#og-app-b-back_lever-intro/shorttitle"/></xref></entry>
                         <entry rotate="0"><xref href="../app_b/table2/front_lever/og-app-b-front_lever-intro.dita"><text conref="../app_b/table2/front_lever/og-app-b-front_lever-intro.dita#og-app-b-front_lever-intro/shorttitle"/></xref></entry>
                         <entry rotate="0"><xref href="../app_b/table2/fl_pullups/og-app-b-fl_pullups-intro.dita"><text conref="../app_b/table2/fl_pullups/og-app-b-fl_pullups-intro.dita#og-app-b-fl_pullups-intro/shorttitle"/></xref></entry>
@@ -257,5 +260,6 @@
                 </tbody>
             </tgroup>
         </table>
+        <?pagebreak?>
     </refbody>
 </reference>
