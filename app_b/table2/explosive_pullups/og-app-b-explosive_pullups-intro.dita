@@ -11,12 +11,12 @@
    </titlealts>
    <shortdesc>
       <text conkeyref="gl-row/def"/> (<text conref="#./enabbrev"/>). <xref
-         href="../../../app_c/table2.dita#table2/table2">Таблица 2, колонка 8</xref>
+         href="../../../app_c/table2.dita">Таблица 2, колонка 8</xref>
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Explosive Pullups</text>
-         <text id="shorttitle">Взрывные подтяги-вания</text>
+         <text id="shorttitle">Взрывные подтягивания</text>
       </data>
    </prolog>
    <conbody>

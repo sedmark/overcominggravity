@@ -9,7 +9,7 @@
     <refbody>
         <table id="table" frame="all" colsep="1" rowsep="1" scale="80">
             <title/>
-            <tgroup cols="12">
+            <tgroup id="tgroup" cols="12">
                 <colspec colname="group" align="center" colwidth="1.5*"/>
                 <colspec colname="fig" align="center" colwidth="1.5*"/>
                 <colspec colname="level" align="center" colwidth="1*"/>

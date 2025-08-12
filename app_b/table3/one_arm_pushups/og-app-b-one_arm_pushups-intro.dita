@@ -10,12 +10,13 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/table3.dita#table3/table3">Таблица 3, колонка 6</xref>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). <xref
+         href="../../../app_c/table3.dita">Таблица 3, колонка 6</xref>
    </shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">One Arm Pushups</text>
-         <text id="shorttitle">Отжима-ния одной рукой</text>
+         <text id="shorttitle">Отжимания одной рукой</text>
       </data>
    </prolog>
    <conbody/>

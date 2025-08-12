@@ -10,7 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conkeyref="gl-flag/def"/> (<text conref="#./enabbrev"/>). <xref href="../../../app_c/table4.dita#table3/table4">Таблица 4, колонка 3</xref>
+      <text conkeyref="gl-flag/def"/> (<text conref="#./enabbrev"/>). <xref
+         href="../../../app_c/table4.dita">Таблица 4, колонка 3</xref>
    </shortdesc>
    <prolog>
       <data>

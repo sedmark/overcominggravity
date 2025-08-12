@@ -16,9 +16,9 @@
         </tbody>
       </tgroup>
     </table-->
-    <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table1.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table4.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
-    <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table2.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table4.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
-    <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table3.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table4.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
+    <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table1.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table1.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
+    <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table2.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table2.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
+    <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table3.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table3.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table4.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table4.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
   </conbody>
 </concept>
