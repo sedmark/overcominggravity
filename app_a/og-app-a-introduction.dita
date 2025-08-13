@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-a-intro" xml:lang="ru">
-  <title><text conref="og-app-a-intro.dita#og-app-a-intro/shorttitle"/>. <text id="shorttitle">Введение</text></title>
+  <title><text id="shorttitle">Введение</text></title>
   <titlealts>
     <navtitle><text conref="#./shorttitle"/></navtitle>
   </titlealts>

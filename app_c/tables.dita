@@ -1,21 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="tables" xml:lang="ru">
-  <title><text id="title">Справочные таблицы 2</text></title>
+  <!--
+  <title><text id="title">Справочные таблицы</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
+  -->
+  <title/>
   <conbody>
-    <?pagebreak?>
-    <!--table conref="table1.dita#ref/table" orient="port" frame="all" colsep="1" rowsep="1" scale="80">
-      <tgroup cols="1">
-        <tbody>
-          <row>
-            <entry/>
-          </row>
-        </tbody>
-      </tgroup>
-    </table-->
+    <!--?pagebreak?-->
     <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table1.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table1.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table2.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table2.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="table3.dita#ref/title"/> в альбомном развороте</title><tgroup conref="table3.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
