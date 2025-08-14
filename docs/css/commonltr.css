@@ -602,7 +602,7 @@ table .desc {
 }
 
 .entry.rotate {
-  writing-mode: vertical-rl;
+  writing-mode: sideways-lr;
 }
 
 .stentry {
