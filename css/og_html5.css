@@ -967,7 +967,7 @@ SDA
   transform: rotate(270deg);
 ****************************************/
 .entry.rotate {
-  writing-mode: sideways-lr;;
+  writing-mode: sideways-lr;
 }
 
 

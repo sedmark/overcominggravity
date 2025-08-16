@@ -28,13 +28,14 @@
     </target>
     <target name="boots">
         <ant antfile="${ditadir}/build.xml">
-            <property name="args.input" value="OGbook.ditamap"/>
+            <property name="args.input" value="OGbook_html.ditamap"/>
             <property name="format" value="html5-bootstrap"/>
             <property name="transtype" value="html5-bootstrap"/>
             <property name="bootstrap.theme" value="united"/>
             <!--property name="args.hdr" value="${ditadir}/plugins/net.infotexture.dita-bootstrap.lunr/includes/hdr.navbar.lunr.xml"/-->
             <!--property name="args.hdr" value="${basedir}/css/og.hdr.navbar.xml"/-->
             <property name="args.hdr" value="${basedir}/css/og.hdr.navbar.lunr.xml"/>
+            <property name="args.filter" value="OGbook_html.ditaval"/>
             <property name="output.dir" value="${basedir}/out"/>                             
 				    <property name="default.language" value="ru"/>
 
@@ -53,7 +54,7 @@
             <property name="args.input" value="OGbook.ditamap"/>
             <property name="transtype" value="pdf2"/>
             <property name="output.dir" value="${basedir}/out"/>
-            <property name="args.filter" value="OGbook.ditaval"/>
+            <property name="args.filter" value="OGbook_pdf.ditaval"/>
             <property name="nav-toc" value="full"/>
             <property name="args.rellinks" value="none"/>
             <property name="args.tablelink.style" value="NUMBER"/>

@@ -7,10 +7,10 @@
 		<topicref href="og-app-a-level-1-2.dita">
 			<topicref href="og-app-a-level-1-2-sample.dita"/>
 		</topicref>
-		<!--topicref href="og-app-a-level-3-4.dita">
+		<topicref href="og-app-a-level-3-4.dita">
 			<topicref href="og-app-a-level-3-4-sample.dita"/>
 		</topicref>
-		<topicref href="og-app-a-level-5-6.dita">
+		<!--topicref href="og-app-a-level-5-6.dita">
 			<topicref href="og-app-a-level-5-6-sample.dita"/>
 		</topicref>
 		<topicref href="og-app-a-level-7-8.dita">
