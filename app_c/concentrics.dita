@@ -1,45 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="concentrics" xml:lang="ru">
-    <title>Концентрика</title>
-    <shortdesc>Таблица Прилепина для концентрических упражнений</shortdesc>
-    <refbody>
-        <table id="tab" orient="port" frame="all"  colsep="1" rowsep="1">
-            <title>Концентрические упражнения</title>
-            <tgroup cols="4">
-                <colspec colname="1" align="center"/>
-                <colspec colname="2" align="center"/>
-                <colspec colname="3" align="center"/>
-                <colspec colname="4" align="center"/>
-                <thead>
-                    <row>
-                        <entry>Интенсивность</entry>
-                        <entry>Число повторений в подходе</entry>
-                        <entry>Общее число повторений (оптимальное)</entry>
-                        <entry>Суммарный диапазон повторений</entry>
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\admin\AppData\Local\Temp\temp20250817124011656?><?workdir-uri file:/C:/Users/admin/AppData/Local/Temp/temp20250817124011656/?><?path2project ..\..\..\..\..\..\?><?path2project-uri ../../../../../../?><?path2rootmap-uri ../ch08/?><?workdir /C:\Users\admin\AppData\Local\Temp\temp20250817123906077?><?workdir-uri file:/C:/Users/admin/AppData/Local/Temp/temp20250817123906077/?><?path2project ..\..\..\..\..\..\?><?path2project-uri ../../../../../../?><?path2rootmap-uri ../ch08/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concentrics" xml:lang="ru" ditaarch:DITAArchVersion="1.3" domains="a(props deliveryTarget)" class="- topic/topic       reference/reference " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="reference:1;1:1031" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="title:1;2:123">Концентрика</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="shortdesc:1;3:135">Таблица Прилепина для концентрических упражнений</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="refbody:1;4:151">
+        <table id="tab" orient="port" frame="all" colsep="1" rowsep="1" class="- topic/table " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="table:1;5:184">
+            <title class="- topic/title " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="title:2;6:131">Концентрические упражнения</title>
+            <tgroup cols="4" class="- topic/tgroup " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="tgroup:1;7:143">
+                <colspec colname="col1" align="center" class="- topic/colspec " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="colspec:1;8:184" colnum="1"/>
+                <colspec colname="col2" align="center" class="- topic/colspec " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="colspec:2;9:184" colnum="2"/>
+                <colspec colname="col3" align="center" class="- topic/colspec " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="colspec:3;10:184" colnum="3"/>
+                <colspec colname="col4" align="center" class="- topic/colspec " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="colspec:4;11:184" colnum="4"/>
+                <thead class="- topic/thead " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="thead:1;12:136">
+                    <row class="- topic/row " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="row:1;13:134">
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:1;14:187" colname="col1" dita-ot:x="1" dita-ot:y="1">Интенсивность</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:2;15:187" colname="col2" dita-ot:x="2" dita-ot:y="1">Число повторений в подходе</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:3;16:187" colname="col3" dita-ot:x="3" dita-ot:y="1">Общее число повторений (оптимальное)</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:4;17:187" colname="col4" dita-ot:x="4" dita-ot:y="1">Суммарный диапазон повторений</entry>
                     </row>
                 </thead>
-                <tbody>
-                    <row>
-                        <entry>78-82%</entry>
-                        <entry>8-10</entry>
-                        <entry>64</entry>
-                        <entry>50-80</entry>
+                <tbody class="- topic/tbody " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="tbody:1;20:136">
+                    <row class="- topic/row " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="row:2;21:134">
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:5;22:187" colname="col1" dita-ot:x="1" dita-ot:y="2">78-82%</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:6;23:187" colname="col2" dita-ot:x="2" dita-ot:y="2">8-10</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:7;24:187" colname="col3" dita-ot:x="3" dita-ot:y="2">64</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:8;25:187" colname="col4" dita-ot:x="4" dita-ot:y="2">50-80</entry>
                     </row>
-                    <row>
-                        <entry>83-86%</entry>
-                        <entry>6-7 </entry>
-                        <entry>48</entry>
-                        <entry>36-65 </entry>
+                    <row class="- topic/row " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="row:3;27:134">
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:9;28:187" colname="col1" dita-ot:x="1" dita-ot:y="3">83-86%</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:10;29:188" colname="col2" dita-ot:x="2" dita-ot:y="3">6-7 </entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:11;30:188" colname="col3" dita-ot:x="3" dita-ot:y="3">48</entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:12;31:188" colname="col4" dita-ot:x="4" dita-ot:y="3">36-65 </entry>
                     </row>
-                    <row>
-                        <entry><b><i>87-93%</i></b></entry>
-                        <entry><b><i>3-5 </i></b></entry>
-                        <entry><b><i>37</i></b></entry>
-                        <entry><b><i>25-50 </i></b></entry>
+                    <row class="- topic/row " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="row:4;33:134">
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:13;34:188" colname="col1" dita-ot:x="1" dita-ot:y="4"><b class="+ topic/ph hi-d/b " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="b:1;34:303"><i class="+ topic/ph hi-d/i " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="i:1;34:418">87-93%</i></b></entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:14;35:188" colname="col2" dita-ot:x="2" dita-ot:y="4"><b class="+ topic/ph hi-d/b " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="b:2;35:303"><i class="+ topic/ph hi-d/i " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="i:2;35:418">3-5 </i></b></entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:15;36:188" colname="col3" dita-ot:x="3" dita-ot:y="4"><b class="+ topic/ph hi-d/b " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="b:3;36:303"><i class="+ topic/ph hi-d/i " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="i:3;36:418">37</i></b></entry>
+                        <entry class="- topic/entry " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="entry:16;37:188" colname="col4" dita-ot:x="4" dita-ot:y="4"><b class="+ topic/ph hi-d/b " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="b:4;37:303"><i class="+ topic/ph hi-d/i " xtrf="file:/F:/Work/MyGit/overcominggravity/app_c/concentrics.dita" xtrc="i:4;37:418">25-50 </i></b></entry>
                     </row>
                 </tbody>
             </tgroup>
         </table>
     </refbody>
-</reference>    
+</reference>
