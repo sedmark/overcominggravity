@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/ba_bb_press.png" align="left"/><text conref="#./title"/>. Уровень 5</shortdesc>
+  <shortdesc><image href="img/ba_bb_press.png" align="left" scale="50" placement="break"/><text conref="#./title"/>. Уровень 5</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">BA BB press</text>

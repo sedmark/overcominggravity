@@ -9,7 +9,7 @@
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc><image href="img/1_leg_bent_l-sit.png" align="left"/><text conref="#./title"/>. Этап 1. Уровень 2</shortdesc>
+   <shortdesc><image href="img/1_leg_bent_l-sit.png" align="left" scale="50" placement="break"/><text conref="#./title"/>. Этап 1. Уровень 2</shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">1 leg bent L-sit</text>

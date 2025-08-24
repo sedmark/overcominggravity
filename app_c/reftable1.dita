@@ -52,40 +52,34 @@
                         <entry rotate="1" valign="top" align="right">Оценка автора</entry>
                         <entry rotate="1" valign="top" align="right">Оценка МФГ</entry>
                         <entry rotate="1" valign="top" align="right">Уровень</entry>
-                        <entry><xref href="../app_b/table1/hs/og-app-b-hs-intro.dita"
-                                    ><text
+                        <entry><xref href="../app_b/table1/hs/og-app-b-hs-intro.dita"><text
                                     conref="../app_b/table1/hs/og-app-b-hs-intro.dita#og-app-b-handstands-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref
-                                href="../app_b/table1/ringshs/og-app-b-r_hs-intro.dita"><text
+                        <entry><xref href="../app_b/table1/ringshs/og-app-b-r_hs-intro.dita"><text
                                     conref="../app_b/table1/ringshs/og-app-b-r_hs-intro.dita#og-app-b-r_hs-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref href="../app_b/table1/hspu/og-app-b-hspu-intro.dita"
-                                    ><text
+                        <entry><xref href="../app_b/table1/hspu/og-app-b-hspu-intro.dita"><text
                                     conref="../app_b/table1/hspu/og-app-b-hspu-intro.dita#og-app-b-hspu-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref
-                                href="../app_b/table1/rhspu/og-app-b-rhspu-intro.dita"><text
+                        <entry><xref href="../app_b/table1/rhspu/og-app-b-rhspu-intro.dita"><text
                                     conref="../app_b/table1/rhspu/og-app-b-rhspu-intro.dita#og-app-b-rhspu-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref
-                                href="../app_b/table1/press/og-app-b-press-intro.dita"><text
+                        <entry><xref href="../app_b/table1/press/og-app-b-press-intro.dita"><text
                                     conref="../app_b/table1/press/og-app-b-press-intro.dita#og-app-b-press-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref
-                                href="../app_b/table1/presshs/og-app-b-presshs-intro.dita"><text
+                        <entry><xref href="../app_b/table1/presshs/og-app-b-presshs-intro.dita"
+                                    ><text
                                     conref="../app_b/table1/presshs/og-app-b-presshs-intro.dita#og-app-b-presshs-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref
-                                href="../app_b/table1/rpresshs/og-app-b-rpresshs-intro.dita"><text
+                        <entry><xref href="../app_b/table1/rpresshs/og-app-b-rpresshs-intro.dita"
+                                    ><text
                                     conref="../app_b/table1/rpresshs/og-app-b-rpresshs-intro.dita#og-app-b-rpresshs-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref
-                                href="../app_b/table1/sapresshs/og-app-b-sapresshs-intro.dita"><text
+                        <entry><xref href="../app_b/table1/sapresshs/og-app-b-sapresshs-intro.dita"
+                                    ><text
                                     conref="../app_b/table1/sapresshs/og-app-b-sapresshs-intro.dita#og-app-b-sapresshs-intro/shorttitle"
                                 /></xref></entry>
-                        <entry><xref href="../app_b/table1/sit/og-app-b-sit-intro.dita"
-                                    ><text
+                        <entry><xref href="../app_b/table1/sit/og-app-b-sit-intro.dita"><text
                                     conref="../app_b/table1/sit/og-app-b-sit-intro.dita#og-app-b-sit-intro/shorttitle"
                                 /></xref>
                         </entry>
@@ -94,7 +88,8 @@
                 <tbody>
                     <row>
                         <entry morerows="4" rotate="1" valign="top" align="right">Начальный</entry>
-                        <entry morerows="3" rotate="1" valign="top" align="right">Базовые навыки</entry>
+                        <entry morerows="3" rotate="1" valign="top" align="right">Базовые
+                            навыки</entry>
                         <entry>1</entry>
                         <entry><xref href="../app_b/table1/hs/og-app-b-wallhs.dita"><text
                                     conref="../app_b/table1/hs/og-app-b-wallhs.dita#og-app-b-wallhs/enabbrev"
@@ -263,7 +258,8 @@
                         <entry/>
                         <entry/>
                         <entry><xref href="../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita"><image
-                                    href="../app_b/table2/iron_cross/img/icon_cross.png"/><text
+                                    href="../app_b/table2/iron_cross/img/icon_cross.png"
+                                    placement="break"/><text
                                     conref="../app_b/table1/rhspu/og-app-b-r_strap_hspu.dita#og-app-b-r_strap_hspu/enabbrev"
                                 /></xref></entry>
                         <entry>100%</entry>
@@ -277,7 +273,7 @@
                         <entry outputclass="gray"><xref
                                 href="../app_b/table1/sapresshs/og-app-b-l-sit_str-l_str_press.dita"
                                     ><image href="../app_b/table2/iron_cross/img/icon_cross.png"
-                                    /><text
+                                    placement="break"/><text
                                     conref="../app_b/table1/sapresshs/og-app-b-l-sit_str-l_str_press.dita#og-app-b-l-sit_str-l_str_press/enabbrev"
                                 /></xref></entry>
                         <entry><xref href="../app_b/table1/sit/og-app-b-100_deg_v-sit.dita"><text
@@ -312,7 +308,8 @@
                                 /></xref></entry>
                     </row>
                     <row>
-                        <entry morerows="3" rotate="1" valign="top" align="right">Продвинутый</entry>
+                        <entry morerows="3" rotate="1" valign="top" align="right"
+                            >Продвинутый</entry>
                         <entry>10</entry>
                         <entry><xref href="../app_b/table1/hs/og-app-b-onearmhs.dita"><text
                                     conref="../app_b/table1/hs/og-app-b-onearmhs.dita#og-app-b-onearmhs/enabbrev"

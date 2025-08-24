@@ -5,7 +5,8 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/wallhs.png" align="left"/><text conref="#./title"/>. Уровни 1-4</shortdesc>
+  <shortdesc><image href="img/wallhs.png" align="left" height="180" placement="break"/>
+    <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровни 1-4</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev" conkeyref="gl-wallhs/abbrev"/>

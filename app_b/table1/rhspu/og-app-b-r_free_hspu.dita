@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/r_free_hspu.png" align="left"/><text conref="#./title"/>. Уровень 9</shortdesc>
+  <shortdesc><image href="img/r_free_hspu.png" align="left" scale="50" placement="break"/><text conref="#./title"/>. Уровень 9</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">R free HSPU</text>

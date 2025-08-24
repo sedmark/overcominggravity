@@ -6,7 +6,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><text conref="#./title"/></shortdesc>
+  <shortdesc><text conref="#./title"/> (<text conref="#./enabbrev"/>)</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">Free HS 1&#160;fingers</text>

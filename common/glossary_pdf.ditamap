@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru" deliveryTarget="pdf">
+    <topicgroup id="glosskey" deliveryTarget="pdf">
+        <keydef keys="gl-bcaa" href="Glossary/physio/bcaa.dita" format="dita"/>
+        <keydef keys="gl-rhs" href="Glossary/sport/rhs.dita" format="dita"/>
+        <keydef keys="gl-naturalcalm" href="Glossary/physio/naturalcalm.dita" format="dita"/>
+        <keydef keys="gl-slap" href="Glossary/physio/slap.dita" format="dita"/>
+        <keydef keys="gl-smart" href="Glossary/smart.dita" format="dita"/>
+        <keydef keys="gl-lsit" href="Glossary/sport/lsit.dita" format="dita"/>
+        <keydef keys="gl-strlsit" href="Glossary/sport/strlsit.dita" format="dita"/>
+        <keydef keys="gl-vsit" href="Glossary/sport/vsit.dita" format="dita"/>
+        <keydef keys="gl-zma" href="Glossary/physio/zma.dita" format="dita"/>
+        <keydef keys="gl-shoulderadduction" href="Glossary/physio/shoulderadduction.dita" format="dita"/>
+        <keydef keys="gl-actin" href="Glossary/physio/actin.dita" format="dita"/>
+        <keydef keys="gl-anaerobicmetabolism" href="Glossary/physio/anaerobicmetabolism.dita" format="dita"/>
+        <keydef keys="gl-atp" href="Glossary/physio/atp.dita" format="dita"/>
+        <keydef keys="gl-rice" href="Glossary/physio/rice.dita" format="dita"/>
+        <keydef keys="gl-pricem" href="Glossary/physio/pricem.dita" format="dita"/>
+        <keydef keys="gl-bodyweighter" href="Glossary/sport/bodyweighter.dita" format="dita"/>
+        <keydef keys="gl-vascularization" href="Glossary/physio/vascularization.dita" format="dita"/>
+        <keydef keys="gl-dips" href="Glossary/sport/dips.dita" format="dita"/>
+        <keydef keys="gl-mu" href="Glossary/sport/mu.dita" format="dita"/>
+        <keydef keys="gl-planche" href="Glossary/sport/planche.dita" format="dita"/>
+        <keydef keys="gl-el" href="Glossary/sport/el.dita" format="dita"/>
+        <keydef keys="gl-row" href="Glossary/sport/row.dita" format="dita"/>
+        <keydef keys="gl-press" href="Glossary/sport/press.dita" format="dita"/>
+        <keydef keys="gl-backlever" href="Glossary/sport/backlever.dita" format="dita"/>
+        <keydef keys="gl-innervation" href="Glossary/physio/innervation.dita" format="dita"/>
+        <keydef keys="gl-ages" href="Glossary/physio/ages.dita" format="dita"/>
+        <keydef keys="gl-doms" href="Glossary/physio/doms.dita" format="dita"/>
+        <keydef keys="gl-manna" href="Glossary/sport/manna.dita" format="dita"/>
+        <keydef keys="gl-htmu" href="Glossary/physio/htmu.dita" format="dita"/>
+        <keydef keys="gl-ironcross" href="Glossary/sport/ironcross.dita" format="dita"/>
+        <keydef keys="gl-ltmu" href="Glossary/physio/ltmu.dita" format="dita"/>
+        <keydef keys="gl-mtmu" href="Glossary/physio/mtmu.dita" format="dita"/>
+        <keydef keys="gl-metabolite" href="Glossary/physio/metabolite.dita" format="dita"/>
+        <keydef keys="gl-myosin" href="Glossary/physio/myosin.dita" format="dita"/>
+        <keydef keys="gl-motoneuron" href="Glossary/physio/motoneuron.dita" format="dita"/>
+        <keydef keys="gl-mitochondria" href="Glossary/physio/mitochondria.dita" format="dita"/>
+        <keydef keys="gl-motorplan" href="Glossary/physio/motorplan.dita" format="dita"/>
+        <keydef keys="gl-germanhang" href="Glossary/sport/germanhang.dita" format="dita"/>
+        <keydef keys="gl-nsaid" href="Glossary/physio/nsaid.dita" format="dita"/>
+        <keydef keys="gl-occlusion" href="Glossary/physio/occlusion.dita" format="dita"/>
+        <keydef keys="gl-invertedcross" href="Glossary/sport/invertedcross.dita" format="dita"/>
+        <keydef keys="gl-victorian" href="Glossary/sport/victorian.dita" format="dita"/>
+        <keydef keys="gl-pushups" href="Glossary/sport/pushups.dita" format="dita"/>
+        <keydef keys="gl-hspu" href="Glossary/sport/hspu.dita" format="dita"/>
+        <keydef keys="gl-rhspu" href="Glossary/sport/rhspu.dita" format="dita"/>
+        <keydef keys="gl-frontlever" href="Glossary/sport/frontlever.dita" format="dita"/>
+        <keydef keys="gl-rm" href="Glossary/sport/rm.dita" format="dita"/>
+        <keydef keys="gl-pullups" href="Glossary/sport/pullups.dita" format="dita"/>
+        <keydef keys="gl-fl-pullups" href="Glossary/sport/fl-pullups.dita" format="dita"/>
+        <keydef keys="gl-rpullups" href="Glossary/sport/rpullups.dita" format="dita"/>
+        <keydef keys="gl-oac" href="Glossary/sport/oac.dita" format="dita"/>
+        <keydef keys="gl-hollowback" href="Glossary/sport/hollowback.dita" format="dita"/>
+        <keydef keys="gl-progression" href="Glossary/sport/progression.dita" format="dita"/>
+        <keydef keys="gl-proprioception" href="Glossary/physio/proprioception.dita" format="dita"/>
+        <keydef keys="gl-radiculopathy" href="Glossary/physio/radiculopathy.dita" format="dita"/>
+        <keydef keys="gl-rhabdomyolysis" href="Glossary/physio/rhabdomyolysis.dita" format="dita"/>
+        <keydef keys="gl-maltese" href="Glossary/sport/maltese.dita" format="dita"/>
+        <keydef keys="gl-presshs" href="Glossary/sport/presshs.dita" format="dita"/>
+        <keydef keys="gl-rpresshs" href="Glossary/sport/rpresshs.dita" format="dita"/>
+        <keydef keys="gl-sapresshs" href="Glossary/sport/sapresshs.dita" format="dita"/>
+        <keydef keys="gl-onearmhs" href="Glossary/sport/onearmhs.dita" format="dita"/>
+        <keydef keys="gl-freehs" href="Glossary/sport/freehs.dita" format="dita"/>
+        <keydef keys="gl-wallhs" href="Glossary/sport/wallhs.dita" format="dita"/>
+        <keydef keys="gl-hs" href="Glossary/sport/hs.dita" format="dita"/>
+        <keydef keys="gl-golgi" href="Glossary/physio/golgi.dita" format="dita"/>
+        <keydef keys="gl-flag" href="Glossary/sport/flag.dita" format="dita"/>
+        <keydef keys="gl-gtg" href="Glossary/sport/gtg.dita" format="dita"/>
+        <keydef keys="gl-rto" href="Glossary/sport/rto.dita" format="dita"/>
+    </topicgroup>
+</map>

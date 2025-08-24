@@ -9,7 +9,7 @@
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc><image href="img/tuck_l-sit.png" align="left"/><text conref="#./title"/>. Этап 1. Уровень 1</shortdesc>
+   <shortdesc><image href="img/tuck_l-sit.png" align="left" scale="50" placement="break"/><text conref="#./title"/>. Этап 1. Уровень 1</shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">Tuck L-sit</text>

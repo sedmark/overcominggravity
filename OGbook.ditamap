@@ -52,10 +52,10 @@
     <appendix href="app_c/og-app-c.ditamap" format="ditamap"/>
   </appendices>
   <backmatter>
-    <!--mapref href="app_c/og-app-c.ditamap" format="ditamap"/-->
-    <booklists>
+    <booklists deliveryTarget="html">
       <glossarylist href="common/glossary.ditamap" format="ditamap"/>
     </booklists>
+    <mapref href="common/glossary_pdf.ditamap" format="ditamap" deliveryTarget="pdf"/>
     <topicref href="ch0/og-ch0-about_author.dita"/>
   </backmatter>
 </bookmap>

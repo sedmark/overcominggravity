@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc id="shortdesc">
-      <image href="img/tuck_bl.png" align="left"/>
+      <image href="img/tuck_bl.png" align="left" scale="50" placement="break"/>
       <text conref="#./title"/>. Уровень 3
    </shortdesc>
    <prolog>

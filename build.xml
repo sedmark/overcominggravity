@@ -61,9 +61,10 @@
             <property name="args.artlbl" value="no"/>
             <property name="clean.temp" value="yes"/>
             <property name="pdf.formatter" value="fop"/>
-            <property name="processing-mode" value="lax"/>
+            <property name="processing-mode" value="strict"/>
 						<property name="args.chapter.layout" value="BASIC"/>
 						<property name="args.bookmark.style" value="EXPANDED"/>
+            <property name="clean.temp" value="no"/>
         </ant>
     </target>
 </project>

@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc id="shortdesc">
-      <image href="img/phase3-sit.png" align="left"/>
+      <image href="img/phase3-sit.png" align="left" scale="50" placement="break"/>
       <text conref="#./title"/>
    </shortdesc>
    <conbody id="phase3">

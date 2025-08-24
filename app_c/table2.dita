@@ -21,7 +21,7 @@
     </div>
     <div deliveryTarget="pdf">
       <table orient="port" frame="all" colsep="1" rowsep="1" scale="80">
-        <title><text conref="reftable1.dita#ref/title"/></title>
+        <title><text conref="reftable2.dita#ref/title"/></title>
         <tgroup conref="reftable2.dita#ref/tgroup" cols="1">
           <tbody>
             <row>
