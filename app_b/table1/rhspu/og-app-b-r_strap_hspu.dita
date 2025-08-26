@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/r_strap_hspu.png" align="left" scale="50" placement="break"/><text conref="#./title"/> (с прижатыми локтями). Уровень 8</shortdesc>
+  <shortdesc><image href="img/r_strap_hspu.png" align="left" height="16em" placement="break"/><text conref="#./title"/> (с прижатыми локтями). Уровень 8</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">R strap HSPU</text>

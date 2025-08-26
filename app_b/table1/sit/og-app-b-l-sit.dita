@@ -9,7 +9,7 @@
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc><image href="img/l-sit.png" align="left" scale="50" placement="break"/><text conref="#./title"/>. Этап 1. Уровень 3</shortdesc>
+   <shortdesc><image href="img/l-sit.png" align="left" height="8em" placement="break"/><text conref="#./title"/>. Этап 1. Уровень 3</shortdesc>
    <prolog>
       <data>
          <text id="enabbrev">L-sit</text>

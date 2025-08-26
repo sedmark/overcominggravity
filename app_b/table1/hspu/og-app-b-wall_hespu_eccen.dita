@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/wall_hespu_eccen.png" align="left" scale="50" placement="break"/>Эксцентрические
+  <shortdesc><image href="img/wall_hespu_eccen.png" align="left" height="16em" placement="break"/>Эксцентрические
     отжимания у стены в стойке на голове. Уровень 3</shortdesc>
   <prolog>
     <data>
