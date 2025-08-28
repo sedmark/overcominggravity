@@ -1,15 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="map_table1" xml:lang="ru">
+<map id="map_table1" xml:lang="ru" title="Упражнения таблицы 1">
 	<topicref href="group-topic.dita">
 		<mapref href="hs/og-app-b-hs.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="ringshs/og-app-b-r_hs.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="hspu/og-app-b-hspu.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rhspu/og-app-b-rhspu.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="press/og-app-b-press.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="presshs/og-app-b-presshs.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rpresshs/og-app-b-rpresshs.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="sapresshs/og-app-b-sapresshs.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="sit/og-app-b-sit.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 	</topicref>
 </map>
