@@ -5,6 +5,7 @@
 		<mapref href="back_lever/og-app-b-back_lever.ditamap"/>
 		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="front_lever/og-app-b-front_lever.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="fl_pullups/og-app-b-fl_pullups.ditamap"/>
 		<mapref href="rowing/og-app-b-rowing.ditamap"/>
 		<mapref href="pullups/og-app-b-pullups.ditamap"/>
