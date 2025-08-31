@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/back_kip_to_support.png" align="left" height="8em" placement="break"/>
+      <image href="img/back_kip_to_support.png" align="left" height="12em" placement="break"/>
       <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 7
    </shortdesc>
    <prolog>
