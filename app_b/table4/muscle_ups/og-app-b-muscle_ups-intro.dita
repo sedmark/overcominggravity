@@ -17,7 +17,7 @@
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-mu/en"/>
-         <text id="shorttitle">Выходы силой / Перевер<text deliveryTarget="pdf">-&#x0A;</text>нутые выходы силой</text>
+         <text id="shorttitle">Выходы силой / Перевер<text deliveryTarget="pdf">&#8203;</text>нутые выходы силой</text>
       </data>
    </prolog>
    <conbody>

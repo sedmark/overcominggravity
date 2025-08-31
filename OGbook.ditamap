@@ -48,8 +48,8 @@
     <mapref href="app_c/og-app-c.ditamap" format="ditamap"/>
   </part-->
   <appendices navtitle="Часть III — Справочные материалы">
-    <!--appendix href="app_a/og-app-a.ditamap" format="ditamap"/>
-    <appendix href="app_b/og-app-b.ditamap" format="ditamap"/-->
+    <appendix href="app_a/og-app-a.ditamap" format="ditamap"/>
+    <appendix href="app_b/og-app-b.ditamap" format="ditamap"/>
     <appendix href="app_c/og-app-c.ditamap" format="ditamap"/>
   </appendices>
   <backmatter>

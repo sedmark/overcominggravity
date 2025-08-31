@@ -60,7 +60,12 @@
             <property name="args.tablelink.style" value="NUMBER"/>
             <property name="args.artlbl" value="no"/>
             <property name="clean.temp" value="yes"/>
+            <!--property name="pdf.formatter" value="ah"/-->
             <property name="pdf.formatter" value="fop"/>
+
+            <!--property name="pdf.formatter" value="xep"/>
+						<property name="custom.xep.config" value="${ditadir}/plugins/org.dita.pdf2/lib/xep/xep.xml"/-->
+
             <property name="processing-mode" value="strict"/>
 						<property name="args.chapter.layout" value="BASIC"/>
 						<property name="args.bookmark.style" value="EXPANDED"/>

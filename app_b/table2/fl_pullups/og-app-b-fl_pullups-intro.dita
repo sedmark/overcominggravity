@@ -16,7 +16,7 @@
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-fl-pullups/abbrev"/>
-         <text id="shorttitle">Подтяги<text deliveryTarget="pdf">-&#x0A;</text>вания в переднем висе</text>
+         <text id="shorttitle">Подтяги<text deliveryTarget="pdf">&#8203;</text>вания в переднем висе</text>
       </data>
    </prolog>
    <conbody>

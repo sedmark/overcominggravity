@@ -17,7 +17,7 @@
       <data>
          <text id="enabbrev1" conkeyref="gl-rpullups/abbrev"/>
          <text id="enabbrev2" conkeyref="gl-oac/abbrev"/>
-         <text id="shorttitle">Подтяги<text deliveryTarget="pdf">-&#x0A;</text>вания на кольцах и на одной руке</text>
+         <text id="shorttitle">Подтяги<text deliveryTarget="pdf">&#8203;</text>вания на кольцах и на одной руке</text>
       </data>
    </prolog>
    <conbody>

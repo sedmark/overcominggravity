@@ -16,7 +16,7 @@
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-row/abbrev"/>
-         <text id="shorttitle">Горизон<text deliveryTarget="pdf">-&#x0A;</text>тальные подтяги<text deliveryTarget="pdf">-&#x0A;</text>вания</text>
+         <text id="shorttitle">Горизон<text deliveryTarget="pdf">&#8203;</text>тальные подтяги<text deliveryTarget="pdf">&#8203;</text>вания</text>
       </data>
    </prolog>
    <conbody>

@@ -14,7 +14,7 @@
    </shortdesc>
    <prolog>
       <data>
-         <text id="enabbrev">Собствен<text deliveryTarget="pdf">-&#x0A;</text>ный вес</text>
+         <text id="enabbrev">Собствен<text deliveryTarget="pdf">&#8203;</text>ный вес</text>
       </data>
    </prolog>
    <conbody conref="og-app-b-weighted_pullups-intro.dita#og-app-b-weighted_pullups-intro/conbody"/>

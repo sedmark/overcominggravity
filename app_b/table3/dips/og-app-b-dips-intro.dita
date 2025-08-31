@@ -16,7 +16,7 @@
    <prolog>
       <data>
          <text id="enabbrev" conkeyref="gl-dips/abbrev"/>
-         <text id="shorttitle">Верти<text deliveryTarget="pdf">-&#x0A;</text>кальные отжимания</text>
+         <text id="shorttitle">Верти<text deliveryTarget="pdf">&#8203;</text>кальные отжимания</text>
       </data>
    </prolog>
    <conbody>
