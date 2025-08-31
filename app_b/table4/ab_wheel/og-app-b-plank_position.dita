@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/plank_position.png" align="left"/>
+      <image href="img/plank_position.png" align="left" height="8em" placement="break"/>
    </shortdesc>
    <prolog>
       <data>

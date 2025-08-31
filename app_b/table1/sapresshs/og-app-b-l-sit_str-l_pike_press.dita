@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/l-sit_str-l_pike_press.png" align="left" height="16em" placement="break"/><text conref="#./title"/>. Уровень 9</shortdesc>
+  <shortdesc><image href="img/l-sit_str-l_pike_press.png" align="left" height="16em" placement="break"/><text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 9</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">L-sit/str-L pike press</text>

@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/support_holds.png" align="left"/>
+      <image href="img/support_holds.png" align="left" height="16em" placement="break"/>
       <text conref="#./title"/>. Уровни 1 и 2
    </shortdesc>
    <prolog>

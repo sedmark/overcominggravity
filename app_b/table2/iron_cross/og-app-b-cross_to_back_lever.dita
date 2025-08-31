@@ -10,8 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/cross_to_back_lever.png" align="left"/>
-      <text conref="#./title"/>. Уровень 11
+      <image href="img/cross_to_back_lever.png" align="left" height="16em" placement="break"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 11
    </shortdesc>
    <prolog>
       <data>

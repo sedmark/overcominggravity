@@ -10,8 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/non-kip_btb_clap.png" align="left"/>
-      <text conref="#./title"/>. Уровень 11
+      <image href="img/non-kip_btb_clap.png" align="left" height="12em" placement="break"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 11
    </shortdesc>
    <prolog>
       <data>

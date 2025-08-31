@@ -10,8 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/felge_fwd_sa_to_cross.png" align="left"/>
-      <text conref="#./title"/>. Уровень 13
+      <image href="img/felge_fwd_sa_to_cross.png" align="left" height="16em" placement="break"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 13
    </shortdesc>
    <prolog>
       <data>

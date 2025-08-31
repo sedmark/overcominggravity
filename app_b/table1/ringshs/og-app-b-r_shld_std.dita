@@ -5,7 +5,7 @@
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
-  <shortdesc><image href="img/r_shld_std.png" align="left" height="12em" placement="break"/><text conref="#./title"/>. Уровень 5</shortdesc>
+  <shortdesc><image href="img/r_shld_std.png" align="left" height="12em" placement="break"/><text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 5</shortdesc>
   <prolog>
     <data>
       <text id="enabbrev">R shld std</text>

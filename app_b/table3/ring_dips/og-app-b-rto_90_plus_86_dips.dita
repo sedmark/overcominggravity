@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <text conref="#./title"/>. Уровень 15
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 15
    </shortdesc>
    <prolog>
       <data>

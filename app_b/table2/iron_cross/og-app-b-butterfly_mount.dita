@@ -10,8 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/butterfly_mount.png" align="left"/>
-      <text conref="#./title"/>. Уровень 15
+      <image href="img/butterfly_mount.png" align="left" height="16em" placement="break"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 15
    </shortdesc>
    <prolog>
       <data>

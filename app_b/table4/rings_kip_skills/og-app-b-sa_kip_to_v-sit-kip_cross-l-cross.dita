@@ -10,8 +10,8 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/sa_kip_to_v-sit-kip_cross-l-cross.png" align="left"/>
-      <text conref="#./title"/>. Уровень 13
+      <image href="img/sa_kip_to_v-sit-kip_cross-l-cross.png" align="left" height="24em" placement="break"/>
+      <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 13
    </shortdesc>
    <prolog>
       <data>
