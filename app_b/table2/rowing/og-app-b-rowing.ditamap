@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-rowing" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="rowing-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-rowing-intro.dita">
       <topicref href="og-app-b-ring_rows.dita" toc="no"/>
       <topicref href="og-app-b-wide_ring_rows.dita" toc="no"/>

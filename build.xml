@@ -62,6 +62,7 @@
             <property name="clean.temp" value="yes"/>
             <!--property name="pdf.formatter" value="ah"/-->
             <property name="pdf.formatter" value="fop"/>
+            <property name="customization.dir" value="PluginCustom"/>
 
             <!--property name="pdf.formatter" value="xep"/>
 						<property name="custom.xep.config" value="${ditadir}/plugins/org.dita.pdf2/lib/xep/xep.xml"/-->

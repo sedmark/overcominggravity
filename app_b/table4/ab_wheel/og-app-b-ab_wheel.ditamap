@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-ab_wheel" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="ab_wheel-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-ab_wheel-intro.dita">
       <topicref href="og-app-b-25s_plank.dita" toc="no"/>
       <topicref href="og-app-b-60s_plank.dita" toc="no"/>

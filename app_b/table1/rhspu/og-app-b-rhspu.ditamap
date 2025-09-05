@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b-rhspu" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="rhspu-onpage" copy-to="./page.dita" toc="no"/>
 	<topicref href="og-app-b-rhspu-intro.dita">
 		<topicref href="og-app-b-r_wide_hspu.dita" toc="no"/>
 		<topicref href="og-app-b-r_strap_hspu.dita" toc="no"/>

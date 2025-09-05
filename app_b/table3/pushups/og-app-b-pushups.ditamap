@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-pushups" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="pushups-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-pushups-intro.dita">
       <topicref href="og-app-b-regular_pushups.dita" toc="no"/>
       <topicref href="og-app-b-diamond_pushups.dita" toc="no"/>

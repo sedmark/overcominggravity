@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b-press" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="press-onpage" copy-to="./page.dita" toc="no"/>
 	<topicref href="og-app-b-press-intro.dita"/>
 </map>

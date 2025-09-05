@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-b-sapresshs" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="sapresshs-onpage" copy-to="./page.dita" toc="no"/>
 	<topicref href="og-app-b-sapresshs-intro.dita">
 		<topicref href="og-app-b-wall_str_press_ecce.dita" toc="no"/>
 		<topicref href="og-app-b-ele_str_std_str_press.dita" toc="no"/>

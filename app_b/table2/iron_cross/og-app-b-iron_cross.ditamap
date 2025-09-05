@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-iron_cross" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="iron_cross-onpage" copy-to="./page.dita" toc="no"/>
   <topicref href="og-app-b-iron_cross-intro.dita">
     <topicref href="og-app-b-cross_progressions.dita" toc="no">
       <topicref href="og-app-b-train_methods.dita" toc="no"/>

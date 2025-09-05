@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-ring_dips" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="ring_dips-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-ring_dips-intro.dita">
       <topicref href="og-app-b-support_holds.dita" toc="no"/>
       <topicref href="og-app-b-r_dip_ecce.dita" toc="no"/>

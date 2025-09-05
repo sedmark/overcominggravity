@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-planche" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="planche-onpage" copy-to="./page.dita" toc="no"/>
   <topicref href="og-app-b-planche-intro.dita">
     <topicref href="og-app-b-frog_stand.dita" toc="no"/>
     <topicref href="og-app-b-sa_frog_stand.dita" toc="no"/>

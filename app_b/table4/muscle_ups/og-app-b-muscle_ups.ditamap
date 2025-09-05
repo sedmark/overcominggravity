@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-muscle_ups" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="muscle_ups-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-muscle_ups-intro.dita">
       <topicref href="og-app-b-mu_negatives.dita" toc="no"/>
       <topicref href="og-app-b-kipping_mu.dita" toc="no"/>

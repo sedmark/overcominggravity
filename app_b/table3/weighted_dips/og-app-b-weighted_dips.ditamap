@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-weighted_dips" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="weighted_dips-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-weighted_dips-intro.dita">
       <topicref href="og-app-b-assisted_dips.dita" toc="no"/>
       <topicref href="og-app-b-1x_bw.dita" toc="no"/>

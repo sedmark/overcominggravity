@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-one_arm_pushups" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="one_arm_pushups-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-one_arm_pushups-intro.dita">
       <topicref href="og-app-b-elevated_oa_pu.dita" toc="no"/>
       <topicref href="og-app-b-straddle_oa_pu.dita" toc="no"/>

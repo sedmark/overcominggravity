@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept 
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="og-app-b-train_methods">
-   <title/>
+<concept id="og-app-b-train_methods" xml:lang="ru">
+   <title><text id="title">Методы тренировки</text></title>
    <titlealts>
       <navtitle>
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-      <shortdesc><text id="title">Методы тренировки</text></shortdesc>
+   <shortdesc><text conref="#./title"/></shortdesc>
    <conbody>
       <p>В подготовительных упражнениях на кольцах желательно воспроизводить положение «крест» по
          возможности максимально приближенным к его полному, чистому исполнению. Ниже приводятся

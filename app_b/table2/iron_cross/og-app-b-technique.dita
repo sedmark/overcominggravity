@@ -2,16 +2,13 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="og-app-b-technique" xml:lang="ru">
-   <title><text id="title">Техника</text>
-   </title>
+   <title/>
    <titlealts>
       <navtitle>
          <text conref="#./title"/>
       </navtitle>
    </titlealts>
-   <shortdesc>
-      <text conref="#./title"/>
-   </shortdesc>
+   <shortdesc><text id="title">Техника</text></shortdesc>
    <conbody>
       <p>
          <ol>

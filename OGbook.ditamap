@@ -12,11 +12,12 @@
   </bookmeta>
   <frontmatter>
       <keydef keys="topic_pagebreak" href="common/pagebreak.dita"/>
-    <!--booklists>
+      <keydef keys="topic_onpage" href="common/onpage.dita" chunk="select-topic"/>
+    <booklists>
       <toc/>
-    </booklists-->
+    </booklists>
   </frontmatter>
-  <!--chapter navtitle="Вводная часть" linking="normal">
+  <chapter navtitle="Вводная часть" linking="normal">
     <mapref href="ch0/og-ch0.ditamap" format="ditamap"/>
   </chapter>
   <part navtitle="Часть I — Как разработать собственную программу тренировок"
@@ -41,12 +42,12 @@
     <mapref href="ch16/og-ch16.ditamap" format="ditamap"/>
     <mapref href="ch17/og-ch17.ditamap" format="ditamap"/>
     <mapref href="ch18/og-ch18.ditamap" format="ditamap"/>
-  </part-->
-  <!--part navtitle="Часть III — Справочные материалы" keys="part_iii">
+  </part>
+  <part navtitle="Часть III — Справочные материалы" keys="part_iii">
     <mapref href="app_a/og-app-a.ditamap" format="ditamap"/>
     <mapref href="app_b/og-app-b.ditamap" format="ditamap"/>
     <mapref href="app_c/og-app-c.ditamap" format="ditamap"/>
-  </part-->
+  </part>
   <appendices navtitle="Часть III — Справочные материалы">
     <appendix href="app_a/og-app-a.ditamap" format="ditamap"/>
     <appendix href="app_b/og-app-b.ditamap" format="ditamap"/>

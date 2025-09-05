@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-rings_felge_skills" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="rings_felge_skills-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-rings_felge_skills-intro.dita">
       <topicref href="og-app-b-felge_fwd_piked_to_support.dita" toc="no"/>
       <topicref href="og-app-b-felge_bwd_piked_to_support.dita" toc="no"/>

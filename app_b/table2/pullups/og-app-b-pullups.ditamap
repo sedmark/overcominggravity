@@ -2,6 +2,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-og-app-b-pullups" xml:lang="ru">
+	<topicref href="../../../common/onpage.dita" keys="pullups-onpage" copy-to="./page.dita" toc="no"/>
    <topicref href="og-app-b-pullups-intro.dita">
       <topicref href="og-app-b-jumping_pullups.dita" toc="no"/>
       <topicref href="og-app-b-bar_pullup_ecce.dita" toc="no"/>
