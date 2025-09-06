@@ -51,7 +51,8 @@
             пассивной функциональной недостаточностью соответственно. </p><p>
             <fig>
               <title>Кривая зависимости напряжения мышцы от ее длины</title>
-              <image placement="break" href="../images/ch01_02.png" align="center" width="600"/>
+              <image placement="break" href="../images/ch01_02.png" align="center" width="600" deliveryTarget="html"/>
+              <image placement="break" href="../images/ch01_02.png" align="center" scalefit="yes" deliveryTarget="pdf"/>
             </fig>
           </p><p>Активное напряжение — это сила, которую мы можем произвести. Пассивное напряжение —
             это то, что получится, если растянуть мышцу до предела. В этом положении нагрузка

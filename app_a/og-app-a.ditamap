@@ -13,7 +13,7 @@
 		<topicref href="og-app-a-level-5-6.dita">
 			<topicref href="og-app-a-level-5-6-sample.dita"/>
 		</topicref>
-		<!--topicref href="og-app-a-level-7-8.dita">
+		<topicref href="og-app-a-level-7-8.dita">
 			<topicref href="og-app-a-level-7-8-sample.dita"/>
 		</topicref>
 		<topicref href="og-app-a-level-9-10.dita">
@@ -22,11 +22,11 @@
 		<topicref href="og-app-a-level-11-12.dita">
 			<topicref href="og-app-a-level-11-12-sample.dita"/>
 		</topicref>
-		<topicref href="og-app-a-routines.dita"/-->
-		<!--topicref href="og-app-a-beyond.dita"/>
+		<topicref href="og-app-a-routines.dita"/>
+		<topicref href="og-app-a-beyond.dita"/>
 		<topicref href="og-app-a-531.dita"/>
 		<topicref href="og-app-a-prehab.dita"/>
 		<topicref href="og-app-a-keytips.dita"/>
-		<topicref href="og-app-a-conclusion.dita"/-->
+		<topicref href="og-app-a-conclusion.dita"/>
 	</topicref>
 </map>

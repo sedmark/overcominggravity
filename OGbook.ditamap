@@ -2,7 +2,10 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap id="ogbook" xml:lang="ru">
   <booktitle>
-    <mainbooktitle><image href="images/Overcominggravity_RUS_400.jpg"/></mainbooktitle>
+    <mainbooktitle>
+      <image href="images/Overcominggravity_RUS_400.jpg" deliveryTarget="html"/>
+      <image href="images/Overcominggravity_RUS.jpg" deliveryTarget="pdf" scalefit="yes"/>
+    </mainbooktitle>
   </booktitle>
   <bookmeta>
     <author type="creator" xml:lang="ru">Стивен Лоу</author>
@@ -43,11 +46,11 @@
     <mapref href="ch17/og-ch17.ditamap" format="ditamap"/>
     <mapref href="ch18/og-ch18.ditamap" format="ditamap"/>
   </part>
-  <part navtitle="Часть III — Справочные материалы" keys="part_iii">
+  <!--part navtitle="Часть III — Справочные материалы" keys="part_iii">
     <mapref href="app_a/og-app-a.ditamap" format="ditamap"/>
     <mapref href="app_b/og-app-b.ditamap" format="ditamap"/>
     <mapref href="app_c/og-app-c.ditamap" format="ditamap"/>
-  </part>
+  </part-->
   <appendices navtitle="Часть III — Справочные материалы">
     <appendix href="app_a/og-app-a.ditamap" format="ditamap"/>
     <appendix href="app_b/og-app-b.ditamap" format="ditamap"/>
