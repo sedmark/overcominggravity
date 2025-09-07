@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic  id="og-ch06-intro" xml:lang="ru">
-  <title><text id="title">Глава 6. Основной порядок тренировки</text></title>
+  <title><text id="title">Основной порядок тренировки</text></title>
   <titlealts>
-    <navtitle><text conref="#./title"/></navtitle>
+    <navtitle>Глава 6. <text conref="#./title"/></navtitle>
   </titlealts>
   <body>
     <p>Построение тренировочного процесса должно следовать нескольким простым правилам, чтобы

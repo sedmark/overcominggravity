@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-ch04-intro" xml:lang="ru">
-  <title><text id="title">Глава 4. Поддержание структурного баланса</text></title>
+  <title><text id="title">Поддержание структурного баланса</text></title>
   <titlealts>
-    <navtitle><text conref="#./title"/></navtitle>
+    <navtitle>Глава 4. <text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p/>

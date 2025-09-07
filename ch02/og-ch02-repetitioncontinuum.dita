@@ -18,9 +18,10 @@
           физической формы.</li>
       </ol></p>
     <p>Ниже приведена диаграмма для общего представления о разных адаптациях организма при
-      стимуляции его разным диапазоном повторений.<fig id="fig-ch02_01" frame="all">
+      стимуляции его разным диапазоном повторений.<fig id="fig-ch02_01">
         <title>Диаграмма адаптаций и количества повторений</title>
-        <image placement="break" href="../images/ch02_01.png" align="center" width="800"/>
+        <image placement="break" href="../images/ch02_01.png" align="left" width="800" deliveryTarget="html"/>
+        <image placement="break" href="../images/ch02_01.png" align="left" width="40em" deliveryTarget="pdf"/>
       </fig></p>
   </conbody>
 </concept>

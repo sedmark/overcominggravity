@@ -70,7 +70,7 @@
             <property name="processing-mode" value="strict"/>
 						<property name="args.chapter.layout" value="BASIC"/>
 						<property name="args.bookmark.style" value="EXPANDED"/>
-            <property name="clean.temp" value="no"/>
+            <property name="clean.temp" value="yes"/>
         </ant>
     </target>
 </project>

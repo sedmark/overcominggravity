@@ -3,11 +3,18 @@
 <map id="map_table4" xml:lang="ru" title="Упражнения таблицы 4">
 	<topicref href="group-topic.dita">
 		<mapref href="muscle_ups/og-app-b-muscle_ups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="elbow_levers/og-app-b-elbow_levers.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="flag/og-app-b-flag.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="ab_wheel/og-app-b-ab_wheel.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rings_full_statics/og-app-b-rings_full_statics.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rings_kip_skills/og-app-b-rings_kip_skills.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rings_felge_skills/og-app-b-rings_felge_skills.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 	</topicref>
 </map>

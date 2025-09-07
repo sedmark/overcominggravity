@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept  id="og-ch15-imbalance" xml:lang="ru">
+<concept id="og-ch15-imbalance" xml:lang="ru">
   <title>Общий дисбаланс</title>
   <titlealts>
     <navtitle>Дисбаланс</navtitle>
@@ -31,7 +31,8 @@
         заплечье автоматически отведется назад, а шея вернется на место. Этот способ гораздо проще,
         чем фокусирование на плечах и шее, к тому же он улучшает стабилизацию корпуса.</p>
       <p>
-        <image href="../images/ch15-posture.png" placement="break" id="image_ch15-posture"/>
+        <image href="../images/ch15-posture.png" placement="break" id="image_ch15-posture"
+          scalefit="yes"/>
       </p>
       <p>В действительности на последнем фото мои плечи даже слишком расправлены. Как видите, подъем
         груди значительно облегчает поддержание правильной осанки. Когда вы подумаете об осанке,
@@ -68,7 +69,8 @@
               href="og-ch15-radiculopathies.dita#og-ch15-radiculopathies"/>).</li>
           <li>Практикуйте глубокий массаж всей верхней части тела. Под <q>всем</q> я подразумеваю
             все, вплоть до предплечий.</li>
-          <li><xref href="../ch16/og-ch16-shoulders.dita">LYTP</xref> для укрепления мускулатуры спины.</li>
+          <li><xref href="../ch16/og-ch16-shoulders.dita">LYTP</xref> для укрепления мускулатуры
+            спины.</li>
           <li>Выполняйте растяжку задней капсулы, упражнение <q>растяжка спящего</q>, растяжку
             вращением наружу.</li>
           <li>Выполняйте растяжку больших грудных мышц в углу с помощью рук, отведенных в сторону на
@@ -78,15 +80,16 @@
         </ul></p>
       <p>Технику новых упражнений мы рассмотрим в следующей главе.<fig id="fig_xd5_yvw_rtb">
           <title>Растяжка в дверном проеме плюс две вариации растяжки в углу</title>
-          <image href="../images/ch15-doorway-stretch.png" placement="break" id="image_yd5_yvw_rtb"/>
-          <p>
-            <fig id="fig_w34_dww_rtb">
-              <title>Растяжка задней капсулы, «растяжка спящего» и растяжка вращением наружу</title>
-              <image href="../images/ch15-capsule-stretch.png" placement="break"
-                id="image_x34_dww_rtb"/>
-            </fig>
-          </p>
+          <image href="../images/ch15-doorway-stretch.png" placement="break" id="image_yd5_yvw_rtb"
+            scalefit="yes"/>
         </fig></p>
+      <p>
+        <fig id="fig_w34_dww_rtb">
+          <title>Растяжка задней капсулы, «растяжка спящего» и растяжка вращением наружу</title>
+          <image href="../images/ch15-capsule-stretch.png" placement="break"
+            id="image_x34_dww_rtb" scalefit="yes"/>
+        </fig>
+      </p>
       <p>
         <note id="note_dkb_www_rtb">Обратите внимание, что последние три растяжки следует
           использовать, если у вас есть напряженность мышц с ограничением диапазона движений или

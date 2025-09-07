@@ -7,11 +7,18 @@
 		<mapref href="front_lever/og-app-b-front_lever.ditamap"/>
 		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="fl_pullups/og-app-b-fl_pullups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rowing/og-app-b-rowing.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="pullups/og-app-b-pullups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="r_pullups/og-app-b-r_pullups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="weighted_pullups/og-app-b-weighted_pullups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="explosive_pullups/og-app-b-explosive_pullups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="iron_cross/og-app-b-iron_cross.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 	</topicref>
 </map>

@@ -3,13 +3,22 @@
 <map id="map_table3" xml:lang="ru">
 	<topicref href="group-topic.dita">
 		<mapref href="planche/og-app-b-planche.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rings_planche/og-app-b-rings_planche.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="pbfl_pl_pushups/og-app-b-pbfl_pl_pushups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="rings_pl_pushups/og-app-b-rings_pl_pushups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="pushups/og-app-b-pushups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="one_arm_pushups/og-app-b-one_arm_pushups.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="dips/og-app-b-dips.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="ring_dips/og-app-b-ring_dips.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 		<mapref href="weighted_dips/og-app-b-weighted_dips.ditamap"/>
+		<topicref keyref="topic_pagebreak" toc="no" deliveryTarget="pdf"/>
 	</topicref>
 </map>

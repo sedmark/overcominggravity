@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-ch12-intro" xml:lang="ru">
-  <title><text id="title">Глава 12. Аспекты травм</text></title>
+  <title><text id="title">Аспекты травм</text></title>
   <titlealts>
-    <navtitle><text conref="#./title"/></navtitle>
+    <navtitle>Глава 12. <text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p>Травмы являются особенно трудной темой для рекомендаций, поскольку не существует единого

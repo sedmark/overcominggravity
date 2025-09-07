@@ -29,7 +29,7 @@
             преодолевая гравитацию перенести вес или передвинуть какой-то объект в пространстве.</p><p>
             <fig>
               <title>Прогрессия горизонта</title>
-              <image placement="break" href="../images/ch01_01.png" align="center" scalefit="yes"/>
+              <image placement="break" href="../images/ch01_01.png" align="left" width="40em"/>
             </fig>
               
           </p>Например, прогрессия <term keyref="gl-planche">горизонта</term> заключается в
@@ -49,10 +49,10 @@
             силы и рост массы — будут похожими.</p><p>Нахождение мышцы в крайних
             положениях диапазона движения при сокращении или удлинении называют активной и
             пассивной функциональной недостаточностью соответственно. </p><p>
-            <fig>
+              <fig id="fig-ch01_02">
               <title>Кривая зависимости напряжения мышцы от ее длины</title>
               <image placement="break" href="../images/ch01_02.png" align="center" width="600" deliveryTarget="html"/>
-              <image placement="break" href="../images/ch01_02.png" align="center" scalefit="yes" deliveryTarget="pdf"/>
+              <image placement="break" href="../images/ch01_02.png" align="center" width="40em" deliveryTarget="pdf"/>
             </fig>
           </p><p>Активное напряжение — это сила, которую мы можем произвести. Пассивное напряжение —
             это то, что получится, если растянуть мышцу до предела. В этом положении нагрузка
