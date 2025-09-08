@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="dedication">
+  <title>Посвящение</title>
+  <conbody>
+    <p>Эта книга посвящается первым исполнителям сложных упражнений, которые показали человеческие
+      сверхвозможности, и адресована всем любителям тренировок с собственным весом.</p>
+  </conbody>
+  <concept id="acknowledgments">
+    <title>Благодарности</title>
+    <conbody>
+      <p>Выражаю огромное спасибо:<ul>
+        <li>Chris Salvato за мотивацию к написанию этой книги и за совместное основание сайта
+          <xref href="http://eatmoveimprove.com" format="html" scope="external">eatmoveimprove.com</xref>, на котором
+          размещаются качественные статьи о здоровье, фитнесе и профилактике травматизма. А также
+          за написание большей части третьей главы и редактирование текста.</li>
+        <li>Valentin Uzunov за все иллюстрации к упражнениям и за обложку.</li>
+        <li>KC Parsons за предоставление и редактирование фотографий и изображений.</li>
+        <li>Nick Parente, Sharon, Justine и Emily за помощь с фотографиями и картинками.</li>
+        <li>Christopher Sommer и Ido Portal за вклад в развитие сообщества гимнастов и <term
+          keyref="gl-bodyweighter">«бодивейторов»</term>.</li>
+      </ul></p>
+    </conbody>
+  </concept>
+</concept>
+

@@ -5,20 +5,37 @@
     <mainbooktitle>
       <!--image href="images/Overcominggravity_RUS_400.jpg" deliveryTarget="html"/>
       <image href="images/Overcominggravity_RUS.jpg" deliveryTarget="pdf" scalefit="yes"/-->
-      Преодолевая гравитацию
-    </mainbooktitle>
+      Преодолевая гравитацию. Систематизированный подход к гимнастике и силовым тренировкам с собственным весом. </mainbooktitle>
   </booktitle>
   <bookmeta>
-    <author type="creator" xml:lang="ru">Стивен Лоу</author>
-    <author type="creator" xml:lang="en">Steven Low</author>
-    <author type="contributor">Дмитрий Семенов (перевод на русский язык), vk.com/sedmark</author>
-    <author type="contributor" xml:lang="en">Valentin Uzunov (illustrations)</author>
+    <shortdesc>Перевод книги Steven Low «Overcoming Gravity. A Systematic Approach to Gymnastics and Bodyweight Strength»</shortdesc>
+    <!--authorinformation>
+      <personinfo>
+        <namedetails>
+          <personname>
+            <firstname>Steven</firstname>
+            <lastname>Low</lastname>
+          </personname>
+          <personname>
+            <firstname>Дмитрий</firstname>
+            <lastname>Семенов</lastname>
+            <generationidentifier>vk.com/sedmark</generationidentifier>
+            <otherinfo>bankcard@yandex.ru</otherinfo>
+          </personname>
+        </namedetails>
+      </personinfo>
+    </authorinformation-->
+    <author type="creator">Steven Low, </author>
+    <author type="contributor">Дмитрий Семенов (перевод на русский язык, vk.com/sedmark), </author>
+    <author type="contributor" xml:lang="en">Valentin Uzunov (иллюстрации)</author>
   </bookmeta>
   <frontmatter>
-      <keydef keys="topic_pagebreak" href="common/pagebreak.dita"/>
-      <keydef keys="topic_onpage" href="common/onpage.dita" chunk="select-topic"/>
+    <keydef keys="topic_pagebreak" href="common/pagebreak.dita"/>
+    <keydef keys="topic_onpage" href="common/onpage.dita" chunk="select-topic"/>
+    <dedication href="ch0/og-ch0-dedication.dita"/>
+    <notices href="ch0/og-ch0-disclaimer.dita"/>
     <preface>
-      <topicref href="ch0/og-ch0-pre.dita"/>
+      <!--topicref href="ch0/og-ch0-pre.dita"/-->
       <topicref href="ch0/og-ch0-intro.dita"/>
     </preface>
     <booklists>
@@ -28,8 +45,7 @@
   <!--chapter navtitle="Вводная часть" linking="normal">
     <topicref href="ch0/og-ch0-intro.dita"/>
   </chapter-->
-  <part navtitle="Как разработать собственную программу тренировок"
-    keys="part_i">
+  <part navtitle="Как разработать собственную программу тренировок" keys="part_i">
     <chapter href="ch01/og-ch01.ditamap" format="ditamap" navtitle="Закладываем фундамент"/>
     <chapter href="ch02/og-ch02.ditamap" format="ditamap"/>
     <chapter href="ch03/og-ch03.ditamap" format="ditamap"/>
