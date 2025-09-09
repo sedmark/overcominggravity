@@ -10,7 +10,7 @@
   <title/>
   <conbody>
     <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="reftable1.dita#ref/title"/> в альбомном развороте</title><tgroup conref="reftable1.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
-    <?pagebreak?>
+    <!--?pagebreak?-->
     <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="reftable2.dita#ref/title"/> в альбомном развороте</title><tgroup conref="reftable2.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <?pagebreak?>
     <table orient="land" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="reftable3.dita#ref/title"/> в альбомном развороте</title><tgroup conref="reftable3.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>

@@ -3,7 +3,7 @@
 <concept  id="og-ch17-intro" xml:lang="ru">
   <title><text id="title">Обобщенно о здоровье и травмах</text></title>
   <titlealts>
-    <navtitle>Глава 17. <text conref="#./title"/></navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
   </conbody>

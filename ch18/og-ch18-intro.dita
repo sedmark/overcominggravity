@@ -4,7 +4,7 @@
 <concept id="og-ch18-intro" xml:lang="ru">
   <title><text id="title">Образ жизни</text></title>
   <titlealts>
-    <navtitle>Глава 18. <text conref="#./title"/></navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p>Этой темы мы коснемся кратко, поскольку она не является основной для

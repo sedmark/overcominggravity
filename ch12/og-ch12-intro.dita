@@ -3,7 +3,7 @@
 <concept  id="og-ch12-intro" xml:lang="ru">
   <title><text id="title">Аспекты травм</text></title>
   <titlealts>
-    <navtitle>Глава 12. <text conref="#./title"/></navtitle>
+    <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
     <p>Травмы являются особенно трудной темой для рекомендаций, поскольку не существует единого
