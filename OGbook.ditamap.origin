@@ -2,51 +2,80 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap id="ogbook" xml:lang="ru">
   <booktitle>
-    <mainbooktitle><image href="images/Overcominggravity_RUS_400.jpg"></image></mainbooktitle>
+    <!--image href="images/Overcominggravity_RUS.jpg" deliveryTarget="pdf" scalefit="yes" placement="break"/>
+      <image href="images/Overcominggravity_RUS_400.jpg" deliveryTarget="html"/>
+      <image href="images/Overcominggravity2.png" deliveryTarget="pdf" scalefit="yes" placement="break"/>
+      <?pagebreak?-->
+    <mainbooktitle>Преодолевая гравитацию</mainbooktitle>
+    <booktitlealt>Систематизированный подход к гимнастике и силовым тренировкам с собственным весом</booktitlealt>
+    <!--booktitlealt>&#160;</booktitlealt>
+    <booktitlealt>&#160;</booktitlealt>
+    <booktitlealt>Автор: Steven Low</booktitlealt>
+    <booktitlealt>Иллюстрации: Valentin Uzunov</booktitlealt>
+    <booktitlealt>&#160;</booktitlealt>
+    <booktitlealt>Перевод с английского: Дмитрий Семенов</booktitlealt-->
   </booktitle>
   <bookmeta>
-    <author type="creator" xml:lang="ru">Стивен Лоу</author>
-    <author type="creator" xml:lang="en">Steven Low</author>
-    <author type="contributor">Дмитрий Семенов (перевод на русский язык)</author>
-    <author type="contributor" xml:lang="en">Valentin Uzunov (illustrations)</author>
+    <shortdesc>Перевод книги Steven Low «Overcoming Gravity. A Systematic Approach to Gymnastics and Bodyweight Strength»</shortdesc>
+    <author type="creator">Steven Low, </author>
+    <author type="contributor">Дмитрий Семенов (перевод на русский язык, vk.com/sedmark), </author>
+    <author type="contributor" xml:lang="en">Valentin Uzunov (иллюстрации)</author>
+    <critdates>
+      <created date="20250909"/>
+      <revised modified="20250909"/>
+    </critdates>
+    <bookrights>
+      <copyrfirst>
+        <year>2011</year>
+      </copyrfirst>
+      <bookowner><person>Steven Low</person></bookowner>
+    </bookrights>
   </bookmeta>
   <frontmatter>
-    <keydef keys="underconstruction" href="common/og-under-construction.dita"/>
-  </frontmatter>
-  <chapter navtitle="Вводная часть" linking="normal">
-    <mapref href="ch0/og-ch0.ditamap" format="ditamap"/>
-  </chapter>
-  <part navtitle="Часть I — Как разработать собственную программу тренировок (Раздел в разработке)" keys="part_i">
-    <mapref href="ch01/og-ch01.ditamap" format="ditamap"/>
-    <mapref href="ch02/og-ch02.ditamap" format="ditamap"/>
-    <mapref href="ch03/og-ch03.ditamap" format="ditamap"/>
-    <mapref href="ch04/og-ch04.ditamap" format="ditamap"/>
-    <mapref href="ch05/og-ch05.ditamap" format="ditamap"/>
-    <mapref href="ch06/og-ch06.ditamap" format="ditamap"/>
-    <mapref href="ch07/og-ch07.ditamap" format="ditamap"/>
-    <mapref href="ch08/og-ch08.ditamap" format="ditamap"/>
-    <mapref href="ch09/og-ch09.ditamap" format="ditamap"/>
-    <mapref href="ch10/og-ch10.ditamap" format="ditamap"/>
-    <mapref href="ch11/og-ch11.ditamap" format="ditamap"/>
-  </part>
-  <part navtitle="Часть II — Забота о здоровье и помощь при травмах" keys="part_ii">
-    <mapref href="ch12/og-ch12.ditamap" format="ditamap"/>
-    <mapref href="ch13/og-ch13.ditamap" format="ditamap"/>
-    <mapref href="ch14/og-ch14.ditamap" format="ditamap"/>
-    <mapref href="ch15/og-ch15.ditamap" format="ditamap"/>
-    <mapref href="ch16/og-ch16.ditamap" format="ditamap"/>
-    <mapref href="ch17/og-ch17.ditamap" format="ditamap"/>
-    <mapref href="ch18/og-ch18.ditamap" format="ditamap"/>
-  </part>
-  <part navtitle="Часть III — Справочные материалы (Раздел в разработке)" keys="part_iii">
-    <mapref href="app_a/og-app-a.ditamap" format="ditamap"/>
-    <mapref href="app_b/og-app-b.ditamap" format="ditamap"/>
-    <mapref href="app_c/og-app-c.ditamap" format="ditamap"/>
-  </part>
-  <backmatter>
+    <dedication href="ch0/og-ch0-dedication.dita"/>
+    <notices href="ch0/og-ch0-disclaimer.dita"/>
+    <preface>
+      <topicref href="ch0/og-ch0-intro-translator.dita"/>
+      <topicref href="ch0/og-ch0-intro.dita"/>
+    </preface>
     <booklists>
+      <toc/>
+    </booklists>
+    <keydef keys="topic_pagebreak" href="common/pagebreak.dita"/>
+    <keydef keys="topic_onpage" href="common/onpage.dita" chunk="select-topic"/>
+  </frontmatter>
+  <!--part navtitle="Как разработать собственную программу тренировок" keys="part_i">
+    <chapter href="ch01/og-ch01.ditamap" format="ditamap" navtitle="Закладываем фундамент"/>
+    <chapter href="ch02/og-ch02.ditamap" format="ditamap"/>
+    <chapter href="ch03/og-ch03.ditamap" format="ditamap"/>
+    <chapter href="ch04/og-ch04.ditamap" format="ditamap"/>
+    <chapter href="ch05/og-ch05.ditamap" format="ditamap"/>
+    <chapter href="ch06/og-ch06.ditamap" format="ditamap"/>
+    <chapter href="ch07/og-ch07.ditamap" format="ditamap"/>
+    <chapter href="ch08/og-ch08.ditamap" format="ditamap"/>
+    <chapter href="ch09/og-ch09.ditamap" format="ditamap"/>
+    <chapter href="ch10/og-ch10.ditamap" format="ditamap"/>
+    <chapter href="ch11/og-ch11.ditamap" format="ditamap"/>
+  </part>
+  <part navtitle="Забота о здоровье и помощь при травмах" keys="part_ii">
+    <chapter href="ch12/og-ch12.ditamap" format="ditamap"/>
+    <chapter href="ch13/og-ch13.ditamap" format="ditamap"/>
+    <chapter href="ch14/og-ch14.ditamap" format="ditamap"/>
+    <chapter href="ch15/og-ch15.ditamap" format="ditamap"/>
+    <chapter href="ch16/og-ch16.ditamap" format="ditamap"/>
+    <chapter href="ch17/og-ch17.ditamap" format="ditamap"/>
+    <chapter href="ch18/og-ch18.ditamap" format="ditamap"/>
+  </part>
+  <appendices navtitle="Справочные материалы">
+    <appendix href="app_a/og-app-a.ditamap" format="ditamap"/>
+    <appendix href="app_b/og-app-b.ditamap" format="ditamap"/>
+    <appendix href="app_c/og-app-c.ditamap" format="ditamap"/>
+  </appendices>
+  <backmatter>
+    <booklists deliveryTarget="html">
       <glossarylist href="common/glossary.ditamap" format="ditamap"/>
     </booklists>
+    <mapref href="common/glossary_pdf.ditamap" format="ditamap" deliveryTarget="pdf"/>
     <topicref href="ch0/og-ch0-about_author.dita"/>
-  </backmatter>
+  </backmatter-->
 </bookmap>

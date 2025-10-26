@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="og-app-d-intro" xml:lang="ru">
+  <title><text id="title">Руководство для начинающих</text></title>
+  <titlealts>
+    <navtitle><text conref="#./title"/></navtitle>
+  </titlealts>
+  <conbody>
+    <div deliveryTarget="pdf"><p>Здесь в конце бумажной книги размещены по две копии каждой таблицы
+        прогрессий, чтобы вы могли их использовать для собственных заметок, вырвав из книги, если
+        нет возможности сделать их фотокопию.</p></div>
+    <p>В этом приложении к таблицам прогрессий добавлены модифицированные <xref href="prilepin.dita"
+        >таблицы Прилепина</xref> для обычных концентрических упражнений, а также для изометрических
+      и эксцентрических. Пользуйтесь ими при составлении собственных программ, чтобы рассчитать
+      количество повторений и подходов.</p>
+  </conbody>
+</concept>

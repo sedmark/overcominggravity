@@ -2,29 +2,31 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap id="ogbook" xml:lang="ru">
   <booktitle>
+    <booklibrary>
+      <image href="cover/images/PDFCover.jpg" deliveryTarget="pdf" scalefit="yes" placement="break"/>
+      <image href="cover/images/Overcominggravity2.png" deliveryTarget="pdf" scalefit="yes" placement="break"/>
+    </booklibrary>
     <mainbooktitle>
-      <image href="images/Overcominggravity_RUS.jpg" deliveryTarget="pdf" scalefit="yes" placement="break"/>
-      <image href="images/Overcominggravity_RUS_400.jpg" deliveryTarget="html"/>
-      <image href="images/Overcominggravity2.png" deliveryTarget="pdf" scalefit="yes" placement="break"/>
-      <?pagebreak?>
       Преодолевая гравитацию
     </mainbooktitle>
     <booktitlealt>Систематизированный подход к гимнастике и силовым тренировкам с собственным весом</booktitlealt>
-    <booktitlealt>&#160;</booktitlealt>
-    <booktitlealt>&#160;</booktitlealt>
-    <booktitlealt>Автор: Steven Low</booktitlealt>
-    <booktitlealt>Иллюстрации: Valentin Uzunov</booktitlealt>
-    <booktitlealt>&#160;</booktitlealt>
-    <booktitlealt>Перевод с английского: Дмитрий Семенов</booktitlealt>
+    <booktitlealt><sup>&#x0a;</sup></booktitlealt>
+    <booktitlealt><sup><i>Автор: Steven Low</i></sup></booktitlealt>
+    <booktitlealt><sup><i>Иллюстрации: Valentin Uzunov</i></sup></booktitlealt>
+    <booktitlealt><sup><i>Перевод с английского: Дмитрий Семенов</i></sup></booktitlealt>
   </booktitle>
   <bookmeta>
     <shortdesc>Перевод книги Steven Low «Overcoming Gravity. A Systematic Approach to Gymnastics and Bodyweight Strength»</shortdesc>
     <author type="creator">Steven Low, </author>
     <author type="contributor">Дмитрий Семенов (перевод на русский язык, vk.com/sedmark), </author>
     <author type="contributor" xml:lang="en">Valentin Uzunov (иллюстрации)</author>
+    <publisherinformation><organization>САМИЗДАТ</organization>
+      <published><completed><year>2025</year></completed>
+      </published>
+    </publisherinformation>
     <critdates>
-      <created date="20250909"/>
-      <revised modified="20250909"/>
+      <created date="20250914"/>
+      <revised modified="20250914"/>
     </critdates>
     <bookrights>
       <copyrfirst>
@@ -32,21 +34,23 @@
       </copyrfirst>
       <bookowner><person>Steven Low</person></bookowner>
     </bookrights>
+    <data name="cover-image"><image href="cover/images/Overcominggravity_RUS.jpg"/></data>
   </bookmeta>
   <frontmatter>
-    <dedication href="ch0/og-ch0-dedication.dita"/>
-    <notices href="ch0/og-ch0-disclaimer.dita"/>
-    <preface>
-      <topicref href="ch0/og-ch0-intro-translator.dita"/>
-      <topicref href="ch0/og-ch0-intro.dita"/>
-    </preface>
     <booklists>
       <toc/>
     </booklists>
+    <preface>
+      <topicref href="ch0/og-ch0-disclaimer.dita" toc="no"/>
+      <topicref href="ch0/og-ch0-dedication.dita" toc="no"/>
+      <topicref href="ch0/og-ch0-acknowledgments.dita" toc="no"/>
+      <topicref href="ch0/og-ch0-intro-translator.dita"/>
+      <topicref href="ch0/og-ch0-intro.dita"/>
+    </preface>
     <keydef keys="topic_pagebreak" href="common/pagebreak.dita"/>
     <keydef keys="topic_onpage" href="common/onpage.dita" chunk="select-topic"/>
   </frontmatter>
-  <part navtitle="Как разработать собственную программу тренировок" keys="part_i">
+  <!--part navtitle="Как разработать собственную программу тренировок" keys="part_i">
     <chapter href="ch01/og-ch01.ditamap" format="ditamap" navtitle="Закладываем фундамент"/>
     <chapter href="ch02/og-ch02.ditamap" format="ditamap"/>
     <chapter href="ch03/og-ch03.ditamap" format="ditamap"/>
@@ -74,10 +78,7 @@
     <appendix href="app_c/og-app-c.ditamap" format="ditamap"/>
   </appendices>
   <backmatter>
-    <booklists deliveryTarget="html">
-      <glossarylist href="common/glossary.ditamap" format="ditamap"/>
-    </booklists>
     <mapref href="common/glossary_pdf.ditamap" format="ditamap" deliveryTarget="pdf"/>
     <topicref href="ch0/og-ch0-about_author.dita"/>
-  </backmatter>
+  </backmatter-->
 </bookmap>

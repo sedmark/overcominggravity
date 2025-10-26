@@ -2,7 +2,7 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap id="ogbook" xml:lang="ru">
   <booktitle>
-    <mainbooktitle><image href="images/Overcominggravity_RUS_400.jpg"></image></mainbooktitle>
+    <mainbooktitle><image href="cover/images/Overcominggravity_RUS_400.jpg"></image></mainbooktitle>
   </booktitle>
   <bookmeta>
     <author type="creator" xml:lang="ru">Стивен Лоу</author>

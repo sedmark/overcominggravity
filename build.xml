@@ -52,14 +52,14 @@
     <target name="pdf">
         <ant antfile="${ditadir}/build.xml">
             <property name="args.input" value="OGbook.ditamap"/>
-            <property name="transtype" value="pdf2"/>
+            <property name="transtype" value="pdf"/>
             <property name="output.dir" value="${basedir}/out"/>
             <property name="args.filter" value="OGbook_pdf.ditaval"/>
             <property name="nav-toc" value="full"/>
             <property name="args.rellinks" value="none"/>
             <property name="args.tablelink.style" value="NUMBER"/>
             <property name="args.artlbl" value="no"/>
-            <property name="clean.temp" value="yes"/>
+
             <!--property name="pdf.formatter" value="ah"/-->
             <property name="pdf.formatter" value="fop"/>
             <property name="customization.dir" value="PluginCustom"/>
@@ -70,6 +70,13 @@
             <property name="processing-mode" value="strict"/>
 						<property name="args.chapter.layout" value="BASIC"/>
 						<property name="args.bookmark.style" value="EXPANDED"/>
+						<property name="org.dita.pdf2.i18n.enabled" value="yes"/>
+			
+						<!--property name="theme" value="PluginCustom/Themes/og-theme.yaml"/-->
+						<!--property name="theme" value="PluginCustom/Themes/template.json"/-->
+						<!--property name="pdf2.i18n.skip" value="false"/-->
+						<!--property name="args.fo.userconfig" value="/Program Files/OP/fop-2.6/conf/fop.xconf"/-->
+
             <property name="clean.temp" value="yes"/>
         </ant>
     </target>
