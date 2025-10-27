@@ -76,6 +76,7 @@
     <appendix href="app_a/og-app-a.ditamap" format="ditamap"/>
     <appendix href="app_b/og-app-b.ditamap" format="ditamap"/>
     <appendix href="app_c/og-app-c.ditamap" format="ditamap"/>
+    <appendix href="app_d/og-app-d.ditamap" format="ditamap"/>
   </appendices>
   <backmatter>
     <mapref href="common/glossary_pdf.ditamap" format="ditamap" deliveryTarget="pdf"/>

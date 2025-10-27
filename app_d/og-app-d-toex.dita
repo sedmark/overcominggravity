@@ -1,12 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-d-toex" xml:lang="ru">
-  <title><text id="title"></text></title>
+  <title><text id="title">Типы упражнений в таблицах</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
-    <p conkeyref="underconstruction/p_substitution"/>
+    <p>
+      <div>
+        <p>Таблицы упражнений разбиты следующим образом:</p>
+        <ul>
+          <li>Таблица 1 – стойки на руках с ориентацией на жим.</li>
+          <li>Таблица 2 – горизонтальный вис спереди, горизонтальный вис сзади, горизонтальные
+            подтягивания, крест и прочие, с ориентацией  на тягу</li>
+          <li>Таблица 3 – горизонт, вертикальные и горизонтальные отжимания с ориентацией на
+            жим.</li>
+          <li>Таблица 4 – выходы силой и прочие навыки смешанного и переходящего типа.</li>
+        </ul>
+      </div>
+    </p>
   </conbody>
 <!--
   <related-links>

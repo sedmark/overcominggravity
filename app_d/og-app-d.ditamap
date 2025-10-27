@@ -2,8 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="map-app-d" xml:lang="ru">
 	<topicref href="og-app-d-intro.dita">
-		<topicref href="og-app-d-intro.dita"/>
-		<topicref href="og-app-d-toc.dita"/>
+		<topicref href="og-app-d-pre.dita"/>
 		<topicref href="og-app-d-what_you_need.dita"/>
 		<topicref href="og-app-d-how_to_construct.dita"/>
 		<topicref href="og-app-d-toex.dita"/>

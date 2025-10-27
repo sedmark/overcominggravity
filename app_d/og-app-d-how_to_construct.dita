@@ -1,12 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-d-how_to_construct" xml:lang="ru">
-  <title><text id="title"></text></title>
+  <title><text id="title">Как составить тренировочную программу</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
-    <p conkeyref="underconstruction/p_substitution"/>
+    <p>В конце каждой главы есть раздел «Пауза».  В нём вы найдёте важные моменты о том, как
+      составить программу тренировок. Если вам нужно просто узнать, как сделать комплекс упражнений,
+      и вы не хотите читать все эти подробности («почему», «когда» и прочее), то переходите сразу к
+      этим разделам в главах с третьей по девятую. </p>
+    <p>Примеры программирования тоже подойдут для быстрого начала. Вы можете сравнить свою программу
+      с моими, которые я создал для каждого уровня.</p>
+    <p>Если у вас еще останутся вопросы, то прочитайте статью <xref
+        href="http://stevenlow.org/the-fundamentals-of-bodyweight-strength-training/" format="html"
+        scope="external">The Fundamentals of Bodyweight Strength Training</xref> (Основы силового
+      тренинга с собственным весом), на базе которой и создавалась книга.</p>
   </conbody>
 <!--
   <related-links>

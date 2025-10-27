@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-d-what_you_need" xml:lang="ru">
-  <title><text id="title"></text></title>
+  <title><text id="title">Что нужно знать новичку</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>
   <conbody>
-    <p conkeyref="underconstruction/p_substitution"/>
+    <p>Я включил в книгу краткие резюме глав, потому что люблю их и часто встречаю в других книгах.
+      В этих резюме я постарался выделить самые важные моменты.</p>
+    <p>Если вам покажется, что глава слишком сложная или длинная, просто пропустите её и посмотрите
+      резюме. В нём вы найдёте всё самое главное, что нужно знать для создания программы. Остальные
+      мелкие детали можно будет изучить позже, когда вы лучше разберётесь в материале.</p>
   </conbody>
 <!--
   <related-links>
