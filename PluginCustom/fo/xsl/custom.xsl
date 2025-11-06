@@ -4,24 +4,26 @@
     version="2.0">
 	
 	<xsl:import href="commons.xsl"/>
+	<xsl:import href="root-processing.xsl"/>
+	<xsl:import href="../layout-masters.xsl"/>
+	<xsl:import href="static-content.xsl"/>
  
-    <!--xsl:import href="back-matter-attr.xsl"/>
-	<xsl:import href="basic-settings.xsl"/>
-	<xsl:import href="commons-attr.xsl"/>
-	<xsl:import href="commons-attr_fop.xsl"/>
-	<xsl:import href="front-matter-attr.xsl"/>
-	<xsl:import href="index-attr.xsl"/>
-	<xsl:import href="layout-masters-attr.xsl"/>
-	<xsl:import href="links-attr.xsl"/>
-	<xsl:import href="lists-attr.xsl"/>
-	<xsl:import href="lot-lof-attr.xsl"/>
-	<xsl:import href="pr-domain-attr.xsl"/>
-	<xsl:import href="static-content-attr.xsl"/>
-	<xsl:import href="sw-domain-attr.xsl"/>
-	<xsl:import href="tables-attr.xsl"/>
-	<xsl:import href="tables-attr_fop.xsl"/>
-	<xsl:import href="task-elements-attr.xsl"/>
-	<xsl:import href="toc-attr.xsl"/>
-	<xsl:import href="toc-attr_fop.xsl"/-->
+	<!--xsl:import href="back-matter.xsl"/>
+	<xsl:import href="bookmarks.xsl"/>
+	<xsl:import href="commons.xsl"/>
+	<xsl:import href="front-matter.xsl"/>
+	<xsl:import href="index.xsl"/>
+	<xsl:import href="index_fop.xsl"/>
+	<xsl:import href="../layout-masters.xsl"/>
+	<xsl:import href="links.xsl"/>
+	<xsl:import href="lists.xsl"/>
+	<xsl:import href="lot-lof.xsl"/>
+	<xsl:import href="root-processing.xsl"/>
+	<xsl:import href="root-processing_fop.xsl"/>
+	<xsl:import href="static-content.xsl"/>
+	<xsl:import href="tables.xsl"/>
+	<xsl:import href="task-elements.xsl"/>
+	<xsl:import href="toc.xsl"/>
+	<xsl:import href="topic2fo.xsl"/-->
 
 </xsl:stylesheet>

@@ -2,18 +2,12 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap id="ogbook" xml:lang="ru">
   <booktitle>
-    <booklibrary>
-      <image href="cover/images/PDFCover.jpg" deliveryTarget="pdf" scalefit="yes" placement="break"/>
-      <image href="cover/images/Overcominggravity2.png" deliveryTarget="pdf" scalefit="yes" placement="break"/>
-    </booklibrary>
-    <mainbooktitle>
-      Преодолевая гравитацию
-    </mainbooktitle>
-    <booktitlealt>Систематизированный подход к гимнастике и силовым тренировкам с собственным весом</booktitlealt>
+    <mainbooktitle/>
+    <!--booktitlealt>Систематизированный подход к гимнастике и силовым тренировкам с собственным весом</booktitlealt>
     <booktitlealt><sup>&#x0a;</sup></booktitlealt>
     <booktitlealt><sup><i>Автор: Steven Low</i></sup></booktitlealt>
     <booktitlealt><sup><i>Иллюстрации: Valentin Uzunov</i></sup></booktitlealt>
-    <booktitlealt><sup><i>Перевод с английского: Дмитрий Семенов</i></sup></booktitlealt>
+    <booktitlealt><sup><i>Перевод с английского: Дмитрий Семенов</i></sup></booktitlealt-->
   </booktitle>
   <bookmeta>
     <shortdesc>Перевод книги Steven Low «Overcoming Gravity. A Systematic Approach to Gymnastics and Bodyweight Strength»</shortdesc>
@@ -25,9 +19,14 @@
       </published>
     </publisherinformation>
     <critdates>
-      <created date="20250914"/>
-      <revised modified="20250914"/>
+      <revised modified="" golive="2025/11/06"/>
     </critdates>
+    <prodinfo>
+      <prodname>Преодолевая гравитацию</prodname>
+      <vrmlist>
+        <vrm version="1.0"/>
+      </vrmlist>
+    </prodinfo>
     <bookrights>
       <copyrfirst>
         <year>2011</year>
@@ -50,7 +49,7 @@
     <keydef keys="topic_pagebreak" href="common/pagebreak.dita"/>
     <keydef keys="topic_onpage" href="common/onpage.dita" chunk="select-topic"/>
   </frontmatter>
-  <!--part navtitle="Как разработать собственную программу тренировок" keys="part_i">
+  <part navtitle="Как разработать собственную программу тренировок" keys="part_i">
     <chapter href="ch01/og-ch01.ditamap" format="ditamap" navtitle="Закладываем фундамент"/>
     <chapter href="ch02/og-ch02.ditamap" format="ditamap"/>
     <chapter href="ch03/og-ch03.ditamap" format="ditamap"/>
@@ -81,5 +80,10 @@
   <backmatter>
     <mapref href="common/glossary_pdf.ditamap" format="ditamap" deliveryTarget="pdf"/>
     <topicref href="ch0/og-ch0-about_author.dita"/>
-  </backmatter-->
+    <booklists>
+      <abbrevlist href="common/glossary.ditamap"/>
+      <glossarylist href="common/glossary.ditamap"/>
+      <indexlist/>
+    </booklists>
+  </backmatter>
 </bookmap>

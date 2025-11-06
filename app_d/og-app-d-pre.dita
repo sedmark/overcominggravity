@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept  id="og-app-d-pre" xml:lang="ru">
-  <title><text id="title"></text></title>
+  <title><text id="title">Предисловие к статье</text></title>
   <titlealts>
     <navtitle><text conref="#./title"/></navtitle>
   </titlealts>

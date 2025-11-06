@@ -6,7 +6,6 @@ See the accompanying LICENSE file for applicable license.
 <!-- (c) Copyright Suite Solutions -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:xs="http://www.w3.org/2001/XMLSchema"
-                xmlns:my="my:my"
                 version="3.0"
                 exclude-result-prefixes="xs">
 
@@ -17,23 +16,14 @@ See the accompanying LICENSE file for applicable license.
 
   <xsl:variable name="generate-front-cover" select="true()"/>
   <xsl:variable name="generate-back-cover" select="false()"/>
-  <xsl:variable name="generate-toc" select="true()"/>
+  <xsl:variable name="generate-toc" select="false()"/>
   <xsl:variable name="mirror-page-margins" select="true()"/>
 
-  <!--xsl:variable name="body-margin" select="'1.15in'"/-->
-
+  <xsl:variable name="body-margin" select="'.15in'"/>
 
   <xsl:variable name="page-margin-outside-front" select="'0in'"/>
   <xsl:variable name="page-margin-inside-front" select="'0in'"/>
   <xsl:variable name="page-margin-top-front" select="'0in'"/>
   <xsl:variable name="page-margin-bottom-front" select="'0in'"/>
-
-
-  <!-- This is the default, but you can set the margins individually below. -->
-  <!--xsl:variable name="page-margins">20mm</xsl:variable-->
-
-  <!-- Change these if your page has different margins on different sides. -->
-  <xsl:variable name="page-margin-inside" select="'1in'"/>
-  <xsl:variable name="page-margin-outside" select="'0.75in'"/>
 
 </xsl:stylesheet>

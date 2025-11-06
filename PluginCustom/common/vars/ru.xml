@@ -8,11 +8,27 @@ See the accompanying LICENSE file for applicable license.
 -->
 <?xml-model href="/Work/NoteBook/dita-ot/plugins/org.dita.base/xsl/common/strings.rnc" type="application/relax-ng-compact-syntax"?>
 
-<variables>
+<variables xmlns:sda="sedmark.github.io">
   <!-- The header that appears on odd-numbered pages. -->
   <!--variable id="Body odd header"></variable-->
 
   <!-- The header that appears on even-numbered pages. -->
   <!--variable id="Body even header"></variable-->
+
+  <variable id="Body first header"></variable>
+  <variable id="Body last header"><variableref refid="Body even header"/></variable>
+  <variable id="Body odd header"><param ref-name="heading"/>&#160;&#160;&#160;<param ref-name="pagenum"/></variable>
+  <variable id="Body even header"><param ref-name="pagenum"/>&#160;&#160;&#160;<param ref-name="prodname"/></variable>
+
+  <variable id="Index odd header"><param ref-name="heading"/>&#160;&#160;&#160;<param ref-name="pagenum"/></variable>
+  <variable id="Index even header"><param ref-name="pagenum"/>&#160;&#160;&#160;<param ref-name="prodname"/></variable>
+
+<!--
+  <variable id="sda.bookTitle" select=""/>
+  <variable id="sda.pubDate" select=""/>
+  <variable id="sda.copyYear" select=""/>
+  <variable id="sda.productName" select=""/>
+  <variable id="sda.productVersion" select=""/>
+-->
 
 </variables>

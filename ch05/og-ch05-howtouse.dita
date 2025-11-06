@@ -68,13 +68,13 @@
     <p>Тем, кто общается с гимнастами или <term keyref="gl-bodyweighter">бодивейтерами</term>, термины и сокращения из таблиц могут быть знакомы, 
       но большинству людей нужно обращаться к описаниям этих упражнений.</p>
     <?pagebreak?>
-    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable1.dita#ref/title"/> в альбомном развороте</title><tgroup conref="../app_c/reftable1.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
+    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable1.dita#ref/title"/></title><tgroup conref="../app_c/reftable1.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <?pagebreak?>
-    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable2.dita#ref/title"/> в альбомном развороте</title><tgroup conref="../app_c/reftable2.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
+    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable2.dita#ref/title"/></title><tgroup conref="../app_c/reftable2.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <?pagebreak?>
-    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable3.dita#ref/title"/> в альбомном развороте</title><tgroup conref="../app_c/reftable3.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
+    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable3.dita#ref/title"/></title><tgroup conref="../app_c/reftable3.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <?pagebreak?>
-    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable4.dita#ref/title"/> в альбомном развороте</title><tgroup conref="../app_c/reftable4.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
+    <table orient="port" frame="all" colsep="1" rowsep="1" scale="80"><title><text conref="../app_c/reftable4.dita#ref/title"/></title><tgroup conref="../app_c/reftable4.dita#ref/tgroup" cols="1"><tbody><row><entry/></row></tbody></tgroup></table>
     <?pagebreak?>
   </conbody>
 <!--
