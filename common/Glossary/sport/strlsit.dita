@@ -2,8 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="strlsit">
   <glossterm>L-угол врозь</glossterm>
-  <glossdef><text id="def">L-угол ноги врозь</text>
-  <image href="../images/strlsit.png" placement="break"/></glossdef>
+  <glossdef><text id="def">L-угол с раздвинутыми ногами</text>
+    <image href="../images/strlsit.png" placement="inline" height="2em"/></glossdef>
   <glossBody>
     <glossAlt>
       <glossAbbreviation><text id="abbrev">Str-L</text></glossAbbreviation>

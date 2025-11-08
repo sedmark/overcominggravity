@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <topicgroup id="glossref" deliveryTarget="html">
+        <glossref keys="gl-bcaa" href="Glossary/physio/bcaa.dita" format="dita"/>
+        <glossref keys="gl-rhs" href="Glossary/sport/rhs.dita" format="dita"/>
+        <glossref keys="gl-naturalcalm" href="Glossary/physio/naturalcalm.dita" format="dita"/>
+        <glossref keys="gl-slap" href="Glossary/physio/slap.dita" format="dita"/>
+        <glossref keys="gl-smart" href="Glossary/smart.dita" format="dita"/>
+        <glossref keys="gl-lsit" href="Glossary/sport/lsit.dita" format="dita"/>
+        <glossref keys="gl-strlsit" href="Glossary/sport/strlsit.dita" format="dita"/>
+        <glossref keys="gl-vsit" href="Glossary/sport/vsit.dita" format="dita"/>
+        <glossref keys="gl-zma" href="Glossary/physio/zma.dita" format="dita"/>
+        <glossref keys="gl-shoulderadduction" href="Glossary/physio/shoulderadduction.dita"
+            format="dita"/>
+        <glossref keys="gl-actin" href="Glossary/physio/actin.dita" format="dita"/>
+        <glossref keys="gl-anaerobicmetabolism" href="Glossary/physio/anaerobicmetabolism.dita"
+            format="dita"/>
+        <glossref keys="gl-atp" href="Glossary/physio/atp.dita" format="dita"/>
+        <glossref keys="gl-rice" href="Glossary/physio/rice.dita" format="dita"/>
+        <glossref keys="gl-pricem" href="Glossary/physio/pricem.dita" format="dita"/>
+        <glossref keys="gl-bodyweighter" href="Glossary/sport/bodyweighter.dita" format="dita"/>
+        <glossref keys="gl-vascularization" href="Glossary/physio/vascularization.dita" format="dita"/>
+        <glossref keys="gl-dips" href="Glossary/sport/dips.dita" format="dita"/>
+        <glossref keys="gl-mu" href="Glossary/sport/mu.dita" format="dita"/>
+        <glossref keys="gl-planche" href="Glossary/sport/planche.dita" format="dita"/>
+        <glossref keys="gl-el" href="Glossary/sport/el.dita" format="dita"/>
+        <glossref keys="gl-row" href="Glossary/sport/row.dita" format="dita" deliveryTarget="html"/>
+        <glossref keys="gl-press" href="Glossary/sport/press.dita" format="dita"/>
+        <glossref keys="gl-backlever" href="Glossary/sport/backlever.dita" format="dita"/>
+        <glossref keys="gl-innervation" href="Glossary/physio/innervation.dita" format="dita"/>
+        <glossref keys="gl-ages" href="Glossary/physio/ages.dita" format="dita"/>
+        <glossref keys="gl-doms" href="Glossary/physio/doms.dita" format="dita"/>
+        <glossref keys="gl-manna" href="Glossary/sport/manna.dita" format="dita"/>
+        <glossref keys="gl-htmu" href="Glossary/physio/htmu.dita" format="dita"/>
+        <glossref keys="gl-ironcross" href="Glossary/sport/ironcross.dita" format="dita"/>
+        <glossref keys="gl-ltmu" href="Glossary/physio/ltmu.dita" format="dita"/>
+        <glossref keys="gl-mtmu" href="Glossary/physio/mtmu.dita" format="dita"/>
+        <glossref keys="gl-metabolite" href="Glossary/physio/metabolite.dita" format="dita"/>
+        <glossref keys="gl-myosin" href="Glossary/physio/myosin.dita" format="dita"/>
+        <glossref keys="gl-motoneuron" href="Glossary/physio/motoneuron.dita" format="dita"/>
+        <glossref keys="gl-mitochondria" href="Glossary/physio/mitochondria.dita" format="dita"/>
+        <glossref keys="gl-motorplan" href="Glossary/physio/motorplan.dita" format="dita"/>
+        <glossref keys="gl-germanhang" href="Glossary/sport/germanhang.dita" format="dita"/>
+        <glossref keys="gl-nsaid" href="Glossary/physio/nsaid.dita" format="dita"/>
+        <glossref keys="gl-occlusion" href="Glossary/physio/occlusion.dita" format="dita"/>
+        <glossref keys="gl-invertedcross" href="Glossary/sport/invertedcross.dita" format="dita"/>
+        <glossref keys="gl-victorian" href="Glossary/sport/victorian.dita" format="dita"/>
+        <glossref keys="gl-pushups" href="Glossary/sport/pushups.dita" format="dita"/>
+        <glossref keys="gl-hspu" href="Glossary/sport/hspu.dita" format="dita"/>
+        <glossref keys="gl-rhspu" href="Glossary/sport/rhspu.dita" format="dita"/>
+        <glossref keys="gl-frontlever" href="Glossary/sport/frontlever.dita" format="dita"/>
+        <glossref keys="gl-rm" href="Glossary/sport/rm.dita" format="dita"/>
+        <glossref keys="gl-pullups" href="Glossary/sport/pullups.dita" format="dita"/>
+        <glossref keys="gl-fl-pullups" href="Glossary/sport/fl-pullups.dita" format="dita"/>
+        <glossref keys="gl-rpullups" href="Glossary/sport/rpullups.dita" format="dita"/>
+        <glossref keys="gl-oac" href="Glossary/sport/oac.dita" format="dita"/>
+        <glossref keys="gl-hollowback" href="Glossary/sport/hollowback.dita" format="dita"/>
+        <glossref keys="gl-progression" href="Glossary/sport/progression.dita" format="dita"/>
+        <glossref keys="gl-proprioception" href="Glossary/physio/proprioception.dita" format="dita"/>
+        <glossref keys="gl-radiculopathy" href="Glossary/physio/radiculopathy.dita" format="dita"/>
+        <glossref keys="gl-rhabdomyolysis" href="Glossary/physio/rhabdomyolysis.dita" format="dita"/>
+        <glossref keys="gl-maltese" href="Glossary/sport/maltese.dita" format="dita"/>
+        <glossref keys="gl-presshs" href="Glossary/sport/presshs.dita" format="dita"/>
+        <glossref keys="gl-rpresshs" href="Glossary/sport/rpresshs.dita" format="dita"/>
+        <glossref keys="gl-sapresshs" href="Glossary/sport/sapresshs.dita" format="dita"/>
+        <glossref keys="gl-onearmhs" href="Glossary/sport/onearmhs.dita" format="dita"/>
+        <glossref keys="gl-freehs" href="Glossary/sport/freehs.dita" format="dita"/>
+        <glossref keys="gl-wallhs" href="Glossary/sport/wallhs.dita" format="dita"/>
+        <glossref keys="gl-hs" href="Glossary/sport/hs.dita" format="dita"/>
+        <glossref keys="gl-golgi" href="Glossary/physio/golgi.dita" format="dita"/>
+        <glossref keys="gl-flag" href="Glossary/sport/flag.dita" format="dita"/>
+        <glossref keys="gl-gtg" href="Glossary/sport/gtg.dita" format="dita"/>
+        <glossref keys="gl-rto" href="Glossary/sport/rto.dita" format="dita"/>
+    </topicgroup>
+</map>

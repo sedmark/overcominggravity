@@ -3,7 +3,7 @@
 <glossentry id="manna">
   <glossterm>Манна</glossterm>
   <glossdef><text id="def">Параллельный угол</text>
-  <image href="../images/manna.png" placement="break"/></glossdef>
+  <image href="../images/manna.png" placement="inline" height="2em"/></glossdef>
   <glossBody>
     <glossAlt>
       <glossAbbreviation><text id="abbrev">Manna</text></glossAbbreviation>

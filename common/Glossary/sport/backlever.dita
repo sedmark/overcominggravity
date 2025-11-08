@@ -3,7 +3,7 @@
 <glossentry id="backlever" xml:lang="ru">
   <glossterm>Задний вис</glossterm>
   <glossdef><text id="def">Горизонтальный вис сзади, «ласточка»</text>
-    <image href="../images/backlever.png" placement="break"/></glossdef>
+    <image href="../images/backlever.png" placement="inline" height="2em"/></glossdef>
     <glossBody>
       <glossAlt>
         <glossAbbreviation><text id="abbrev">BL</text></glossAbbreviation>

@@ -2,8 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="free_hs">
   <glossterm>Стойка на руках без опоры</glossterm>
-  <glossdef>
-    <image href="../images/freehs.png" placement="break"/>
+  <glossdef>Вертикальная перевернутая свободная стойка на руках
+    <image href="../images/freehs.png" placement="inline" height="3em"/>
   </glossdef>
     <glossBody>
       <glossAlt>

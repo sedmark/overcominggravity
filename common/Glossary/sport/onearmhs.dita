@@ -2,8 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="onearm_hs">
   <glossterm>Стойка на одной руке</glossterm>
-  <glossdef>
-    <image href="../images/onearmhs.png" placement="break"/>
+  <glossdef>Вертикальная перевернутая стойка на одной руке
+    <image href="../images/onearmhs.png" placement="inline" height="3em"/>
   </glossdef>
     <glossBody>
       <glossAlt>

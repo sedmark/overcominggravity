@@ -2,8 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="lsit">
   <glossterm>L-угол</glossterm>
-  <glossdef><text id="def">Угол</text>
-  <image href="../images/lsit.png" placement="break"/></glossdef>
+  <glossdef><text id="def">Статическое положение с удержанием угла 90 градусов между корпусом и ногами</text>
+  <image href="../images/lsit.png" placement="inline" height="2em"/></glossdef>
   <glossBody>
     <glossAlt>
       <glossAbbreviation><text id="abbrev">L</text></glossAbbreviation>

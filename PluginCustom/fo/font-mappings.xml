@@ -26,6 +26,7 @@
         <font-face>Arial</font-face>
         <!--font-face>Arial Black, Arial, Lucida Sans Unicode, Tahoma, Trebuchet MS, Verdana, MS Sans Serif</font-face-->
       </physical-font>
+
     </logical-font>
 
     <logical-font name="Serif">
@@ -33,6 +34,7 @@
         <font-face>Times New Roman</font-face>
         <!--font-face>Times New Roman, Times, MS Serif, Palatino Linotype</font-face-->
       </physical-font>
+
     </logical-font>
 
     <logical-font name="Monospaced">
@@ -41,6 +43,7 @@
         <!--font-face>Lucida Console, Courier New, Courier</font-face-->
       </physical-font>
     </logical-font>
+
 
   </font-table>
   

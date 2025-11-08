@@ -3,8 +3,8 @@
 <glossentry id="wall_hs">
   <glossterm>Стойка на руках у стены</glossterm>
   <glossdef>
-    <text id="def">Стойка на руках с опорой на стену</text>
-    <image href="../images/wallhs.png" placement="break"/>
+    <text id="def">Стойка на руках с опорой ногами о стену</text>
+    <image href="../images/wallhs.png" placement="inline" height="3em"/>
   </glossdef>
     <glossBody>
       <glossAlt>

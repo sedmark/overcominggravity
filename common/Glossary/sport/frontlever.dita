@@ -3,7 +3,8 @@
 <glossentry id="frontlever">
     <glossterm>Передний вис</glossterm>
     <glossdef><text id="def">Горизонтальный вис спереди</text>
-      <image href="../images/frontlever.png" placement="break"/>
+      <image href="../images/frontlever.png" placement="inline" height="2em"/>
+      <?pagebreak?>
     </glossdef>
     <glossBody>
       <glossAlt>

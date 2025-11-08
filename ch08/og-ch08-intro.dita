@@ -20,7 +20,7 @@
       весом.</p>
     <fig id="fig-ch08_01">
       <title>Адаптация организма</title>
-      <image placement="break" href="./img/ch08_01.png" align="left"/>
+      <image placement="break" href="./img/ch08_01.png" align="left" scalefit="yes"/>
     </fig>
   </conbody>
 </concept>

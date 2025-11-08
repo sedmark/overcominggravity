@@ -3,7 +3,7 @@
 <glossentry id="vsit">
   <glossterm>V-уголок</glossterm>
   <glossdef><text id="def">Высокий угол</text>
-  <image href="../images/vsit.png" placement="break"/></glossdef>
+  <image href="../images/vsit.png" placement="inline" width="3em"/></glossdef>
   <glossBody>
     <glossAlt>
       <glossAbbreviation><text id="abbrev">V</text></glossAbbreviation>

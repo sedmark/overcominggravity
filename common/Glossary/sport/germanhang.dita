@@ -2,8 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="germanhang">
   <glossterm>Немецкий вис</glossterm>
-  <glossdef><text id="def">Упражнения для растяжки и гибкости плечевого пояса</text>
-    <image href="../images/germanhang.png" placement="break"/></glossdef>
+  <glossdef><text id="def">Упражнения для растяжки и гибкости плечевого пояса на перекладине</text>
+    <image href="../images/germanhang.png" placement="break" deliveryTarget="html"/></glossdef>
     <glossBody>
       <glossAlt>
         <glossAbbreviation><text id="abbrev">GH</text></glossAbbreviation>

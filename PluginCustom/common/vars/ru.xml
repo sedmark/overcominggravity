@@ -23,6 +23,9 @@ See the accompanying LICENSE file for applicable license.
   <variable id="Index odd header"><param ref-name="heading"/>&#160;&#160;&#160;<param ref-name="pagenum"/></variable>
   <variable id="Index even header"><param ref-name="pagenum"/>&#160;&#160;&#160;<param ref-name="prodname"/></variable>
 
+  <variable id="Glossary odd header"><param ref-name="heading"/>&#160;&#160;&#160;<param ref-name="pagenum"/></variable>
+  <variable id="Glossary even header"><param ref-name="pagenum"/>&#160;&#160;&#160;<param ref-name="prodname"/></variable>
+
 <!--
   <variable id="sda.bookTitle" select=""/>
   <variable id="sda.pubDate" select=""/>

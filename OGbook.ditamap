@@ -36,6 +36,7 @@
     <data name="cover-image"><image href="cover/images/Overcominggravity_RUS.jpg"/></data>
   </bookmeta>
   <frontmatter>
+    <topicref href="ch0/og-ch0-copyright.dita" toc="no"/>
     <booklists>
       <toc/>
     </booklists>
@@ -78,12 +79,10 @@
     <appendix href="app_d/og-app-d.ditamap" format="ditamap"/>
   </appendices>
   <backmatter>
-    <mapref href="common/glossary_pdf.ditamap" format="ditamap" deliveryTarget="pdf"/>
+    <!--mapref href="common/glossary_pdf.ditamap" format="ditamap" deliveryTarget="pdf"/-->
     <topicref href="ch0/og-ch0-about_author.dita"/>
     <booklists>
-      <abbrevlist href="common/glossary.ditamap"/>
-      <glossarylist href="common/glossary.ditamap"/>
-      <indexlist/>
+      <glossarylist href="common/glossary.ditamap" format="ditamap" deliveryTarget="pdf"/>
     </booklists>
   </backmatter>
 </bookmap>

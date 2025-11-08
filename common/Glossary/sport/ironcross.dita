@@ -3,7 +3,7 @@
 <glossentry id="ironcross">
     <glossterm>Крест</glossterm>
   <glossdef><text id="def">Упражнение на кольцах «Железный крест»</text>
-    <image href="../images/ironcross.png" placement="break"/>
+    <image href="../images/ironcross.png" placement="inline" width="2em"/>
   </glossdef>
     <glossBody>
       <glossAlt>
