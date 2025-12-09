@@ -10,7 +10,7 @@
       </navtitle>
    </titlealts>
    <shortdesc>
-      <image href="img/pb_jump_dips.png" align="left" height="16em" placement="break"/>
+      <image href="img/pb_jump_dips.png" align="left" placement="break" scalefit="yes"/>
       <text conref="#./title"/> (<text conref="#./enabbrev"/>). Уровень 1
    </shortdesc>
    <prolog>

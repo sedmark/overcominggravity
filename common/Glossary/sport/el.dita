@@ -2,7 +2,7 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="el">
     <glossterm>Горизонт на локтях</glossterm>
-    <glossdef><text id="def">Горизонтальный упор на локтях</text></glossdef>
+    <glossdef><text id="def">Горизонтальный упор на локтях</text><?pagebreak?></glossdef>
     <glossBody>
         <glossAlt>
             <glossAbbreviation><text id="abbrev">EL</text></glossAbbreviation>

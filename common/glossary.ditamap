@@ -26,7 +26,6 @@
         <glossref keys="gl-mu" href="Glossary/sport/mu.dita" format="dita" print="yes"/>
         <glossref keys="gl-planche" href="Glossary/sport/planche.dita" format="dita" print="yes"/>
         <glossref keys="gl-el" href="Glossary/sport/el.dita" format="dita" print="yes"/>
-        <topicref href="pagebreak.dita"/>
         <glossref keys="gl-row" href="Glossary/sport/row.dita" format="dita" print="yes"/>
         <glossref keys="gl-press" href="Glossary/sport/press.dita" format="dita" print="yes"/>
         <glossref keys="gl-backlever" href="Glossary/sport/backlever.dita" format="dita" print="yes"/>
@@ -51,7 +50,6 @@
         <glossref keys="gl-pushups" href="Glossary/sport/pushups.dita" format="dita" print="yes"/>
         <glossref keys="gl-hspu" href="Glossary/sport/hspu.dita" format="dita" print="yes"/>
         <glossref keys="gl-rhspu" href="Glossary/sport/rhspu.dita" format="dita" print="yes"/>
-        <topicref href="pagebreak.dita"/>
         <glossref keys="gl-frontlever" href="Glossary/sport/frontlever.dita" format="dita" print="yes"/>
         <glossref keys="gl-rm" href="Glossary/sport/rm.dita" format="dita" print="yes"/>
         <glossref keys="gl-pullups" href="Glossary/sport/pullups.dita" format="dita" print="yes"/>

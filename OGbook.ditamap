@@ -44,7 +44,7 @@
       <topicref href="ch0/og-ch0-disclaimer.dita" toc="no"/>
       <topicref href="ch0/og-ch0-dedication.dita" toc="no"/>
       <topicref href="ch0/og-ch0-acknowledgments.dita" toc="no"/>
-      <topicref href="ch0/og-ch0-intro-translator.dita"/>
+      <!--topicref href="ch0/og-ch0-intro-translator.dita"/-->
       <topicref href="ch0/og-ch0-intro.dita"/>
     </preface>
     <keydef keys="topic_pagebreak" href="common/pagebreak.dita"/>
